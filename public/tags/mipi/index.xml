@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIPI on Developer Portal</title>
+    <link>http://localhost:1313/tags/mipi/</link>
+    <description>Recent content in MIPI on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mipi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Espressif SoCs and LCD screens: trends and solutions</title>
+      <link>http://localhost:1313/blog/espressif-socs-lcd-screens/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-socs-lcd-screens/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/espressif-socs-lcd-screens/featured-lcd-solution.webp" />
+    </item>
+    
+  </channel>
+</rss>

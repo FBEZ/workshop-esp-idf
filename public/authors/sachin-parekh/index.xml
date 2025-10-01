@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sachin Parekh on Developer Portal</title>
+    <link>http://localhost:1313/authors/sachin-parekh/</link>
+    <description>Recent content in Sachin Parekh on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/sachin-parekh/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Securely booting user application in ESP Privilege Separation</title>
+      <link>http://localhost:1313/blog/securely-booting-user-application-in-esp-privilege-separation/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/securely-booting-user-application-in-esp-privilege-separation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OTA Firmware Updates with ESP Privilege Separation</title>
+      <link>http://localhost:1313/blog/ota-firmware-updates-with-esp-privilege-separation/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ota-firmware-updates-with-esp-privilege-separation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introducing ESP Privilege Separation</title>
+      <link>http://localhost:1313/blog/introducing-esp-privilege-separation/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/introducing-esp-privilege-separation/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

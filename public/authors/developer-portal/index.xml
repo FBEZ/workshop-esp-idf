@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer Portal</title>
+    <link>http://localhost:1313/authors/developer-portal/</link>
+    <description>Recent content on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/developer-portal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP ZeroCode</title>
+      <link>http://localhost:1313/blog/esp-zerocode/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-zerocode/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Feb 2023</title>
+      <link>http://localhost:1313/blog/feb-2023/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/feb-2023/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>December 2022</title>
+      <link>http://localhost:1313/blog/december-2022/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/december-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>November 2022</title>
+      <link>http://localhost:1313/blog/november-2022/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/november-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>October 2022</title>
+      <link>http://localhost:1313/blog/october-2022/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/october-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>September 2022</title>
+      <link>http://localhost:1313/blog/september-2022/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/september-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Aug 2022</title>
+      <link>http://localhost:1313/blog/aug-2022/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/aug-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>July 2022</title>
+      <link>http://localhost:1313/blog/july-2022/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/july-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>June 2022</title>
+      <link>http://localhost:1313/blog/june-2022/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/june-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>May 2022</title>
+      <link>http://localhost:1313/blog/may-2022/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/may-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>April 2022</title>
+      <link>http://localhost:1313/blog/april-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/april-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>March 2022</title>
+      <link>http://localhost:1313/blog/march-2022/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/march-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Feb 2022</title>
+      <link>http://localhost:1313/blog/feb-2022/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/feb-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter</title>
+      <link>http://localhost:1313/blog/matter/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>November 2021</title>
+      <link>http://localhost:1313/blog/november-2021/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/november-2021/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>October 2021</title>
+      <link>http://localhost:1313/blog/october-2021/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/october-2021/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>September 2021</title>
+      <link>http://localhost:1313/blog/september-2021/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/september-2021/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>August 2021</title>
+      <link>http://localhost:1313/blog/august-2021/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/august-2021/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>June 2021</title>
+      <link>http://localhost:1313/blog/june-2021/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/june-2021/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>May 2021</title>
+      <link>http://localhost:1313/blog/may-2021/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/may-2021/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Apr 2021</title>
+      <link>http://localhost:1313/blog/apr-2021/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/apr-2021/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>March 2021</title>
+      <link>http://localhost:1313/blog/march-2021/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/march-2021/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jan 2021</title>
+      <link>http://localhost:1313/blog/jan-2021/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/jan-2021/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>December 2020</title>
+      <link>http://localhost:1313/blog/december-2020/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/december-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP RainMaker</title>
+      <link>http://localhost:1313/blog/esp-rainmaker/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>November 2020</title>
+      <link>http://localhost:1313/blog/november-2020/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/november-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>October 2020</title>
+      <link>http://localhost:1313/blog/october-2020/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/october-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>July 2020</title>
+      <link>http://localhost:1313/blog/july-2020/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/july-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>June 2020</title>
+      <link>http://localhost:1313/blog/june-2020/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/june-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>May 2020</title>
+      <link>http://localhost:1313/blog/may-2020/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/may-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>April 2020</title>
+      <link>http://localhost:1313/blog/april-2020/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/april-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>March 2020</title>
+      <link>http://localhost:1313/blog/march-2020/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/march-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>February 2020</title>
+      <link>http://localhost:1313/blog/february-2020/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/february-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CEO Letter: Feb 2020</title>
+      <link>http://localhost:1313/blog/ceo-letter-feb-2020/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ceo-letter-feb-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>January 2020</title>
+      <link>http://localhost:1313/blog/january-2020/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/january-2020/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>November 2019</title>
+      <link>http://localhost:1313/blog/november-2019/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/november-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>October 2019</title>
+      <link>http://localhost:1313/blog/october-2019/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/october-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>August 2019</title>
+      <link>http://localhost:1313/blog/august-2019/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/august-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>July 2019</title>
+      <link>http://localhost:1313/blog/july-2019/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/july-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>June 2019</title>
+      <link>http://localhost:1313/blog/june-2019/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/june-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>May 2019</title>
+      <link>http://localhost:1313/blog/may-2019/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/may-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>April 2019</title>
+      <link>http://localhost:1313/blog/april-2019/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/april-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>March 2019</title>
+      <link>http://localhost:1313/blog/march-2019/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/march-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>February 2019</title>
+      <link>http://localhost:1313/blog/february-2019/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/february-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>January 2019</title>
+      <link>http://localhost:1313/blog/january-2019/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/january-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>December 2018</title>
+      <link>http://localhost:1313/blog/december-2018/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/december-2018/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>November 2018</title>
+      <link>http://localhost:1313/blog/november-2018/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/november-2018/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Alexa</title>
+      <link>http://localhost:1313/blog/alexa/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/alexa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Amazon FreeRTOS</title>
+      <link>http://localhost:1313/blog/amazon-freertos/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/amazon-freertos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Apple HomeKit</title>
+      <link>http://localhost:1313/blog/apple-homekit/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/apple-homekit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Conversational Interfaces</title>
+      <link>http://localhost:1313/blog/conversational-interfaces/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/conversational-interfaces/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF</title>
+      <link>http://localhost:1313/blog/esp-idf/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-idf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>October 2018</title>
+      <link>http://localhost:1313/blog/october-2018/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/october-2018/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>September 2018</title>
+      <link>http://localhost:1313/blog/september-2018/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/september-2018/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>September 2018</title>
+      <link>http://localhost:1313/blog/september-2019/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/september-2019/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>August 2018</title>
+      <link>http://localhost:1313/blog/august-2018/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/august-2018/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>July 2018</title>
+      <link>http://localhost:1313/blog/july-2018/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/july-2018/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>June 2018</title>
+      <link>http://localhost:1313/blog/june-2018/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/june-2018/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif Receives Investment from Intel Capital and Beijing Singularity Power Investment Fund</title>
+      <link>http://localhost:1313/blog/espressif-receives-investment-from-intel-capital-and-beijing-singularity-power-investment-fund/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-receives-investment-from-intel-capital-and-beijing-singularity-power-investment-fund/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>April 2018</title>
+      <link>http://localhost:1313/blog/april-2018/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/april-2018/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>May 2018</title>
+      <link>http://localhost:1313/blog/may-2018/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/may-2018/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

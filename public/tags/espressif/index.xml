@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Espressif on Developer Portal</title>
+    <link>http://localhost:1313/tags/espressif/</link>
+    <description>Recent content in Espressif on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/espressif/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Zephyr Support Status</title>
+      <link>http://localhost:1313/software/zephyr-support-status/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/zephyr-support-status/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/software/zephyr-support-status/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Security in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/2025/03/security-in-esp-rainmaker/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/03/security-in-esp-rainmaker/</guid>
+      <description>This article provides a high level overview of the security architecture of the ESP RainMaker IoT platform, covering all aspects like device hardware and network security, client network security, authentication and access control, user-device mapping, cloud data security and certifications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/03/security-in-esp-rainmaker/featured-sec-rainmaker.webp" />
+    </item>
+    
+    <item>
+      <title>Introducing ESP LowCode Matter: Simplified Device Development</title>
+      <link>http://localhost:1313/blog/2025/02/introducing-esp-lowcode-matter/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/02/introducing-esp-lowcode-matter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/02/introducing-esp-lowcode-matter/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Using ESP-BSP with DevKits</title>
+      <link>http://localhost:1313/blog/using-esp-bsp-with-devkits/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/using-esp-bsp-with-devkits/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/using-esp-bsp-with-devkits/featured-bsp.webp" />
+    </item>
+    
+    <item>
+      <title>Command — Response Framework in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/command-response-framework-in-esp-rainmaker/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/command-response-framework-in-esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Secure boot with auto-signing in ESP RainMaker OTA</title>
+      <link>http://localhost:1313/blog/secure-boot-with-auto-signing-in-esp-rainmaker-ota/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/secure-boot-with-auto-signing-in-esp-rainmaker-ota/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to switch between multiple ESP32 firmware binaries stored in the flash memory</title>
+      <link>http://localhost:1313/blog/switch-between-firmware-binaries/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/switch-between-firmware-binaries/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/switch-between-firmware-binaries/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Build Embedded Swift Application for ESP32-C6</title>
+      <link>http://localhost:1313/blog/build-embedded-swift-application-for-esp32c6/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/build-embedded-swift-application-for-esp32c6/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/build-embedded-swift-application-for-esp32c6/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Simplify Your Embedded Projects with ESP-BSP</title>
+      <link>http://localhost:1313/blog/simplify-embedded-projects-with-esp-bsp/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/simplify-embedded-projects-with-esp-bsp/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/simplify-embedded-projects-with-esp-bsp/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Simplified Embedded Rust: A Comprehensive Guide to Embedded Rust Development</title>
+      <link>http://localhost:1313/blog/books-simplified-embedded-rust/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/books-simplified-embedded-rust/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/books-simplified-embedded-rust/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Meet the Espressif Developer Portal</title>
+      <link>http://localhost:1313/blog/meet-espressif-developer-portal/</link>
+      <pubDate>Mon, 13 May 2024 11:11:42 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/meet-espressif-developer-portal/</guid>
+      <description>This article introduces the Espressif Developer Portal, discusses its purpose, the expected content, and how we&amp;ndash;the community&amp;mdash;can contribute and collaborate.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/meet-espressif-developer-portal/featured.png" />
+    </item>
+    
+    <item>
+      <title>What’s New with ESP ZeroCode</title>
+      <link>http://localhost:1313/blog/whats-new-with-esp-zerocode/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/whats-new-with-esp-zerocode/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Announcing ESP ZeroCode ExL Module</title>
+      <link>http://localhost:1313/blog/esp-zerocode-exl-module-powered-by-aws-iot-expresslink-simplifying-matter-compatible/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-zerocode-exl-module-powered-by-aws-iot-expresslink-simplifying-matter-compatible/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP ZeroCode</title>
+      <link>http://localhost:1313/blog/esp-zerocode/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-zerocode/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OpenAI Component | Accelerating the integration of OpenAI APIs in projects</title>
+      <link>http://localhost:1313/blog/openai-component-accelerating-the-integration-of-openai-apis-in-projects/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/openai-component-accelerating-the-integration-of-openai-apis-in-projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Accelerate Your IoT Development with the Espressif WebIDE</title>
+      <link>http://localhost:1313/blog/accelerate-your-iot-development-with-the-espressif-webide/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/accelerate-your-iot-development-with-the-espressif-webide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to use Wokwi Simulator with Espressif-IDE</title>
+      <link>http://localhost:1313/blog/how-to-use-wokwi-simulator-with-espressif-ide/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/how-to-use-wokwi-simulator-with-espressif-ide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Accelerating Matter Device Manufacturing</title>
+      <link>http://localhost:1313/blog/accelerating-matter-device-manufacturing/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/accelerating-matter-device-manufacturing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>What’s New in Espressif-IDE 2.8.0 and a Way Forward</title>
+      <link>http://localhost:1313/blog/whats-new-in-espressif-ide-2-8-0-and-a-way-forward/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/whats-new-in-espressif-ide-2-8-0-and-a-way-forward/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hand Gesture Recognition on ESP32-S3 with ESP-Deep Learning</title>
+      <link>http://localhost:1313/blog/hand-gesture-recognition-on-esp32-s3-with-esp-deep-learning/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/hand-gesture-recognition-on-esp32-s3-with-esp-deep-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Custom Ethernet PHY Driver Quick Guide</title>
+      <link>http://localhost:1313/blog/esp-idf-custom-ethernet-phy-driver-quick-guide/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-idf-custom-ethernet-phy-driver-quick-guide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reducing costs and complexity for deploying connected devices with ESP-Hosted</title>
+      <link>http://localhost:1313/blog/reducing-costs-and-complexity-for-deploying-connected-devices-with-esp-hosted/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/reducing-costs-and-complexity-for-deploying-connected-devices-with-esp-hosted/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP32-C2 and Why It Matter-s</title>
+      <link>http://localhost:1313/blog/esp32-c2-and-why-it-matter-s/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-c2-and-why-it-matter-s/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP USB Bridge</title>
+      <link>http://localhost:1313/blog/esp-usb-bridge/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-usb-bridge/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter: Distributed Compliance Ledger (DCL)</title>
+      <link>http://localhost:1313/blog/matter-distributed-compliance-ledger-dcl/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-distributed-compliance-ledger-dcl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif IDE and What’s new in v2.4.0 — Part 1</title>
+      <link>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif IDE and What’s new in v2.4.0 — Part 2</title>
+      <link>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>What’s new in the ESP-IDF extension for VSCode</title>
+      <link>http://localhost:1313/blog/whats-new-in-the-esp-idf-extension-for-vscode/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/whats-new-in-the-esp-idf-extension-for-vscode/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Extending ESP RainMaker with “Services”</title>
+      <link>http://localhost:1313/blog/extending-esp-rainmaker-with-services/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/extending-esp-rainmaker-with-services/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter: Thread Border Router in Matter</title>
+      <link>http://localhost:1313/blog/matter-thread-border-router-in-matter/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-thread-border-router-in-matter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter: Bridge for Non-Matter Devices</title>
+      <link>http://localhost:1313/blog/matter-bridge-for-non-matter-devices/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-bridge-for-non-matter-devices/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Presenting the Advantages of ESP32-S3-BOX, Espressif’s AI Voice Development Kit</title>
+      <link>http://localhost:1313/blog/presenting-the-advantages-of-esp32-s3-box-espressifs-ai-voice-development-kit/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/presenting-the-advantages-of-esp32-s3-box-espressifs-ai-voice-development-kit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arduino ESP32 support version 2.0.0 is out!</title>
+      <link>http://localhost:1313/blog/arduino-esp32-support-version-2-0-0-is-out/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/arduino-esp32-support-version-2-0-0-is-out/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Releasing LTS of AWS IoT Device SDK for Embedded C on ESP32</title>
+      <link>http://localhost:1313/blog/support-for-lts-release-of-aws-iot-device-sdk-for-embedded-c-on-esp3/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/support-for-lts-release-of-aws-iot-device-sdk-for-embedded-c-on-esp3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>New Features in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/new-features-in-esp-rainmaker/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/new-features-in-esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP RainMaker now in Arduino</title>
+      <link>http://localhost:1313/blog/esp-rainmaker-now-in-arduino/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-rainmaker-now-in-arduino/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arduino for ESP32-S2 and ESP32-C3 is coming!</title>
+      <link>http://localhost:1313/blog/arduino-for-esp32-s2-and-esp32-c3-is-coming/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/arduino-for-esp32-s2-and-esp32-c3-is-coming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DFU — Using the native USB on ESP32-S2 for flashing the firmware</title>
+      <link>http://localhost:1313/blog/dfu-using-the-native-usb-on-esp32-s2-for-flashing-the-firmware/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/dfu-using-the-native-usb-on-esp32-s2-for-flashing-the-firmware/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/dfu-using-the-native-usb-on-esp32-s2-for-flashing-the-firmware/featured-dfu.webp" />
+    </item>
+    
+    <item>
+      <title>Zephyr RTOS on ESP32 — First Steps</title>
+      <link>http://localhost:1313/blog/zephyr-rtos-on-esp32-first-steps/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/zephyr-rtos-on-esp32-first-steps/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to use custom partition tables on ESP32</title>
+      <link>http://localhost:1313/blog/how-to-use-custom-partition-tables-on-esp32/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/how-to-use-custom-partition-tables-on-esp32/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/how-to-use-custom-partition-tables-on-esp32/featured-partition.webp" />
+    </item>
+    
+    <item>
+      <title>ESP32-S2: Digital Signature Peripheral</title>
+      <link>http://localhost:1313/blog/esp32-s2-digital-signature-peripheral/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-s2-digital-signature-peripheral/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP RainMaker</title>
+      <link>http://localhost:1313/blog/esp-rainmaker/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>3rd Party Integrations in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/3rd-party-integrations-in-esp-rainmaker/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/3rd-party-integrations-in-esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP32-S2 Is Here!</title>
+      <link>http://localhost:1313/blog/esp32-s2-is-here/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-s2-is-here/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>A CEO’s Experience During the COVID-19 Crisis — Part III : Looking Ahead</title>
+      <link>http://localhost:1313/blog/a-ceos-experience-during-the-covid-19-crisis-part-iii-looking-ahead/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/a-ceos-experience-during-the-covid-19-crisis-part-iii-looking-ahead/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>A CEO’s Experience During the nCoV Crisis — Part II : On the Ground</title>
+      <link>http://localhost:1313/blog/a-ceos-experience-during-the-ncov-crisis-part-ii-on-the-ground/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/a-ceos-experience-during-the-ncov-crisis-part-ii-on-the-ground/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>A CEO’s Experience During the nCoV Crisis — Part I: Safety First</title>
+      <link>http://localhost:1313/blog/a-ceos-experience-during-the-ncov-crisis-part-i-safety-first/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/a-ceos-experience-during-the-ncov-crisis-part-i-safety-first/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

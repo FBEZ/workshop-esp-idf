@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sachin Billore on Developer Portal</title>
+    <link>http://localhost:1313/authors/sachin-billore/</link>
+    <description>Recent content in Sachin Billore on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/sachin-billore/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RED DA Compliance (Part 2): Espressif’s Platform Support, Templates, and Pathways for Conformity</title>
+      <link>http://localhost:1313/blog/2025/07/esp32-red-da-en18031-compliance-guide-part2/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/07/esp32-red-da-en18031-compliance-guide-part2/</guid>
+      <description>Espressif is streamlining RED Delegated Act (RED-DA) compliance by providing pre-certified firmware platforms, documentation templates, and partner support to help developers meet the upcoming EN 18031 standard. With flexible pathways including self-declaration and third-party assessments, developers can accelerate EU market readiness for Aug 2025 and beyond.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/07/esp32-red-da-en18031-compliance-guide-part2/featured-esp32-red-da-compliance.webp" />
+    </item>
+    
+    <item>
+      <title>RED DA (EN 18031) Certification Compliance: What You Need to Know</title>
+      <link>http://localhost:1313/blog/2025/04/esp32-red-da-en18031-compliance-guide/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/04/esp32-red-da-en18031-compliance-guide/</guid>
+      <description>This guide helps manufacturers of wireless-enabled products based on Espressif modules understand the RED DA (EN 18031) cybersecurity requirements, identify their product’s category, and determine the right path to certification before launching in the EU market.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/04/esp32-red-da-en18031-compliance-guide/featured-esp32-red-da-compliance.webp" />
+    </item>
+    
+  </channel>
+</rss>

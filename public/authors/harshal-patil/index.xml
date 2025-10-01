@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harshal Patil on Developer Portal</title>
+    <link>http://localhost:1313/authors/harshal-patil/</link>
+    <description>Recent content in Harshal Patil on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/harshal-patil/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Boot Secure, Restore Smart: Accelerating Device Startup on ESP32</title>
+      <link>http://localhost:1313/blog/2025/07/faster-device-restoration/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/07/faster-device-restoration/</guid>
+      <description>Fast and secure device restoration during boot-up is critical for real-time IoT applications like smart lighting. In this article, we explore how to reduce boot-up delays by restoring device state early, directly from the ESP-IDF bootloader.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/07/faster-device-restoration/faster-device-state-restoration-featured.webp" />
+    </item>
+    
+    <item>
+      <title>Trying out ESP32-C3’s security features using QEMU</title>
+      <link>http://localhost:1313/blog/trying-out-esp32-c3s-security-features-using-qemu/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/trying-out-esp32-c3s-security-features-using-qemu/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

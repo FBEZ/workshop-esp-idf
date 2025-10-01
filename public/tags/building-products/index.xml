@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Building Products on Developer Portal</title>
+    <link>http://localhost:1313/tags/building-products/</link>
+    <description>Recent content in Building Products on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Sat, 13 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/building-products/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Local Network Access via HTTP Server</title>
+      <link>http://localhost:1313/blog/local-network-access-via-http-server/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/local-network-access-via-http-server/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wi-Fi Certification with ESP32</title>
+      <link>http://localhost:1313/blog/wi-fi-certification-with-esp32/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/wi-fi-certification-with-esp32/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Understanding ESP32’s Security Features</title>
+      <link>http://localhost:1313/blog/understanding-esp32s-security-features/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/understanding-esp32s-security-features/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Analysing Static Footprint</title>
+      <link>http://localhost:1313/blog/analysing-static-footprint/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/analysing-static-footprint/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Creating Unique Factory Data Images</title>
+      <link>http://localhost:1313/blog/creating-unique-factory-data-images/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/creating-unique-factory-data-images/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

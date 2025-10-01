@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Developer Portal</title>
+    <link>http://localhost:1313/tags/books/</link>
+    <description>Recent content in Books on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Book review: Developing IoT Projects with ESP32 (2nd Edition)</title>
+      <link>http://localhost:1313/blog/book-review-developing-iot-projects-with-esp32-2nd-edition/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/book-review-developing-iot-projects-with-esp32-2nd-edition/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

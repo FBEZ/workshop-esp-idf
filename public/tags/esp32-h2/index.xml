@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESP32-H2 on Developer Portal</title>
+    <link>http://localhost:1313/tags/esp32-h2/</link>
+    <description>Recent content in ESP32-H2 on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Thu, 27 Mar 2025 18:37:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/esp32-h2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP-Knob: A multifunctional smart controller with the ESP32-H2</title>
+      <link>http://localhost:1313/blog/2025/03/esp32h2-knob/</link>
+      <pubDate>Thu, 27 Mar 2025 18:37:17 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/03/esp32h2-knob/</guid>
+      <description>This article provides an overview of the ESP-Knob, its features, and functionality. It also details the hardware design and outlines the firmware framework that supports its operation.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/03/esp32h2-knob/Esp_knob_featured.webp" />
+    </item>
+    
+    <item>
+      <title>Espressif part numbers explained: A complete guide - Modules</title>
+      <link>http://localhost:1313/blog/2025/03/espressif-part-numbers-explained/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/03/espressif-part-numbers-explained/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/03/espressif-part-numbers-explained/featured-storage.webp" />
+    </item>
+    
+  </channel>
+</rss>

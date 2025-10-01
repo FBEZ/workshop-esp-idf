@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Developer Portal</title>
+    <link>http://localhost:1313/tags/aws/</link>
+    <description>Recent content in AWS on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Announcing ESP ZeroCode ExL Module</title>
+      <link>http://localhost:1313/blog/esp-zerocode-exl-module-powered-by-aws-iot-expresslink-simplifying-matter-compatible/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-zerocode-exl-module-powered-by-aws-iot-expresslink-simplifying-matter-compatible/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP ZeroCode</title>
+      <link>http://localhost:1313/blog/esp-zerocode/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-zerocode/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>December 2018</title>
+      <link>http://localhost:1313/blog/december-2018/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/december-2018/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP32 OTA Updates — Amazon FreeRTOS</title>
+      <link>http://localhost:1313/blog/esp32-ota-updates-amazon-freertos/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-ota-updates-amazon-freertos/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WS00A on Developer Portal</title>
+    <link>http://localhost:1313/series/ws00a/</link>
+    <description>Recent content in WS00A on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/ws00a/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 1.1</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-1-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-1-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 1.2</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-1-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-1-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 2.1</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-2-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-2-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 2.2</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-2-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-2-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 2.3 (Optional)</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-2-3/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-2-3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 3.1</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-3-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-3-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 3.2</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-3-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-3-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 3.3</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-3-3/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-3-3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Lecture 1</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/lecture-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/lecture-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Lecture 2</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/lecture-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/lecture-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Lecture 3</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/lecture-3/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/lecture-3/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

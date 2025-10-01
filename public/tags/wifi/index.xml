@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wifi on Developer Portal</title>
+    <link>http://localhost:1313/tags/wifi/</link>
+    <description>Recent content in Wifi on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wireless Connectivity Solutions for ESP32-P4</title>
+      <link>http://localhost:1313/blog/wireless-connectivity-solutions-for-esp32-p4/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/wireless-connectivity-solutions-for-esp32-p4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reducing costs and complexity for deploying connected devices with ESP-Hosted</title>
+      <link>http://localhost:1313/blog/reducing-costs-and-complexity-for-deploying-connected-devices-with-esp-hosted/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/reducing-costs-and-complexity-for-deploying-connected-devices-with-esp-hosted/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF</title>
+      <link>http://localhost:1313/blog/esp-idf/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-idf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Local Network Access via HTTP Server</title>
+      <link>http://localhost:1313/blog/local-network-access-via-http-server/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/local-network-access-via-http-server/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wi-Fi Certification with ESP32</title>
+      <link>http://localhost:1313/blog/wi-fi-certification-with-esp32/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/wi-fi-certification-with-esp32/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

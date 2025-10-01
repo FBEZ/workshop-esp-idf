@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcement on Developer Portal</title>
+    <link>http://localhost:1313/tags/announcement/</link>
+    <description>Recent content in Announcement on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 10 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Espressif DevCon25</title>
+      <link>http://localhost:1313/events/devcon25/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/devcon25/</guid>
+      <description>The next edition of the Espressif DevCon is coming! This announcement reveals the official dates for DevCon25 — two days of 12 unique talks, live online. Learn directly from Espressif experts and the community, and gain insights to power your next project.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/devcon25/featured-devcon25.webp" />
+    </item>
+    
+    <item>
+      <title>Genesis IoT Discovery Lab – A Plug-and-Play Classroom Built on ESP32-S3</title>
+      <link>http://localhost:1313/blog/2025/06/modular-esp32s3-prototyping-platform-genesis/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/06/modular-esp32s3-prototyping-platform-genesis/</guid>
+      <description>Genesis turns the ESP32-S3 into a modular playground with snap-in AX22 modules for prototyping, teaching, and creative hardware experimentation.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/06/modular-esp32s3-prototyping-platform-genesis/featured-genesis-hero.webp" />
+    </item>
+    
+    <item>
+      <title>Espressif Summit Brazil 2025</title>
+      <link>http://localhost:1313/events/summit-brazil-25/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/summit-brazil-25/</guid>
+      <description>On August 5th and 6th 2025, Campinas (Brazil) will host the second edition of the Espressif Summit Brazil, featuring talks, workshops, and exhibitions focused on IoT, digital security, hardware, software, and connectivity.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/summit-brazil-25/summit-featured.webp" />
+    </item>
+    
+    <item>
+      <title>esp-hal 1.0.0 beta announcement</title>
+      <link>http://localhost:1313/blog/2025/02/rust-esp-hal-beta/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/02/rust-esp-hal-beta/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Meeting ESP komunity - podzimní edice 2024</title>
+      <link>http://localhost:1313/events/community-autumn-24-czechia-brno/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/community-autumn-24-czechia-brno/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/community-autumn-24-czechia-brno/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Espressif DevCon24</title>
+      <link>http://localhost:1313/events/devcon24/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/devcon24/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/devcon24/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Espressif Summit Brazil 2024</title>
+      <link>http://localhost:1313/events/summit-brazil-24/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/events/summit-brazil-24/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/events/summit-brazil-24/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Meet the Espressif Developer Portal</title>
+      <link>http://localhost:1313/blog/meet-espressif-developer-portal/</link>
+      <pubDate>Mon, 13 May 2024 11:11:42 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/meet-espressif-developer-portal/</guid>
+      <description>This article introduces the Espressif Developer Portal, discusses its purpose, the expected content, and how we&amp;ndash;the community&amp;mdash;can contribute and collaborate.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/meet-espressif-developer-portal/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

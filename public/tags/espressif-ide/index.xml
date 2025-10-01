@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Espressif IDE on Developer Portal</title>
+    <link>http://localhost:1313/tags/espressif-ide/</link>
+    <description>Recent content in Espressif IDE on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/espressif-ide/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub Copilot Now in Espressif-IDE with Copilot4Eclipse</title>
+      <link>http://localhost:1313/blog/2025/02/github-copilot-in-espressif-ide/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/02/github-copilot-in-espressif-ide/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/02/github-copilot-in-espressif-ide/featured-copilot.webp" />
+    </item>
+    
+    <item>
+      <title>New Release: Espressif IDE 3.1.0</title>
+      <link>http://localhost:1313/blog/espressif-ide/espressif-ide-3-1-0-release/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide/espressif-ide-3-1-0-release/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif-IDE v3.0.0 — LSP Support for C/C&#43;&#43; Editor</title>
+      <link>http://localhost:1313/blog/espressif-ide-lsp-support/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide-lsp-support/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/espressif-ide-lsp-support/featured-lsp.webp" />
+    </item>
+    
+    <item>
+      <title>ESP-IDF with ESP32-C6 Workshop</title>
+      <link>http://localhost:1313/workshops/esp-idf-with-esp32-c6/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-with-esp32-c6/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif-IDE Workshop</title>
+      <link>http://localhost:1313/workshops/espressif-ide/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/workshops/espressif-ide/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/workshops/espressif-ide/featured.webp" />
+    </item>
+    
+    <item>
+      <title>How to use Wokwi Simulator with Espressif-IDE</title>
+      <link>http://localhost:1313/blog/how-to-use-wokwi-simulator-with-espressif-ide/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/how-to-use-wokwi-simulator-with-espressif-ide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>What’s New in Espressif-IDE 2.8.0 and a Way Forward</title>
+      <link>http://localhost:1313/blog/whats-new-in-espressif-ide-2-8-0-and-a-way-forward/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/whats-new-in-espressif-ide-2-8-0-and-a-way-forward/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif IDE and What’s new in v2.4.0 — Part 1</title>
+      <link>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif IDE and What’s new in v2.4.0 — Part 2</title>
+      <link>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-2/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESP-Rainmaker on Developer Portal</title>
+    <link>http://localhost:1313/tags/esp-rainmaker/</link>
+    <description>Recent content in ESP-Rainmaker on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/esp-rainmaker/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Security in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/2025/03/security-in-esp-rainmaker/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/03/security-in-esp-rainmaker/</guid>
+      <description>This article provides a high level overview of the security architecture of the ESP RainMaker IoT platform, covering all aspects like device hardware and network security, client network security, authentication and access control, user-device mapping, cloud data security and certifications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/03/security-in-esp-rainmaker/featured-sec-rainmaker.webp" />
+    </item>
+    
+    <item>
+      <title>DIY Smart Electric Toothbrush using ESP32-C2 and RainMaker</title>
+      <link>http://localhost:1313/blog/esp32c2-smart-electric-toothbrush/</link>
+      <pubDate>Thu, 22 Aug 2024 17:00:17 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32c2-smart-electric-toothbrush/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/esp32c2-smart-electric-toothbrush/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Command — Response Framework in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/command-response-framework-in-esp-rainmaker/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/command-response-framework-in-esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>A CEO’s Experience During the COVID-19 Crisis — Part III : Looking Ahead</title>
+      <link>http://localhost:1313/blog/a-ceos-experience-during-the-covid-19-crisis-part-iii-looking-ahead/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/a-ceos-experience-during-the-covid-19-crisis-part-iii-looking-ahead/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>A CEO’s Experience During the nCoV Crisis — Part I: Safety First</title>
+      <link>http://localhost:1313/blog/a-ceos-experience-during-the-ncov-crisis-part-i-safety-first/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/a-ceos-experience-during-the-ncov-crisis-part-i-safety-first/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

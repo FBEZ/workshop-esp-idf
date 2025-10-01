@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESP-GMF on Developer Portal</title>
+    <link>http://localhost:1313/tags/esp-gmf/</link>
+    <description>Recent content in ESP-GMF on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/esp-gmf/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Comprehensive Overview of Espressif&#39;s Audio Effects library</title>
+      <link>http://localhost:1313/blog/2025/07/overview-of-esp-audio-effects/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/07/overview-of-esp-audio-effects/</guid>
+      <description>This article explores the features and capabilities of ESP-Audio-Effects, a powerful audio processing library from Espressif. It introduces core function such as ALC, Equalizer, Mixer, Sonic, DRC, and more, and demonstrates how they integrate into the GMF (General Multimedia Framework) pipeline. With support for flexible configuration, interleaved and deinterleaved formats, and a unified API style, this library empowers developers to build robust and customizable audio processing applications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/07/overview-of-esp-audio-effects/featured-esp-audio-effects.webp" />
+    </item>
+    
+    <item>
+      <title>Introduction to ESP FOURCC</title>
+      <link>http://localhost:1313/blog/2025/04/esp-fourcc-introduction/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/04/esp-fourcc-introduction/</guid>
+      <description>This article explores ESP FOURCC standard based on FOURCC (Four Character Code), a standardized 32-bit identifier used in multimedia for format consistency, reducing conversion overhead and debugging complexity. It highlights Espressif implementation in ESP-GMF, where &lt;code&gt;esp_fourcc.h&lt;/code&gt; defines FOURCC values for video, audio, container, image, and pixel formats, optimizing efficiency in embedded systems.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/04/esp-fourcc-introduction/featured-esp-fourcc.webp" />
+    </item>
+    
+  </channel>
+</rss>

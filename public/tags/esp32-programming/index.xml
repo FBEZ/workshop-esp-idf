@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esp32 Programming on Developer Portal</title>
+    <link>http://localhost:1313/tags/esp32-programming/</link>
+    <description>Recent content in Esp32 Programming on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/esp32-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Memory Availability Comparison between ESP32 and ESP32-C3</title>
+      <link>http://localhost:1313/blog/memory-availability-comparison-between-esp32-and-esp32-c3/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/memory-availability-comparison-between-esp32-and-esp32-c3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP32 Programmers’ Memory Model</title>
+      <link>http://localhost:1313/blog/esp32-programmers-memory-model/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-programmers-memory-model/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OTA Firmware Upgrades with ESP RainMaker</title>
+      <link>http://localhost:1313/blog/ota-firmware-upgrades-with-esp-rainmaker/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ota-firmware-upgrades-with-esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

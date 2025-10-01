@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Developer Portal</title>
+    <link>http://localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introducing ESP32-P4-EYE: A Powerful Vision Development Board for Edge AI</title>
+      <link>http://localhost:1313/blog/2025/05/introducing-p4-eye/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/05/introducing-p4-eye/</guid>
+      <description>Discover the ESP32-P4 EYE DevKit — a compact, camera-focused development board designed for real-time image processing and edge computing. Learn how this powerful, low-cost solution can accelerate your next smart camera or IoT project.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/05/introducing-p4-eye/featured-p4_eye_front.webp" />
+    </item>
+    
+    <item>
+      <title>Alexa</title>
+      <link>http://localhost:1313/blog/alexa/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/alexa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Amazon FreeRTOS</title>
+      <link>http://localhost:1313/blog/amazon-freertos/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/amazon-freertos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Conversational Interfaces</title>
+      <link>http://localhost:1313/blog/conversational-interfaces/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/conversational-interfaces/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF</title>
+      <link>http://localhost:1313/blog/esp-idf/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-idf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP32: TLS (Transport Layer Security) And IoT Devices</title>
+      <link>http://localhost:1313/blog/esp32-tls-transport-layer-security-and-iot-devices/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-tls-transport-layer-security-and-iot-devices/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

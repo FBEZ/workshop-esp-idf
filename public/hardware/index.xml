@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on Developer Portal</title>
+    <link>http://localhost:1313/hardware/</link>
+    <description>Recent content in Hardware on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hardware/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-C5 v1.0 status</title>
+      <link>http://localhost:1313/hardware/esp32c5/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hardware/esp32c5/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hardware/esp32c5/featured-esp32-c5.webp" />
+    </item>
+    
+    <item>
+      <title>ESP32-C61 status</title>
+      <link>http://localhost:1313/hardware/esp32c61/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hardware/esp32c61/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hardware/esp32c61/esp-new-featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

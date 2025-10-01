@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LP-Core on Developer Portal</title>
+    <link>http://localhost:1313/tags/lp-core/</link>
+    <description>Recent content in LP-Core on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 02 Apr 2025 14:05:59 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/lp-core/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building low power applications on Espressif chips: Ultra-Low-Power (ULP) coprocessor</title>
+      <link>http://localhost:1313/blog/2025/04/ulp-lp-core-get-started/</link>
+      <pubDate>Wed, 02 Apr 2025 14:05:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/04/ulp-lp-core-get-started/</guid>
+      <description>In this article, we’ll start with a quick overview of Ultra Low Power coprocessors (ULPs) in Espressif chips and how they can significantly reduce power consumption in your applications. Then, we’ll walk through a tutorial on how to use ULPs in practice!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/04/ulp-lp-core-get-started/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

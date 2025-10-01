@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matter on Developer Portal</title>
+    <link>http://localhost:1313/tags/matter/</link>
+    <description>Recent content in Matter on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/matter/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building Hardware-Enforced Trust into Matter Devices with ESP-TEE</title>
+      <link>http://localhost:1313/blog/2025/09/matter_w_esp_tee_c6/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/09/matter_w_esp_tee_c6/</guid>
+      <description>As security expectations rise globally - driven by region-specific cybersecurity regulations - safeguarding device credentials has become critical for IoT manufacturers. This article explains how the ESP-TEE framework integrates with Matter and demonstrates building secure products using the Espressif RISC-V SoCs, showcasing hardware-enforced security that can resist scalable remote software attacks.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/09/matter_w_esp_tee_c6/featured-esp-matter-w-tee.webp" />
+    </item>
+    
+    <item>
+      <title>ESP-Knob: A multifunctional smart controller with the ESP32-H2</title>
+      <link>http://localhost:1313/blog/2025/03/esp32h2-knob/</link>
+      <pubDate>Thu, 27 Mar 2025 18:37:17 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/03/esp32h2-knob/</guid>
+      <description>This article provides an overview of the ESP-Knob, its features, and functionality. It also details the hardware design and outlines the firmware framework that supports its operation.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/03/esp32h2-knob/Esp_knob_featured.webp" />
+    </item>
+    
+    <item>
+      <title>Introducing ESP LowCode Matter: Simplified Device Development</title>
+      <link>http://localhost:1313/blog/2025/02/introducing-esp-lowcode-matter/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/02/introducing-esp-lowcode-matter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/02/introducing-esp-lowcode-matter/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Matter: Improvements to Espressif DAC Provisioning Service</title>
+      <link>http://localhost:1313/blog/matter-improvements-to-espressif-dac-provisioning-service/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-improvements-to-espressif-dac-provisioning-service/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Announcing ESP ZeroCode ExL Module</title>
+      <link>http://localhost:1313/blog/esp-zerocode-exl-module-powered-by-aws-iot-expresslink-simplifying-matter-compatible/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-zerocode-exl-module-powered-by-aws-iot-expresslink-simplifying-matter-compatible/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter and Certificate Revocation</title>
+      <link>http://localhost:1313/blog/matter-and-certificate-revocation/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-and-certificate-revocation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Announcing ESP ZeroCode</title>
+      <link>http://localhost:1313/blog/announcing-esp-zerocode/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/announcing-esp-zerocode/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Build affordable Secure connected devices with ESP32-H2</title>
+      <link>http://localhost:1313/blog/build-affordable-secure-connected-devices-with-esp32-h2/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/build-affordable-secure-connected-devices-with-esp32-h2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Accelerating Matter Device Manufacturing</title>
+      <link>http://localhost:1313/blog/accelerating-matter-device-manufacturing/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/accelerating-matter-device-manufacturing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter: Distributed Compliance Ledger (DCL)</title>
+      <link>http://localhost:1313/blog/matter-distributed-compliance-ledger-dcl/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-distributed-compliance-ledger-dcl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter Security Model</title>
+      <link>http://localhost:1313/blog/matter-security-model/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-security-model/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter: Multi-Admin, Identifiers, and Fabrics</title>
+      <link>http://localhost:1313/blog/matter-multi-admin-identifiers-and-fabrics/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-multi-admin-identifiers-and-fabrics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter: Thread Border Router in Matter</title>
+      <link>http://localhost:1313/blog/matter-thread-border-router-in-matter/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-thread-border-router-in-matter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter: Bridge for Non-Matter Devices</title>
+      <link>http://localhost:1313/blog/matter-bridge-for-non-matter-devices/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-bridge-for-non-matter-devices/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter: Device-to-Device Automations</title>
+      <link>http://localhost:1313/blog/matter-device-to-device-automations/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-device-to-device-automations/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter</title>
+      <link>http://localhost:1313/blog/matter/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matter: Clusters, Attributes, Commands</title>
+      <link>http://localhost:1313/blog/matter-clusters-attributes-commands/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-clusters-attributes-commands/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>What does Matter mean to you?</title>
+      <link>http://localhost:1313/blog/what-does-matter-mean-to-you/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/what-does-matter-mean-to-you/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Announcing Matter (previously ‘CHIP’) on ESP32</title>
+      <link>http://localhost:1313/blog/announcing-matter-previously-chip-on-esp32/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/announcing-matter-previously-chip-on-esp32/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

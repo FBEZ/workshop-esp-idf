@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Piyush Shah on Developer Portal</title>
+    <link>http://localhost:1313/authors/piyush-shah/</link>
+    <description>Recent content in Piyush Shah on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/piyush-shah/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introducing ESP RainMaker MCP Server</title>
+      <link>http://localhost:1313/blog/2025/07/esp-rainmaker-mcp-server/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/07/esp-rainmaker-mcp-server/</guid>
+      <description>ESP RainMaker now supports the Model Context Protocol (MCP), enabling natural language interactions with your IoT devices via tools like Claude, Cursor, Gemini CLI, Windsurf, etc. This blog introduces the new stdio-based MCP server, outlines use cases, and hints at what’s next.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/07/esp-rainmaker-mcp-server/featured-rainmaker-mcp.webp" />
+    </item>
+    
+    <item>
+      <title>Security in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/2025/03/security-in-esp-rainmaker/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/03/security-in-esp-rainmaker/</guid>
+      <description>This article provides a high level overview of the security architecture of the ESP RainMaker IoT platform, covering all aspects like device hardware and network security, client network security, authentication and access control, user-device mapping, cloud data security and certifications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/03/security-in-esp-rainmaker/featured-sec-rainmaker.webp" />
+    </item>
+    
+    <item>
+      <title>Command — Response Framework in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/command-response-framework-in-esp-rainmaker/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/command-response-framework-in-esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Secure boot with auto-signing in ESP RainMaker OTA</title>
+      <link>http://localhost:1313/blog/secure-boot-with-auto-signing-in-esp-rainmaker-ota/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/secure-boot-with-auto-signing-in-esp-rainmaker-ota/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Extending ESP RainMaker with “Services”</title>
+      <link>http://localhost:1313/blog/extending-esp-rainmaker-with-services/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/extending-esp-rainmaker-with-services/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>New Features in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/new-features-in-esp-rainmaker/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/new-features-in-esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP RainMaker now in Arduino</title>
+      <link>http://localhost:1313/blog/esp-rainmaker-now-in-arduino/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-rainmaker-now-in-arduino/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>3rd Party Integrations in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/3rd-party-integrations-in-esp-rainmaker/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/3rd-party-integrations-in-esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OTA Firmware Upgrades with ESP RainMaker</title>
+      <link>http://localhost:1313/blog/ota-firmware-upgrades-with-esp-rainmaker/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ota-firmware-upgrades-with-esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

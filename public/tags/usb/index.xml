@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>USB on Developer Portal</title>
+    <link>http://localhost:1313/tags/usb/</link>
+    <description>Recent content in USB on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/usb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Working with Espressif&#39;s SoCs using WSL2</title>
+      <link>http://localhost:1313/blog/espressif-devkits-with-wsl2/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-devkits-with-wsl2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/espressif-devkits-with-wsl2/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Multi-function USB Dongle based on ESP32-S3</title>
+      <link>http://localhost:1313/blog/multi-function-usb-dongle-based-on-esp32-s3/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/multi-function-usb-dongle-based-on-esp32-s3/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/multi-function-usb-dongle-based-on-esp32-s3/featured-dongle.webp" />
+    </item>
+    
+    <item>
+      <title>ESP USB Bridge</title>
+      <link>http://localhost:1313/blog/esp-usb-bridge/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-usb-bridge/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arduino ESP32 support version 2.0.0 is out!</title>
+      <link>http://localhost:1313/blog/arduino-esp32-support-version-2-0-0-is-out/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/arduino-esp32-support-version-2-0-0-is-out/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DFU — Using the native USB on ESP32-S2 for flashing the firmware</title>
+      <link>http://localhost:1313/blog/dfu-using-the-native-usb-on-esp32-s2-for-flashing-the-firmware/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/dfu-using-the-native-usb-on-esp32-s2-for-flashing-the-firmware/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/dfu-using-the-native-usb-on-esp32-s2-for-flashing-the-firmware/featured-dfu.webp" />
+    </item>
+    
+  </channel>
+</rss>

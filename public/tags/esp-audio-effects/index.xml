@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esp-Audio-Effects on Developer Portal</title>
+    <link>http://localhost:1313/tags/esp-audio-effects/</link>
+    <description>Recent content in Esp-Audio-Effects on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/esp-audio-effects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Comprehensive Overview of Espressif&#39;s Audio Effects library</title>
+      <link>http://localhost:1313/blog/2025/07/overview-of-esp-audio-effects/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/07/overview-of-esp-audio-effects/</guid>
+      <description>This article explores the features and capabilities of ESP-Audio-Effects, a powerful audio processing library from Espressif. It introduces core function such as ALC, Equalizer, Mixer, Sonic, DRC, and more, and demonstrates how they integrate into the GMF (General Multimedia Framework) pipeline. With support for flexible configuration, interleaved and deinterleaved formats, and a unified API style, this library empowers developers to build robust and customizable audio processing applications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/07/overview-of-esp-audio-effects/featured-esp-audio-effects.webp" />
+    </item>
+    
+  </channel>
+</rss>

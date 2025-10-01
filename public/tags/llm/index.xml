@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLM on Developer Portal</title>
+    <link>http://localhost:1313/tags/llm/</link>
+    <description>Recent content in LLM on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introducing ESP RainMaker MCP Server</title>
+      <link>http://localhost:1313/blog/2025/07/esp-rainmaker-mcp-server/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/07/esp-rainmaker-mcp-server/</guid>
+      <description>ESP RainMaker now supports the Model Context Protocol (MCP), enabling natural language interactions with your IoT devices via tools like Claude, Cursor, Gemini CLI, Windsurf, etc. This blog introduces the new stdio-based MCP server, outlines use cases, and hints at what’s next.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/07/esp-rainmaker-mcp-server/featured-rainmaker-mcp.webp" />
+    </item>
+    
+  </channel>
+</rss>

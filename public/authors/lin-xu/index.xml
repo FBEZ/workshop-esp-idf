@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lin Xu on Developer Portal</title>
+    <link>http://localhost:1313/authors/lin-xu/</link>
+    <description>Recent content in Lin Xu on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/lin-xu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introducing ESP_NEW_JPEG: An Efficient JPEG Encoder and Decoder</title>
+      <link>http://localhost:1313/blog/2025/09/esp-new-jpeg-introduction/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/09/esp-new-jpeg-introduction/</guid>
+      <description>The ESP_NEW_JPEG library from Espressif enables efficient JPEG encoding and decoding on embedded devices. This article introduces the main features of ESP_NEW_JPEG &amp;ndash; including image rotation, clipping, scaling, and block mode &amp;ndash; and shares key usage tips for developers.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/09/esp-new-jpeg-introduction/featured-esp-new-jpeg.webp" />
+    </item>
+    
+  </channel>
+</rss>

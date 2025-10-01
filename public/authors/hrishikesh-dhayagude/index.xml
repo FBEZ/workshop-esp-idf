@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hrishikesh Dhayagude on Developer Portal</title>
+    <link>http://localhost:1313/authors/hrishikesh-dhayagude/</link>
+    <description>Recent content in Hrishikesh Dhayagude on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/hrishikesh-dhayagude/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Matter: Device-to-Device Automations</title>
+      <link>http://localhost:1313/blog/matter-device-to-device-automations/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/matter-device-to-device-automations/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Announcing Matter (previously ‘CHIP’) on ESP32</title>
+      <link>http://localhost:1313/blog/announcing-matter-previously-chip-on-esp32/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/announcing-matter-previously-chip-on-esp32/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Preview Release: NimBLE support in ESP-IDF</title>
+      <link>http://localhost:1313/blog/preview-release-nimble-support-in-esp-idf/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/preview-release-nimble-support-in-esp-idf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Embedding Voice into Devices with ESP32</title>
+      <link>http://localhost:1313/blog/embedding-voice-into-devices-with-esp32/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/embedding-voice-into-devices-with-esp32/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

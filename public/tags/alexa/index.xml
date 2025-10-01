@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexa on Developer Portal</title>
+    <link>http://localhost:1313/tags/alexa/</link>
+    <description>Recent content in Alexa on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/alexa/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3rd Party Integrations in ESP RainMaker</title>
+      <link>http://localhost:1313/blog/3rd-party-integrations-in-esp-rainmaker/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/3rd-party-integrations-in-esp-rainmaker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Alexa</title>
+      <link>http://localhost:1313/blog/alexa/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/alexa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif’s Alexa SDK v1.0b1!</title>
+      <link>http://localhost:1313/blog/espressifs-alexa-sdk-v1/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressifs-alexa-sdk-v1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anatomy of a Voice-Integrated Device</title>
+      <link>http://localhost:1313/blog/anatomy-of-a-voice-integrated-device/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/anatomy-of-a-voice-integrated-device/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Running Alexa CPP SDK on ESP32</title>
+      <link>http://localhost:1313/blog/running-alexa-cpp-sdk-on-esp32/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/running-alexa-cpp-sdk-on-esp32/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

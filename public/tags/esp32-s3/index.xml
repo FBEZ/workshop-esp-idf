@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESP32-S3 on Developer Portal</title>
+    <link>http://localhost:1313/tags/esp32-s3/</link>
+    <description>Recent content in ESP32-S3 on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/esp32-s3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building Smarter Camera Applications with esp-video</title>
+      <link>http://localhost:1313/blog/2025/09/esp-video-introduction/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/09/esp-video-introduction/</guid>
+      <description>The esp-video component provides a solution to build camera applications on the ESP32 chips. This article will introduce the esp-video component, how to use it, and will give an overview of the framework around it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/09/esp-video-introduction/featured-esp32-p4-eye.webp" />
+    </item>
+    
+    <item>
+      <title>Introducing ESP_NEW_JPEG: An Efficient JPEG Encoder and Decoder</title>
+      <link>http://localhost:1313/blog/2025/09/esp-new-jpeg-introduction/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/09/esp-new-jpeg-introduction/</guid>
+      <description>The ESP_NEW_JPEG library from Espressif enables efficient JPEG encoding and decoding on embedded devices. This article introduces the main features of ESP_NEW_JPEG &amp;ndash; including image rotation, clipping, scaling, and block mode &amp;ndash; and shares key usage tips for developers.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/09/esp-new-jpeg-introduction/featured-esp-new-jpeg.webp" />
+    </item>
+    
+    <item>
+      <title>ESP H.264 Practical Usage Guide</title>
+      <link>http://localhost:1313/blog/2025/07/esp-h264-use-tips/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/07/esp-h264-use-tips/</guid>
+      <description>This article introduces Espressif&amp;rsquo;s esp_h264 component, a lightweight H.264 codec optimized for embedded devices. It shows how to leverage hardware acceleration, implement efficient video processing, and optimize performance for various applications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/07/esp-h264-use-tips/featured-esp-h264.webp" />
+    </item>
+    
+    <item>
+      <title>Simple Boot explained</title>
+      <link>http://localhost:1313/blog/2025/06/simple-boot-explained/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/06/simple-boot-explained/</guid>
+      <description>In this article, we explore a simplified ESP32 boot process using single-image binaries to speed up build and flash times — ideal for development workflows. This approach sacrifices features like OTA updates but enables faster iteration.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/06/simple-boot-explained/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Genesis IoT Discovery Lab – A Plug-and-Play Classroom Built on ESP32-S3</title>
+      <link>http://localhost:1313/blog/2025/06/modular-esp32s3-prototyping-platform-genesis/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/06/modular-esp32s3-prototyping-platform-genesis/</guid>
+      <description>Genesis turns the ESP32-S3 into a modular playground with snap-in AX22 modules for prototyping, teaching, and creative hardware experimentation.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/06/modular-esp32s3-prototyping-platform-genesis/featured-genesis-hero.webp" />
+    </item>
+    
+    <item>
+      <title>Debugging with ESP-IDF VS Code extension: Part 2</title>
+      <link>http://localhost:1313/blog/2025/06/debugging-with-vscode-part-2/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/06/debugging-with-vscode-part-2/</guid>
+      <description>This two-part guide shows how to set up VS Code with the ESP-IDF extension to debug Espressif boards using JTAG. In this second part, we will debug a simple project using gdb through Espressif&amp;rsquo;s VSCode extension. We will explore the debugging options for navigating the code and inspecting the variables.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/06/debugging-with-vscode-part-2/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Debugging with ESP-IDF VS Code extension: Part 1</title>
+      <link>http://localhost:1313/blog/2025/05/debugging-with-vscode/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/05/debugging-with-vscode/</guid>
+      <description>This two-part guide shows how to set up VS Code with the ESP-IDF extension to debug Espressif boards using JTAG. This first part covers the debugging process, hardware setup and connections, and starting the openOCD server.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/05/debugging-with-vscode/featured.webp" />
+    </item>
+    
+    <item>
+      <title>ESP-SparkBot：Large Language Model Robot with ESP32-S3</title>
+      <link>http://localhost:1313/blog/2025/04/esp32-s3-sparkbot/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/04/esp32-s3-sparkbot/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/04/esp32-s3-sparkbot/ESP-SparkBot-featured.webp" />
+    </item>
+    
+    <item>
+      <title>Bevy Entity Component System on ESP32 with Rust no_std</title>
+      <link>http://localhost:1313/blog/2025/04/bevy-ecs-on-esp32-with-rust-no-std/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/04/bevy-ecs-on-esp32-with-rust-no-std/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/04/bevy-ecs-on-esp32-with-rust-no-std/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Espressif part numbers explained: A complete guide - Modules</title>
+      <link>http://localhost:1313/blog/2025/03/espressif-part-numbers-explained/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/03/espressif-part-numbers-explained/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/03/espressif-part-numbers-explained/featured-storage.webp" />
+    </item>
+    
+    <item>
+      <title>Working with ESP-IDF in CLion</title>
+      <link>http://localhost:1313/blog/clion/</link>
+      <pubDate>Thu, 13 Mar 2025 16:53:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/clion/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/clion/cl-cover-featured.webp" />
+    </item>
+    
+    <item>
+      <title>Running Python on ESP32-S3 with NuttX</title>
+      <link>http://localhost:1313/blog/2025/03/nuttx-python-esp32s3/</link>
+      <pubDate>Fri, 07 Mar 2025 08:00:00 -0300</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/03/nuttx-python-esp32s3/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/03/nuttx-python-esp32s3/featured-nuttx_python.webp" />
+    </item>
+    
+    <item>
+      <title>Enabling External PSRAM for Zephyr Applications on ESP32 SoCs</title>
+      <link>http://localhost:1313/blog/2024/12/zephyr-how-to-use-psram/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2024/12/zephyr-how-to-use-psram/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2024/12/zephyr-how-to-use-psram/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Data transmission reliability over ESP-NOW protocol in indoor environment</title>
+      <link>http://localhost:1313/blog/reliability-esp-now/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/reliability-esp-now/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/reliability-esp-now/featured-indoor.webp" />
+    </item>
+    
+    <item>
+      <title>Explore the PIE capabilities on the ESP32-P4</title>
+      <link>http://localhost:1313/blog/2024/12/pie-introduction/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2024/12/pie-introduction/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2024/12/pie-introduction/featured-pie.webp" />
+    </item>
+    
+    <item>
+      <title>ESP32 bootstrapping in Zephyr</title>
+      <link>http://localhost:1313/blog/esp32-bootstrapping/</link>
+      <pubDate>Wed, 30 Oct 2024 10:18:10 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-bootstrapping/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/esp32-bootstrapping/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Multi-function USB Dongle based on ESP32-S3</title>
+      <link>http://localhost:1313/blog/multi-function-usb-dongle-based-on-esp32-s3/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/multi-function-usb-dongle-based-on-esp32-s3/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/multi-function-usb-dongle-based-on-esp32-s3/featured-dongle.webp" />
+    </item>
+    
+    <item>
+      <title>How to Create an UI Application for the ESP32-S3</title>
+      <link>http://localhost:1313/blog/how-to-create-an-ui-application-for-the-esp32-s3/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/how-to-create-an-ui-application-for-the-esp32-s3/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/how-to-create-an-ui-application-for-the-esp32-s3/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Using ESP-BSP with DevKits</title>
+      <link>http://localhost:1313/blog/using-esp-bsp-with-devkits/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/using-esp-bsp-with-devkits/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/using-esp-bsp-with-devkits/featured-bsp.webp" />
+    </item>
+    
+    <item>
+      <title>Using the ESP Flash Download Tool to finish the Flash Encryption &#43; Secure Boot &#43; NVS Encryption</title>
+      <link>http://localhost:1313/blog/flash-encryption-and-secure-boot/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/flash-encryption-and-secure-boot/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/flash-encryption-and-secure-boot/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Easily Develop Graphical User Interfaces (GUIs) with Espressif Microcontrollers (MCUs)</title>
+      <link>http://localhost:1313/blog/easily-develop-graphical-user-interfaces-with-mcus/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/easily-develop-graphical-user-interfaces-with-mcus/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/easily-develop-graphical-user-interfaces-with-mcus/featured.webp" />
+    </item>
+    
+    <item>
+      <title>ESP32&#39;s family Memory Map 101</title>
+      <link>http://localhost:1313/blog/esp32-memory-map-101/</link>
+      <pubDate>Tue, 20 Aug 2024 18:56:49 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-memory-map-101/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/esp32-memory-map-101/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Using ESP-NOW in Arduino</title>
+      <link>http://localhost:1313/blog/arduino-esp-now-lib/</link>
+      <pubDate>Tue, 06 Aug 2024 09:00:24 -0300</pubDate>
+      
+      <guid>http://localhost:1313/blog/arduino-esp-now-lib/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/arduino-esp-now-lib/featured.webp" />
+    </item>
+    
+    <item>
+      <title>How to switch between multiple ESP32 firmware binaries stored in the flash memory</title>
+      <link>http://localhost:1313/blog/switch-between-firmware-binaries/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/switch-between-firmware-binaries/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/switch-between-firmware-binaries/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Maximizing Wi-Fi Throughput: Fine-Tuning Zephyr for Peak Performance with ESP32 SoCs in IoT Applications</title>
+      <link>http://localhost:1313/blog/zephyr-max-wifi-throughput/</link>
+      <pubDate>Mon, 24 Jun 2024 14:29:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/zephyr-max-wifi-throughput/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/zephyr-max-wifi-throughput/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Simplify Your Embedded Projects with ESP-BSP</title>
+      <link>http://localhost:1313/blog/simplify-embedded-projects-with-esp-bsp/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/simplify-embedded-projects-with-esp-bsp/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/simplify-embedded-projects-with-esp-bsp/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Presenting the Advantages of ESP32-S3-BOX, Espressif’s AI Voice Development Kit</title>
+      <link>http://localhost:1313/blog/presenting-the-advantages-of-esp32-s3-box-espressifs-ai-voice-development-kit/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/presenting-the-advantages-of-esp32-s3-box-espressifs-ai-voice-development-kit/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

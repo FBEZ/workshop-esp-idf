@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aditya Patwardhan on Developer Portal</title>
+    <link>http://localhost:1313/authors/aditya-patwardhan/</link>
+    <description>Recent content in Aditya Patwardhan on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/aditya-patwardhan/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-S2: Digital Signature Peripheral</title>
+      <link>http://localhost:1313/blog/esp32-s2-digital-signature-peripheral/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-s2-digital-signature-peripheral/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

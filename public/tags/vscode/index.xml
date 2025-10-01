@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vscode on Developer Portal</title>
+    <link>http://localhost:1313/tags/vscode/</link>
+    <description>Recent content in Vscode on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Debugging with ESP-IDF VS Code extension: Part 2</title>
+      <link>http://localhost:1313/blog/2025/06/debugging-with-vscode-part-2/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/06/debugging-with-vscode-part-2/</guid>
+      <description>This two-part guide shows how to set up VS Code with the ESP-IDF extension to debug Espressif boards using JTAG. In this second part, we will debug a simple project using gdb through Espressif&amp;rsquo;s VSCode extension. We will explore the debugging options for navigating the code and inspecting the variables.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/06/debugging-with-vscode-part-2/featured.webp" />
+    </item>
+    
+    <item>
+      <title>ESP-IDF VS Code Extension v1.9.0 release</title>
+      <link>http://localhost:1313/blog/2025/01/release-v1-9-0/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/01/release-v1-9-0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF VS Code Extension v1.8.0 release</title>
+      <link>http://localhost:1313/blog/vscode-esp-idf-v1.8.0/</link>
+      <pubDate>Fri, 12 Jul 2024 16:07:09 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/vscode-esp-idf-v1.8.0/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/vscode-esp-idf-v1.8.0/featured-ide.webp" />
+    </item>
+    
+    <item>
+      <title>What’s new in the ESP-IDF extension for VSCode</title>
+      <link>http://localhost:1313/blog/whats-new-in-the-esp-idf-extension-for-vscode/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/whats-new-in-the-esp-idf-extension-for-vscode/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

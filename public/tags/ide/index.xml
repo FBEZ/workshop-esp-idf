@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IDE on Developer Portal</title>
+    <link>http://localhost:1313/tags/ide/</link>
+    <description>Recent content in IDE on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Thu, 13 Mar 2025 16:53:32 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Working with ESP-IDF in CLion</title>
+      <link>http://localhost:1313/blog/clion/</link>
+      <pubDate>Thu, 13 Mar 2025 16:53:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/clion/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/clion/cl-cover-featured.webp" />
+    </item>
+    
+    <item>
+      <title>GitHub Copilot Now in Espressif-IDE with Copilot4Eclipse</title>
+      <link>http://localhost:1313/blog/2025/02/github-copilot-in-espressif-ide/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/02/github-copilot-in-espressif-ide/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/02/github-copilot-in-espressif-ide/featured-copilot.webp" />
+    </item>
+    
+    <item>
+      <title>ESP-IDF VS Code Extension v1.9.0 release</title>
+      <link>http://localhost:1313/blog/2025/01/release-v1-9-0/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/01/release-v1-9-0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>New Release: Espressif IDE 3.1.0</title>
+      <link>http://localhost:1313/blog/espressif-ide/espressif-ide-3-1-0-release/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide/espressif-ide-3-1-0-release/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Accelerate Your IoT Development with the Espressif WebIDE</title>
+      <link>http://localhost:1313/blog/accelerate-your-iot-development-with-the-espressif-webide/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/accelerate-your-iot-development-with-the-espressif-webide/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

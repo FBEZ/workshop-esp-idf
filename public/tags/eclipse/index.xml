@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse on Developer Portal</title>
+    <link>http://localhost:1313/tags/eclipse/</link>
+    <description>Recent content in Eclipse on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/eclipse/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Release: Espressif IDE 3.1.0</title>
+      <link>http://localhost:1313/blog/espressif-ide/espressif-ide-3-1-0-release/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide/espressif-ide-3-1-0-release/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif-IDE v3.0.0 — LSP Support for C/C&#43;&#43; Editor</title>
+      <link>http://localhost:1313/blog/espressif-ide-lsp-support/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide-lsp-support/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/espressif-ide-lsp-support/featured-lsp.webp" />
+    </item>
+    
+    <item>
+      <title>What’s New in Espressif-IDE 2.8.0 and a Way Forward</title>
+      <link>http://localhost:1313/blog/whats-new-in-espressif-ide-2-8-0-and-a-way-forward/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/whats-new-in-espressif-ide-2-8-0-and-a-way-forward/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif IDE and What’s new in v2.4.0 — Part 1</title>
+      <link>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif IDE and What’s new in v2.4.0 — Part 2</title>
+      <link>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide-and-whats-new-in-v2-4-0-part-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Eclipse Plugin for ESP-IDF</title>
+      <link>http://localhost:1313/blog/eclipse-plugin-for-esp-idf/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/eclipse-plugin-for-esp-idf/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

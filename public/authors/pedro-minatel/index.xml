@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Minatel on Developer Portal</title>
+    <link>http://localhost:1313/authors/pedro-minatel/</link>
+    <description>Recent content in Pedro Minatel on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/pedro-minatel/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WLED - Powered by the Community</title>
+      <link>http://localhost:1313/blog/2025/01/wled-powered-by-the-community/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/01/wled-powered-by-the-community/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/01/wled-powered-by-the-community/featured.webp" />
+    </item>
+    
+    <item>
+      <title>How to create an ESP-IDF component</title>
+      <link>http://localhost:1313/blog/2024/12/how-to-create-an-esp-idf-component/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2024/12/how-to-create-an-esp-idf-component/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2024/12/how-to-create-an-esp-idf-component/featured-registry.webp" />
+    </item>
+    
+    <item>
+      <title>What is the ESP Component Registry?</title>
+      <link>http://localhost:1313/blog/2024/10/what-is-the-esp-registry/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2024/10/what-is-the-esp-registry/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2024/10/what-is-the-esp-registry/featured-registry.webp" />
+    </item>
+    
+    <item>
+      <title>New Release: Espressif IDE 3.1.0</title>
+      <link>http://localhost:1313/blog/espressif-ide/espressif-ide-3-1-0-release/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/espressif-ide/espressif-ide-3-1-0-release/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IoT Introduction with RainMaker</title>
+      <link>http://localhost:1313/workshops/iot-introduction-with-rainmaker/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/iot-introduction-with-rainmaker/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/workshops/iot-introduction-with-rainmaker/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Espressif-IDE Workshop</title>
+      <link>http://localhost:1313/workshops/espressif-ide/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/workshops/espressif-ide/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/workshops/espressif-ide/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Getting Started with IDEs Workshop</title>
+      <link>http://localhost:1313/workshops/getting-started-with-ides/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/workshops/getting-started-with-ides/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/workshops/getting-started-with-ides/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Visual Studio Code Extension Workshop</title>
+      <link>http://localhost:1313/workshops/vscode-extension/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/workshops/vscode-extension/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/workshops/vscode-extension/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Announcing the Arduino ESP32 Core version 3.0.0</title>
+      <link>http://localhost:1313/blog/announcing-the-arduino-esp32-core-version-3-0-0/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/announcing-the-arduino-esp32-core-version-3-0-0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arduino ESP32 support version 2.0.0 is out!</title>
+      <link>http://localhost:1313/blog/arduino-esp32-support-version-2-0-0-is-out/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/arduino-esp32-support-version-2-0-0-is-out/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arduino for ESP32-S2 and ESP32-C3 is coming!</title>
+      <link>http://localhost:1313/blog/arduino-for-esp32-s2-and-esp32-c3-is-coming/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/arduino-for-esp32-s2-and-esp32-c3-is-coming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Development Tools Guide — Part I</title>
+      <link>http://localhost:1313/blog/esp-idf-development-tools-guide-part-i/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-idf-development-tools-guide-part-i/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/esp-idf-development-tools-guide-part-i/featured-esp-idf-tools.webp" />
+    </item>
+    
+    <item>
+      <title>DFU — Using the native USB on ESP32-S2 for flashing the firmware</title>
+      <link>http://localhost:1313/blog/dfu-using-the-native-usb-on-esp32-s2-for-flashing-the-firmware/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/dfu-using-the-native-usb-on-esp32-s2-for-flashing-the-firmware/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/dfu-using-the-native-usb-on-esp32-s2-for-flashing-the-firmware/featured-dfu.webp" />
+    </item>
+    
+    <item>
+      <title>How to use custom partition tables on ESP32</title>
+      <link>http://localhost:1313/blog/how-to-use-custom-partition-tables-on-esp32/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/how-to-use-custom-partition-tables-on-esp32/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/how-to-use-custom-partition-tables-on-esp32/featured-partition.webp" />
+    </item>
+    
+  </channel>
+</rss>

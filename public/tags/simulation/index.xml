@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulation on Developer Portal</title>
+    <link>http://localhost:1313/tags/simulation/</link>
+    <description>Recent content in Simulation on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 13 Nov 2024 00:08:20 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using Wokwi with NuttX</title>
+      <link>http://localhost:1313/blog/2024/11/using-wokwi-with-nuttx/</link>
+      <pubDate>Wed, 13 Nov 2024 00:08:20 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/2024/11/using-wokwi-with-nuttx/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2024/11/using-wokwi-with-nuttx/featured_nuttx_using_wokwi.webp" />
+    </item>
+    
+  </channel>
+</rss>

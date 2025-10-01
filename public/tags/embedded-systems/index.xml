@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded Systems on Developer Portal</title>
+    <link>http://localhost:1313/tags/embedded-systems/</link>
+    <description>Recent content in Embedded Systems on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bevy Entity Component System on ESP32 with Rust no_std</title>
+      <link>http://localhost:1313/blog/2025/04/bevy-ecs-on-esp32-with-rust-no-std/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/04/bevy-ecs-on-esp32-with-rust-no-std/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/04/bevy-ecs-on-esp32-with-rust-no-std/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Using ESP-BSP with DevKits</title>
+      <link>http://localhost:1313/blog/using-esp-bsp-with-devkits/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/using-esp-bsp-with-devkits/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/using-esp-bsp-with-devkits/featured-bsp.webp" />
+    </item>
+    
+    <item>
+      <title>How to switch between multiple ESP32 firmware binaries stored in the flash memory</title>
+      <link>http://localhost:1313/blog/switch-between-firmware-binaries/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/switch-between-firmware-binaries/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/switch-between-firmware-binaries/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Build Embedded Swift Application for ESP32-C6</title>
+      <link>http://localhost:1313/blog/build-embedded-swift-application-for-esp32c6/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/build-embedded-swift-application-for-esp32c6/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/build-embedded-swift-application-for-esp32c6/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Simplify Your Embedded Projects with ESP-BSP</title>
+      <link>http://localhost:1313/blog/simplify-embedded-projects-with-esp-bsp/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/simplify-embedded-projects-with-esp-bsp/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/simplify-embedded-projects-with-esp-bsp/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Simplified Embedded Rust: A Comprehensive Guide to Embedded Rust Development</title>
+      <link>http://localhost:1313/blog/books-simplified-embedded-rust/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/books-simplified-embedded-rust/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/books-simplified-embedded-rust/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Build affordable Secure connected devices with ESP32-H2</title>
+      <link>http://localhost:1313/blog/build-affordable-secure-connected-devices-with-esp32-h2/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/build-affordable-secure-connected-devices-with-esp32-h2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rust &#43; Embedded: A Development Power Duo</title>
+      <link>http://localhost:1313/blog/rust-embedded-a-development-power-duo/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/rust-embedded-a-development-power-duo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP Privilege Separation — A Case Study</title>
+      <link>http://localhost:1313/blog/esp-privilege-separation-a-case-study/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp-privilege-separation-a-case-study/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introducing ESP Privilege Separation</title>
+      <link>http://localhost:1313/blog/introducing-esp-privilege-separation/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/introducing-esp-privilege-separation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Releasing LTS of AWS IoT Device SDK for Embedded C on ESP32</title>
+      <link>http://localhost:1313/blog/support-for-lts-release-of-aws-iot-device-sdk-for-embedded-c-on-esp3/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/support-for-lts-release-of-aws-iot-device-sdk-for-embedded-c-on-esp3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Zephyr RTOS on ESP32 — First Steps</title>
+      <link>http://localhost:1313/blog/zephyr-rtos-on-esp32-first-steps/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/zephyr-rtos-on-esp32-first-steps/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP32-S2: Digital Signature Peripheral</title>
+      <link>http://localhost:1313/blog/esp32-s2-digital-signature-peripheral/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-s2-digital-signature-peripheral/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OTA Updates Framework</title>
+      <link>http://localhost:1313/blog/ota-updates-framework/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ota-updates-framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP32 Memory Analysis — Case Study</title>
+      <link>http://localhost:1313/blog/esp32-memory-analysis-case-study/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-memory-analysis-case-study/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Amazon FreeRTOS — ESP32 Support</title>
+      <link>http://localhost:1313/blog/amazon-freertos-esp32-support/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/amazon-freertos-esp32-support/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

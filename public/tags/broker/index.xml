@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Broker on Developer Portal</title>
+    <link>http://localhost:1313/tags/broker/</link>
+    <description>Recent content in Broker on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/broker/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lightweight MQTT Broker for ESP32: Mosquitto ported to ESP-IDF</title>
+      <link>http://localhost:1313/blog/2025/05/esp-idf-mosquitto-port/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/05/esp-idf-mosquitto-port/</guid>
+      <description>Mosquitto &amp;ndash; the industry-standard MQTT broker &amp;ndash; has been ported to ESP-IDF. Its lightweight version retains Mosquitto&amp;rsquo;s core functionality and security features to run on resource-constrained IoT devices. This MQTT broker is ideal for edge computing, testing, and standalone IoT deployments. In this article, we will do an overview and show you how to get started.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/05/esp-idf-mosquitto-port/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

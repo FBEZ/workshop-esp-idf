@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zephyr on Developer Portal</title>
+    <link>http://localhost:1313/tags/zephyr/</link>
+    <description>Recent content in Zephyr on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/zephyr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Zephyr Support Status</title>
+      <link>http://localhost:1313/software/zephyr-support-status/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/zephyr-support-status/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/software/zephyr-support-status/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Simple Boot explained</title>
+      <link>http://localhost:1313/blog/2025/06/simple-boot-explained/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/06/simple-boot-explained/</guid>
+      <description>In this article, we explore a simplified ESP32 boot process using single-image binaries to speed up build and flash times — ideal for development workflows. This approach sacrifices features like OTA updates but enables faster iteration.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/06/simple-boot-explained/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Enabling External PSRAM for Zephyr Applications on ESP32 SoCs</title>
+      <link>http://localhost:1313/blog/2024/12/zephyr-how-to-use-psram/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2024/12/zephyr-how-to-use-psram/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2024/12/zephyr-how-to-use-psram/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Introduction to Zephyr OS Tracing and Profiling</title>
+      <link>http://localhost:1313/blog/zephyr-tracing-and-profiling/</link>
+      <pubDate>Fri, 15 Nov 2024 06:54:17 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/zephyr-tracing-and-profiling/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/zephyr-tracing-and-profiling/featured-gauge.webp" />
+    </item>
+    
+    <item>
+      <title>ESP32 bootstrapping in Zephyr</title>
+      <link>http://localhost:1313/blog/esp32-bootstrapping/</link>
+      <pubDate>Wed, 30 Oct 2024 10:18:10 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-bootstrapping/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/esp32-bootstrapping/featured.webp" />
+    </item>
+    
+    <item>
+      <title>ESP32&#39;s family Memory Map 101</title>
+      <link>http://localhost:1313/blog/esp32-memory-map-101/</link>
+      <pubDate>Tue, 20 Aug 2024 18:56:49 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-memory-map-101/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/esp32-memory-map-101/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Maximizing Wi-Fi Throughput: Fine-Tuning Zephyr for Peak Performance with ESP32 SoCs in IoT Applications</title>
+      <link>http://localhost:1313/blog/zephyr-max-wifi-throughput/</link>
+      <pubDate>Mon, 24 Jun 2024 14:29:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/zephyr-max-wifi-throughput/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/zephyr-max-wifi-throughput/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Core Dump: A Powerful Tool for Debugging Programs in Zephyr with ESP32 Boards</title>
+      <link>http://localhost:1313/blog/core-dump-a-powerful-tool-for-debugging-programs-in-zephyr-with-esp32-boards/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/core-dump-a-powerful-tool-for-debugging-programs-in-zephyr-with-esp32-boards/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Zephyr RTOS on ESP32 — First Steps</title>
+      <link>http://localhost:1313/blog/zephyr-rtos-on-esp32-first-steps/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/zephyr-rtos-on-esp32-first-steps/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

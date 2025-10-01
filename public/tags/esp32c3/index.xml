@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESP32C3 on Developer Portal</title>
+    <link>http://localhost:1313/tags/esp32c3/</link>
+    <description>Recent content in ESP32C3 on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/esp32c3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP-IDF tutorial series: Logging</title>
+      <link>http://localhost:1313/blog/2025/09/espressif_logging/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/09/espressif_logging/</guid>
+      <description>This article shows how ESP-IDF’s logging system uses tags and verbosity levels to produce structured, configurable output, helping you keep code clean and debug more effectively.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/09/espressif_logging/featured.webp" />
+    </item>
+    
+    <item>
+      <title>ESP-IDF tutorial series: Errors</title>
+      <link>http://localhost:1313/blog/2025/08/errors_and_logging/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/08/errors_and_logging/</guid>
+      <description>This article explains error handling in FreeRTOS-based embedded systems, highlighting common C practices and their limitations. It introduces ESP-IDF’s &lt;code&gt;esp_err_t&lt;/code&gt; type and error-checking macros, demonstrating how they help manage errors systematically. It shows practical ways to implement error handling in embedded applications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/08/errors_and_logging/featured.webp" />
+    </item>
+    
+    <item>
+      <title>ESP-IDF Tutorials: Basic HTTP server</title>
+      <link>http://localhost:1313/blog/2025/06/basic_http_server/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/06/basic_http_server/</guid>
+      <description>This article shows how to create a simple HTTP server. It explains the functions you need and the setup required. After reading this, you should be able to create your own HTTP server on Espressif devices.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/06/basic_http_server/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

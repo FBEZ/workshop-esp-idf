@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filipe Cavalcanti on Developer Portal</title>
+    <link>http://localhost:1313/authors/filipe-cavalcanti/</link>
+    <description>Recent content in Filipe Cavalcanti on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/filipe-cavalcanti/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SPI Flash for Persistent Data Storage with NuttX RTOS</title>
+      <link>http://localhost:1313/blog/2025/09/nuttx-storing-data-spi-flash/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/09/nuttx-storing-data-spi-flash/</guid>
+      <description>This guide explores how to utilize flash memory for persistent data storage in NuttX-based embedded systems, covering SPI Flash fundamentals, file system options (SmartFS, SPIFFS, LittleFS), and practical implementation of a boot time logging application with Wi-Fi and NTP synchronization.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/09/nuttx-storing-data-spi-flash/featured.webp" />
+    </item>
+    
+    <item>
+      <title>NuttX for Motor Control and Sensing: IMU Integration and Wireless Data Streaming</title>
+      <link>http://localhost:1313/blog/2025/07/nuttx-motor-control-and-sensing-data-trans/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/07/nuttx-motor-control-and-sensing-data-trans/</guid>
+      <description>This article extends the NuttX motor control system with inertial measurement unit (IMU) sensor integration for vibration measurement and wireless data streaming capabilities using the ESP32-C6 Wi-Fi connectivity.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/07/nuttx-motor-control-and-sensing-data-trans/featured.webp" />
+    </item>
+    
+    <item>
+      <title>NuttX for Motor Control and Sensing: MCPWM and DC Motor Control</title>
+      <link>http://localhost:1313/blog/2025/05/nuttx-motor-control-and-sensing/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/05/nuttx-motor-control-and-sensing/</guid>
+      <description>This article demonstrates how to implement motor control and speed sensing on an ESP32-C6 using NuttX RTOS. It covers setting up MCPWM for motor control, ADC for potentiometer reading, and quadrature encoder for speed measurement. The implementation showcases NuttX&amp;rsquo;s real-time capabilities through a practical example using common peripherals and sensors.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/05/nuttx-motor-control-and-sensing/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Testing applications with Pytest and NuttX</title>
+      <link>http://localhost:1313/blog/pytest-testing-with-nuttx/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/pytest-testing-with-nuttx/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/pytest-testing-with-nuttx/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Getting Started with NuttX and ESP32</title>
+      <link>http://localhost:1313/blog/nuttx-getting-started/</link>
+      <pubDate>Thu, 20 Jun 2024 16:54:43 -0300</pubDate>
+      
+      <guid>http://localhost:1313/blog/nuttx-getting-started/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/nuttx-getting-started/featured-nuttx.webp" />
+    </item>
+    
+  </channel>
+</rss>

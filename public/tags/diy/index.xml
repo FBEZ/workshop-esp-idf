@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIY on Developer Portal</title>
+    <link>http://localhost:1313/tags/diy/</link>
+    <description>Recent content in DIY on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Thu, 22 Aug 2024 17:00:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DIY Smart Electric Toothbrush using ESP32-C2 and RainMaker</title>
+      <link>http://localhost:1313/blog/esp32c2-smart-electric-toothbrush/</link>
+      <pubDate>Thu, 22 Aug 2024 17:00:17 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32c2-smart-electric-toothbrush/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/esp32c2-smart-electric-toothbrush/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Announcing the Arduino ESP32 Core version 3.0.0</title>
+      <link>http://localhost:1313/blog/announcing-the-arduino-esp32-core-version-3-0-0/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/announcing-the-arduino-esp32-core-version-3-0-0/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

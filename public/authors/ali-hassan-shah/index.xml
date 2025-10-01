@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Hassan Shah on Developer Portal</title>
+    <link>http://localhost:1313/authors/ali-hassan-shah/</link>
+    <description>Recent content in Ali Hassan Shah on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/ali-hassan-shah/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenAI Component | Accelerating the integration of OpenAI APIs in projects</title>
+      <link>http://localhost:1313/blog/openai-component-accelerating-the-integration-of-openai-apis-in-projects/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/openai-component-accelerating-the-integration-of-openai-apis-in-projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unleashing the Power of OpenAI and ESP-BOX: A Guide to Fusing ChatGPT with Espressif SOCs</title>
+      <link>http://localhost:1313/blog/unleashing-the-power-of-openai-and-esp-box-a-guide-to-fusing-chatgpt-with-espressif-socs/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/unleashing-the-power-of-openai-and-esp-box-a-guide-to-fusing-chatgpt-with-espressif-socs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP32-S3 Edge-AI｜Human Activity Recognition Using Accelerometer Data and ESP-DL</title>
+      <link>http://localhost:1313/blog/esp32-s3-edge-ai-human-activity-recognition-using-accelerometer-data-and-esp-dl/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/esp32-s3-edge-ai-human-activity-recognition-using-accelerometer-data-and-esp-dl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hand Gesture Recognition on ESP32-S3 with ESP-Deep Learning</title>
+      <link>http://localhost:1313/blog/hand-gesture-recognition-on-esp32-s3-with-esp-deep-learning/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/hand-gesture-recognition-on-esp32-s3-with-esp-deep-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

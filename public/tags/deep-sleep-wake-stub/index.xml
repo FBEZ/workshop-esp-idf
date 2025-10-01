@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep-Sleep Wake Stub on Developer Portal</title>
+    <link>http://localhost:1313/tags/deep-sleep-wake-stub/</link>
+    <description>Recent content in Deep-Sleep Wake Stub on Developer Portal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/deep-sleep-wake-stub/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Implementing a Deep-sleep wake stub application on Espressif chips to enable power-efficient IoT devices</title>
+      <link>http://localhost:1313/blog/2025/09/deep-sleep-wake-stub-get-started/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2025/09/deep-sleep-wake-stub-get-started/</guid>
+      <description>In this article, we first explain the principles behind the Deep-sleep wake stub application and then demonstrate how to implement GPIO, UART, I2C, and SPI within it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/2025/09/deep-sleep-wake-stub-get-started/Wake-stub-featured.webp" />
+    </item>
+    
+  </channel>
+</rss>
