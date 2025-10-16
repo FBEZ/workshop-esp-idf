@@ -1,3 +1,0 @@
----
-title: Povilas Dumcius
----

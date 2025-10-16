@@ -1,8 +1,0 @@
-{
-    "name": "Li Bo",
-    "image" : "img/authors/espressif.png",
-    "bio": "Embedded Software Engineer at Espressif",
-    "social": [
-        { "github": "https://github.com/leeebo" }
-    ]
-}

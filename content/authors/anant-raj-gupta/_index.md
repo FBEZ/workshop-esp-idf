@@ -1,3 +1,0 @@
----
-title: Anant Raj Gupta
----

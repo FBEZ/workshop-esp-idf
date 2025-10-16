@@ -1,3 +1,0 @@
----
-title: Teo Swee Ann
----

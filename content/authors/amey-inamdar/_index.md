@@ -1,3 +1,0 @@
----
-title: Amey Inamdar
----

@@ -1,8 +1,0 @@
-{
-    "name": "Jason Mao",
-    "image" : "img/authors/espressif.png",
-    "bio": "Embedded Multimedia Engineer at Espressif",
-    "social": [
-        { "github": "https://github.com/jason-mao" }
-    ]
-}

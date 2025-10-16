@@ -1,3 +1,0 @@
----
-title: Ali Hassan Shah
----

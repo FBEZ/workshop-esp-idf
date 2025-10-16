@@ -1,3 +1,0 @@
----
-title: "Cheah Hao Yi"
----

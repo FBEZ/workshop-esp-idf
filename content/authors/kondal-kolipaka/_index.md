@@ -1,3 +1,0 @@
----
-title: "Kondal Kolipaka"
----

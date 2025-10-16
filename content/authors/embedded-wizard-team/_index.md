@@ -1,3 +1,0 @@
----
-title: "Embedded Wizard Team"
----
