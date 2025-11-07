@@ -23,7 +23,7 @@ In questo Esercizio, analizzerai la dimensione dell'immagine binaria e ottimizze
 Otterrai la tabella riepilogativa di Fig.1 per l'immagine binaria.
 {{< figure
 default=true
-src="{{ "/workshop-esp-idf/workshops/esp-idf-advanced/assets/assignment_3_1_size_before.webp" | absURL }}"
+src="/workshop-esp-idf/workshops/esp-idf-advanced/assets/assignment_3_1_size_before.webp"
 height=300
 caption="Fig.1 - Analisi della dimensione"
 >}}
@@ -36,7 +36,7 @@ caption="Fig.1 - Analisi della dimensione"
 
 {{< figure
 default=true
-src="{{ "/workshop-esp-idf/workshops/esp-idf-advanced/assets/assignment_3_1_size_after_log.webp" | absURL }}"
+src="/workshop-esp-idf/workshops/esp-idf-advanced/assets/assignment_3_1_size_after_log.webp"
 height=500
 caption="Fig.2 - Calcolo della dimensione dopo aver rimosso i log"
 >}}
