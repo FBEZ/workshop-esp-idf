@@ -3,710 +3,710 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-setup/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-setup/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-setup/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-setup/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-setup/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-setup/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/"
+      href="http://localhost:1313/workshop-esp-idf/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/cs/"
+      href="http://localhost:1313/workshop-esp-idf/cs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/"
+      href="http://localhost:1313/workshop-esp-idf/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-setup/installation_linux/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-setup/installation_linux/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-setup/installation_linux/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-setup/installation_linux/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-setup/installation_linux/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-setup/installation_linux/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-setup/installation_macos/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-setup/installation_macos/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-setup/installation_macos/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-setup/installation_macos/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-setup/installation_macos/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-setup/installation_macos/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/series/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/series/"
+      href="http://localhost:1313/workshop-esp-idf/it/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/cs/series/"
+      href="http://localhost:1313/workshop-esp-idf/cs/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/series/"
+      href="http://localhost:1313/workshop-esp-idf/series/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-setup/installation_windows/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-setup/installation_windows/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-setup/installation_windows/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-setup/installation_windows/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-setup/installation_windows/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-setup/installation_windows/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/series/ws00b/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/series/ws00b/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/series/ws00b/"
+      href="http://localhost:1313/workshop-esp-idf/it/series/ws00b/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/series/ws00b/"
+      href="http://localhost:1313/workshop-esp-idf/series/ws00b/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-1-1/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-1-1/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-1-1/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-1-1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-1-1/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-1-1/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-1-2/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-1-2/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-1-2/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-1-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-1-2/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-1-2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-1-3/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-1-3/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-1-3/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-1-3/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-1-3/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-1-3/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-2-1/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-2-1/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-2-1/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-2-1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-2-1/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-2-1/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-2-2/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-2-2/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-2-2/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-2-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-2-2/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-2-2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-3-1/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-3-1/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-3-1/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-3-1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-3-1/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-3-1/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-3-2/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-3-2/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-3-2/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-3-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-3-2/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-3-2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-3-3/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-3-3/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-3-3/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-3-3/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-3-3/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-3-3/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-4-1/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-4-1/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-4-1/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-4-1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-4-1/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-4-1/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-4-2/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-4-2/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-4-2/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-4-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-4-2/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-4-2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/assignment-4-3/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-4-3/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/assignment-4-3/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/assignment-4-3/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/assignment-4-3/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/assignment-4-3/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/lecture-1/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/lecture-1/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/lecture-1/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/lecture-1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/lecture-1/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/lecture-1/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/lecture-2/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/lecture-2/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/lecture-2/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/lecture-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/lecture-2/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/lecture-2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/lecture-3/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/lecture-3/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/lecture-3/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/lecture-3/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/lecture-3/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/lecture-3/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-advanced/lecture-4/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/lecture-4/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-advanced/lecture-4/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-advanced/lecture-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-advanced/lecture-4/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-advanced/lecture-4/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/assignment-1-1/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-1-1/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/assignment-1-1/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/assignment-1-1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/assignment-1-1/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-1-1/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/assignment-1-2/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-1-2/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/assignment-1-2/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/assignment-1-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/assignment-1-2/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-1-2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/assignment-2-1/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-2-1/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/assignment-2-1/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/assignment-2-1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/assignment-2-1/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-2-1/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/assignment-2-2/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-2-2/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/assignment-2-2/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/assignment-2-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/assignment-2-2/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-2-2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/assignment-2-3/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-2-3/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/assignment-2-3/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/assignment-2-3/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/assignment-2-3/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-2-3/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/assignment-3-1/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-3-1/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/assignment-3-1/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/assignment-3-1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/assignment-3-1/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-3-1/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/assignment-3-2/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-3-2/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/assignment-3-2/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/assignment-3-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/assignment-3-2/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-3-2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/assignment-3-3/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-3-3/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/assignment-3-3/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/assignment-3-3/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/assignment-3-3/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/assignment-3-3/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/lecture-1/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/lecture-1/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/lecture-1/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/lecture-1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/lecture-1/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/lecture-1/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/lecture-2/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/lecture-2/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/lecture-2/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/lecture-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/lecture-2/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/lecture-2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/esp-idf-basic/lecture-3/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/lecture-3/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/esp-idf-basic/lecture-3/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/esp-idf-basic/lecture-3/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/esp-idf-basic/lecture-3/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/esp-idf-basic/lecture-3/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/series/ws00a/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/series/ws00a/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/series/ws00a/"
+      href="http://localhost:1313/workshop-esp-idf/it/series/ws00a/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/series/ws00a/"
+      href="http://localhost:1313/workshop-esp-idf/series/ws00a/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshops/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/workshops/</loc>
     <lastmod>2024-06-03T10:00:00+01:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/workshops/"
+      href="http://localhost:1313/workshop-esp-idf/it/workshops/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshops/"
+      href="http://localhost:1313/workshop-esp-idf/workshops/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/cs/categories/"
+      href="http://localhost:1313/workshop-esp-idf/cs/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/categories/"
+      href="http://localhost:1313/workshop-esp-idf/it/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/categories/"
+      href="http://localhost:1313/workshop-esp-idf/categories/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/cs/authors/"
+      href="http://localhost:1313/workshop-esp-idf/cs/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/authors/"
+      href="http://localhost:1313/workshop-esp-idf/it/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/authors/"
+      href="http://localhost:1313/workshop-esp-idf/authors/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/authors/francesco-bez/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/authors/francesco-bez/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/platforms/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="cs"
-      href="http://localhost:1313/cs/platforms/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/it/platforms/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/platforms/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/socs/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/platforms/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/cs/socs/"
+      href="http://localhost:1313/workshop-esp-idf/cs/platforms/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/socs/"
+      href="http://localhost:1313/workshop-esp-idf/it/platforms/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/socs/"
+      href="http://localhost:1313/workshop-esp-idf/platforms/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/workshop-esp-idf/socs/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/cs/tags/"
+      href="http://localhost:1313/workshop-esp-idf/cs/socs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/tags/"
+      href="http://localhost:1313/workshop-esp-idf/it/socs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/tags/"
+      href="http://localhost:1313/workshop-esp-idf/socs/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/workshop-esp-idf/tags/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="cs"
+      href="http://localhost:1313/workshop-esp-idf/cs/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/workshop-esp-idf/it/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/workshop-esp-idf/tags/"
     />
   </url>
 </urlset>
