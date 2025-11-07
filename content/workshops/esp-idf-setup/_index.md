@@ -207,7 +207,7 @@ If your operating system doesn’t automatically detect the connected board, ref
 
 * Open the command palette and type:
   `> ESP-IDF: Build, Flash and Start a Monitor on Your Device`
-  ![](/workshops/esp-idf-setup/assets/setup/24_flash.webp)
+  ![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/24_flash.webp)
 * From the dropdown → select `UART`
   ![](./assets/setup/25_uart.webp)
 * Wait for the flashing process to complete and for the monitor to start

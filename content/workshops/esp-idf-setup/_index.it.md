@@ -42,9 +42,9 @@ Una volta installati tutti i prerequisiti, possiamo aggiungere l'estensione ESP-
 
 * Apri VS Code
 * Individua l'icona delle estensioni (quattro quadrati) sulla sinistra
-![](/workshops/esp-idf-setup/assets/setup/3_extension.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/3_extension.webp)
 * Cerca nel riquadro `esp-idf`
-![Ricerca estensione](/workshops/esp-idf-setup/assets/setup/4_search_idf_extension.webp)
+![Ricerca estensione](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/4_search_idf_extension.webp)
 * Clicca il tasto "Install" sul primo risultato `ESP-IDF`
   * Se richiesto, clicca su "Accetta e installa" 
 
@@ -53,7 +53,7 @@ Una volta installati tutti i prerequisiti, possiamo aggiungere l'estensione ESP-
 Una volta installata l'estensione ESP-IDF, va eseguita la procedura di configurazione che permetterà di installare l'intera toolchain ESP-IDF automaticamente. 
 
 * Clicca su `Configuring the ESP-IDF Extension`
-![](/workshops/esp-idf-setup/assets/setup/5_configurazione.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/5_configurazione.webp)
 
 {{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
 Se non si è aperta automaticamente la pagina di configurazione dell'estensione, puoi:
@@ -63,20 +63,20 @@ Se non si è aperta automaticamente la pagina di configurazione dell'estensione,
 {{< /alert >}}
 
 * Si aprirà un nuovo tab &rarr; Clicca su `EXPRESS`
-![](/workshops/esp-idf-setup/assets/setup/6_configurazione.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/6_configurazione.webp)
 * Apri il menù a tendina `Select ESP-IDF version`
-![](/workshops/esp-idf-setup/assets/setup/7_express.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/7_express.webp)
 * Selezione l'opzione `5.5.1 (release version)`
-![](/workshops/esp-idf-setup/assets/setup/8_choose_idf.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/8_choose_idf.webp)
 * Clicca su `Install`
-![](/workshops/esp-idf-setup/assets/setup/9_install.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/9_install.webp)
 * Attendi che l'installazione sia finita. 
-![](/workshops/esp-idf-setup/assets/setup/10_installation.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/10_installation.webp)
 {{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}
 L'installazione può richiedere parecchio tempo. 
 {{< /alert >}}
 * Al termine dell'installazione troverai la schermata di conferma
-![](/workshops/esp-idf-setup/assets/setup/11_allright.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/11_allright.webp)
 
 
 
@@ -88,18 +88,18 @@ Una volta installata l'estensione e la toolchain, è il momento di testare la co
 
 * Apri la command palette (`F1` o `CTRL+SHIFT+P`)
 * Inizia a digitare `ESP-IDF: Show Example Project` e clicca sull'opzione che compare sotto sotto. 
-![](/workshops/esp-idf-setup/assets/setup/12_showExample.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/12_showExample.webp)
 * Si apre un menù a tendina &rarr; Seleziona la versione `ESP-IDF v5.51`
-![](/workshops/esp-idf-setup/assets/setup/13_choose_esp_IDF.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/13_choose_esp_IDF.webp)
 * Si apre un tab con una lista di progetti &rarr; Seleziona `hello_world`
-![](/workshops/esp-idf-setup/assets/setup/14_hello_world.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/14_hello_world.webp)
 * Nel tab centrale  si apre la descrizione del progetto
 * Clicca su `Select location for creating hello_world project`
-![](/workshops/esp-idf-setup/assets/setup/15_selection_location.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/15_selection_location.webp)
 * Si apre la finestra di selezione &rarr; scegli una cartella dove creare il progetto e premi `Select this folder`<br>
 * Si apre ora una nuova finestra di VS Code
 * Nel riquadro a destra, dovresti ora vedere i file del progetto basato sull'esempio `hello_world`.
-![](/workshops/esp-idf-setup/assets/setup/16_new_project.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/16_new_project.webp)
 
 {{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}
 Se non vedi i file, assicurati che sia selezionata la prima icona sulla sinistra (i due fogli sovrapposti).
@@ -115,11 +115,11 @@ Se hai a disposizione un'altra EVK, scegli il target corrispondente.
 
 
 * Nella palette dei comandi (`F1` o `CTRL+SHIFT+P`) digita `ESP-IDF: Set Espressif Device Target`
-![](/workshops/esp-idf-setup/assets/setup/17_select_target.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/17_select_target.webp)
 * Nel menù a tendina che compare &rarr; seleziona `esp32c3`
-![](/workshops/esp-idf-setup/assets/setup/18_esp32c3.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/18_esp32c3.webp)
 * Nel menù a tendina seguente &rarr; seleziona `ESP32-C3 chip (via builtin USB-JTAG)`
-![](/workshops/esp-idf-setup/assets/setup/19_builtin.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/19_builtin.webp)
 
 
 ### Compilare il progetto
@@ -130,10 +130,10 @@ Passiamo ora alla compilazione del progetto.
 
 * Inizia a digitare `ESP-IDF: Build Your Project`
 
-![](/workshops/esp-idf-setup/assets/setup/20_buildYourProject.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/20_buildYourProject.webp)
 * A questo punto si apre un terminale in basso e compaiono i messaggi di compilazione
 * Alla fine della compilazione, vedrai il riassunto della memoria richiesta
-![](/workshops/esp-idf-setup/assets/setup/21_memory_usage.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/21_memory_usage.webp)
 
 Se vedi la schermata di riassunto, significa che sia la toolchain che l'estensione sono state correttamente installate. 
 
@@ -173,11 +173,11 @@ Ricordati di chiudere la sessione (log out) e riaprine una per rendere attive le
   * `File`&rarr; `Open Folder` oppure  `File`&rarr; `Open Recent`
 * Apri la palette dei comandi e digita:<br> 
    `>ESP-IDF: Select Port to Use (COM, tty, usbserial)`
-![](/workshops/esp-idf-setup/assets/setup/22_select_port_to_use.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/22_select_port_to_use.webp)
 * Seleziona la porta (Silicon Labs - il produttore del ponte USB/UART a bordo dell'EVK)
-![](/workshops/esp-idf-setup/assets/setup/23_port_selection.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/23_port_selection.webp)
 * Il nome della porta ora appare nella barra in basso
-![](/workshops/esp-idf-setup/assets/setup/23_5_icon_below.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/23_5_icon_below.webp)
 
 
 {{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
@@ -193,12 +193,12 @@ Se il sistema operativo non rileva automaticamente la scheda connessa alla porta
 
 * Apri la palette dei comandi e digita:<br>
    `> ESP-IDF: Build, Flash and Start a Monitor on Your Device`
-![](/workshops/esp-idf-setup/assets/setup/24_flash.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/24_flash.webp)
 * Nel menù a tendina &rarr; seleziona UART
-![](/workshops/esp-idf-setup/assets/setup/25_uart.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/25_uart.webp)
 * Attendi che il modulo venga programmato e che parta il monitor
 * Nel terminale dell'editor, vedrai i messaggi di boot e l'"hello world!"
-![](/workshops/esp-idf-setup/assets/setup/26_terminal.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup/26_terminal.webp)
 
 Se riesci a vedere il messaggio nel terminale, significa che il tuo setup è operativo e sei pronto per il workshop e per lavorare a progetti basati su ESP-IDF.  
 

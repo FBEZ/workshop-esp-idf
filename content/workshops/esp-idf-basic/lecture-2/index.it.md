@@ -18,7 +18,7 @@ Il modello ISO/OSI solito viene rappresentato come in Fig.1.
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-basic/assets/lec_2_isoosi.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-basic/assets/lec_2_isoosi.webp" | absURL }}"
 height=500
 caption="Fig.1 - Stack ISO/OSI"
 
@@ -64,7 +64,7 @@ Un’immagine vale più di mille parole:
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-basic/assets/lec_2_encapsulation.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-basic/assets/lec_2_encapsulation.webp" | absURL }}"
 height=500
 caption="Fig.2 - Incapsulamento"
 
@@ -102,7 +102,7 @@ L’AP gestisce il mezzo wireless, mentre le STA comunicano **attraverso** l’A
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-basic/assets/lec_2_sta_ap.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-basic/assets/lec_2_sta_ap.webp" | absURL }}"
 height=500
 caption="Fig.3 - STA and AP"
 
@@ -163,7 +163,7 @@ Le applicazioni moderne e i sistemi IoT utilizzano spesso **JSON (JavaScript Obj
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-basic/assets/lec_2_http_request.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-basic/assets/lec_2_http_request.webp" | absURL }}"
 height=500
 caption="Fig.4 - Interazione client-server"
 
@@ -200,7 +200,7 @@ In Fig.5 puoi vedere il rendering della pagina HTML.
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-basic/assets/lec_2_html_rendering.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-basic/assets/lec_2_html_rendering.webp" | absURL }}"
 height=300
 caption="Fig.5 - Rendering della pagina HTML"
     >}}

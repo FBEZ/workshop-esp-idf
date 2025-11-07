@@ -30,7 +30,7 @@ Per prima cosa, devi abilitare la tabella di partizioni personalizzata in `menuc
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-advanced/assets/assignment_4_2_partition_table.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-advanced/assets/assignment_4_2_partition_table.webp" | absURL }}"
 height=500
 caption="Tabella di partizioni personalizzata"
 >}}

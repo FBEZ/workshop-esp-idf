@@ -47,7 +47,7 @@ Di solito è sufficiente scrivere alcune lettere del comando: comparirà un menu
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-basic/assets/ass1_1_new_project.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-basic/assets/ass1_1_new_project.webp" | absURL }}"
 height=500
 caption="Fig.1 - Creazione di un nuovo progetto da esempio"
 
@@ -63,7 +63,7 @@ Si aprirà una nuova finestra con la seguente struttura di file:
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-basic/assets/ass1_1_hello_world_files.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-basic/assets/ass1_1_hello_world_files.webp" | absURL }}"
 height=500
 caption="Fig.2 - File dell’esempio `hello_world`"
 
@@ -89,7 +89,7 @@ Nella parte inferiore dell’IDE si aprirà un terminale che mostrerà il risult
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-basic/assets/ass1_1_compilation_result.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-basic/assets/ass1_1_compilation_result.webp" | absURL }}"
 height=500
 caption="Fig.3 - Risultato della compilazione"
 

@@ -52,7 +52,7 @@ To disable NVS, open `menuconfig` and look for the `NVS` option:
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-basic/assets/ass_2_1_disable_nvs.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-basic/assets/ass_2_1_disable_nvs.webp" | absURL }}"
 height=500
 caption="Fig. 2 - NVS options to disable"
 

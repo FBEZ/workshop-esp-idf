@@ -14,9 +14,9 @@ Welcome to the [Espressif Systems](https://espressif.com/) ESP-IDF Workshops.
 
 Dive into our latest workshops.
 
-{{< article link="/workshops/esp-idf-setup/" >}}
-{{< article link="/workshops/esp-idf-basic/" >}}
-{{< article link="/workshops/esp-idf-advanced/" >}}
+{{< article link="/workshop-esp-idf/workshops/esp-idf-setup/" >}}
+{{< article link="/workshop-esp-idf/workshops/esp-idf-basic/" >}}
+{{< article link="/workshop-esp-idf/workshops/esp-idf-advanced/" >}}
 
 <br>
 

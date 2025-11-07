@@ -44,7 +44,7 @@ Per far funzionare questo meccanismo, è necessario registrare sia l'evento sia 
 
 {{< figure
 default=true
-src="{{ "/workshops/esp-idf-advanced/assets/lecture_2_event_loop.webp" | absURL }}"
+src="{{ "/workshop-esp-idf/workshops/esp-idf-advanced/assets/lecture_2_event_loop.webp" | absURL }}"
 height=400
 caption="Diagramma semplificato dell'event loop"
 
