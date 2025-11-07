@@ -185,7 +185,7 @@ In Fig.5 you can see the HTML code rendering.
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/lec_2_html_rendering.webp"
+src="{{ "/workshops/esp-idf-basic/assets/lec_2_html_rendering.webp" | absURL }}"
 height=300
 caption="Fig.5 - HTML page rendering"
     >}}

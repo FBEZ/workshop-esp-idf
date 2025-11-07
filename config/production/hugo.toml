@@ -4,8 +4,6 @@
 
 baseURL = "https://fbez.github.io/workshop-esp-idf/"
 title = "Espressif ESP-IDF Workshops"
-relativeURLs = true
-
 
 buildDrafts = false
 buildFuture = true

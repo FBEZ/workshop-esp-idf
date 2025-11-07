@@ -54,7 +54,7 @@ Per disabilitare NVS, accediamo a `menuconfig` e cerchiamo l’opzione `NVS`:
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/ass_2_1_disable_nvs.webp"
+src="{{ "/workshops/esp-idf-basic/assets/ass_2_1_disable_nvs.webp" | absURL }}"
 height=500
 caption="Fig. 1 - Opzioni NVS da disabilitare"
 
@@ -177,7 +177,7 @@ Prendi il tuo smartphone, apri la lista delle reti Wi-Fi e seleziona l’SSID ch
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/ass_2_1_ap_list.webp"
+src="{{ "/workshops/esp-idf-basic/assets/ass_2_1_ap_list.webp" | absURL }}"
 height=500
 caption="Fig. 2 - Elenco degli Access Point"
 >}}
@@ -292,7 +292,7 @@ Dovresti vedere la pagina HTML mostrata in Fig.3, generata dalla funzione `hello
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/ass_2_1_result.webp"
+src="{{ "/workshops/esp-idf-basic/assets/ass_2_1_result.webp" | absURL }}"
 height=100
 caption="Fig.3 – Pagina HTML visualizzata"
 
