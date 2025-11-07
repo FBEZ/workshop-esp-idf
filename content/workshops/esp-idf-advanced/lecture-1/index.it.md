@@ -13,7 +13,7 @@ Il build system dell'ESP-IDF è basato su **CMake** e **Ninja**. CMake si occupa
 
 {{< figure
 default=true
-src="/workshops/esp-idf-advanced/assets/lecture_1_build_system.webp"
+src="/workshop-esp-idf/workshops/esp-idf-advanced/assets/lecture_1_build_system.webp"
 height=500
 caption="Build system tool chain"
     >}}
