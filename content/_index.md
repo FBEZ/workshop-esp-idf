@@ -12,7 +12,7 @@ Welcome to the [Espressif Systems](https://espressif.com/) ESP-IDF Workshops.
 
 ## Workshop Highlights
 
-Dive into our latest workshops and master the skills you need to maximize the power of the ESP32.
+Dive into our latest workshops.
 
 {{< article link="/workshops/esp-idf-setup/" >}}
 {{< article link="/workshops/esp-idf-basic/" >}}
