@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-baseURL = "https://fbez.github.io/workshop-esp-idf/"
+baseURL = "http://localhost:1313/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Espressif Workshops Preview"
