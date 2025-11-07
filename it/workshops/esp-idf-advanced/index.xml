@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESP-IDF workshop: Avanzato on Workshops</title>
+    <link>http://localhost:1313/it/workshops/esp-idf-advanced/</link>
+    <description>Recent content in ESP-IDF workshop: Avanzato on Workshops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/it/workshops/esp-idf-advanced/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio  4.1</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-4-1/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-4-1/</guid>
+      <description>Modifica della tabella delle partizioni in Factory app, due definizioni OTA (guidato)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio 1.1</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-1-1/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-1-1/</guid>
+      <description>Crea il componente &lt;code&gt;alarm&lt;/code&gt; e rifattorizza il codice per utilizzarlo. (Guidato)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio 1.2</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-1-2/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-1-2/</guid>
+      <description>Creare un componente &lt;code&gt;cloud_manager&lt;/code&gt; e rifattorizzare il codice per usarlo.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio 1.3</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-1-3/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-1-3/</guid>
+      <description>Supporto per configurazioni multiple tramite sdkconfig (Guidato)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio 2.1</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-2-1/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-2-1/</guid>
+      <description>Event loop: Gestire sensore di temperatura e allarme tramite eventi (guidato)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio 3.1</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-3-1/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-3-1/</guid>
+      <description>Ridurre la dimensione del binario lavorando sulla configurazione. (guidato)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio 3.3</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-3-3/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-3-3/</guid>
+      <description>Analizzare il core dump</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio 4.2</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-4-2/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-4-2/</guid>
+      <description>Creare una tabella di partizioni personalizzata</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio 4.3</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-4-3/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-4-3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Lezione 1</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/lecture-1/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/lecture-1/</guid>
+      <description>In questa lezione esploreremo il build system di ESP-IDF, che si basa su CMake e Ninja. Approfondiremo il concetto di componenti, il ruolo del Component Manager e dei Board Support Package (BSP) per l’astrazione dell’hardware. Infine, vedremo come creare componenti personalizzati e gestire le configurazioni attraverso i file sdkconfig e i profili di build, per ottenere compilazioni più flessibili e riproducibili.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Lezione 2</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/lecture-2/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/lecture-2/</guid>
+      <description>In questo articolo esploriamo l&amp;rsquo;event loop. Ne esaminiamo il funzionamento, evidenziamo i vantaggi, spieghiamo come viene utilizzato all&amp;rsquo;interno di ESP-IDF.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Lezione 3</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/lecture-3/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/lecture-3/</guid>
+      <description>In questo articolo trattiamo l’analisi delle dimensioni e i core dump. Scoprirai cosa fanno, perché sono importanti e come usarli per costruire applicazioni più efficienti e affidabili.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Lezione 4</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/lecture-4/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/lecture-4/</guid>
+      <description>In questo articolo esploriamo le funzionalità di sicurezza: aggiornamento OTA, cifratura della flash e bootloader sicuro</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio  2.2</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-2-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-2-2/</guid>
+      <description>Event loop: aggiungere un evento GPIO esterno</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Avanzato - Esercizio 3.2</title>
+      <link>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-3-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/workshops/esp-idf-advanced/assignment-3-2/</guid>
+      <description>Analizzare il core dump (guidato)</description>
+      
+    </item>
+    
+  </channel>
+</rss>

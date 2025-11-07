@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Espressif ESP-IDF Workshops on Workshops</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Espressif ESP-IDF Workshops on Workshops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 John Lee</copyright>
+    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linux prerequisites 🐧</title>
+      <link>http://localhost:1313/workshops/esp-idf-setup/installation_linux/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-setup/installation_linux/</guid>
+      <description>This guide outlines the preliminary steps to set up your work environment and follow the workshops.</description>
+      
+    </item>
+    
+    <item>
+      <title>macOS prerequisites 🍎</title>
+      <link>http://localhost:1313/workshops/esp-idf-setup/installation_macos/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-setup/installation_macos/</guid>
+      <description>This guide outlines the preliminary steps to set up your work environment and follow the workshops.</description>
+      
+    </item>
+    
+    <item>
+      <title>Windows prerequisites 🪟</title>
+      <link>http://localhost:1313/workshops/esp-idf-setup/installation_windows/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-setup/installation_windows/</guid>
+      <description>This guide outlines the preliminary steps to set up your work environment and follow the workshops.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  1.1</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-1-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-1-1/</guid>
+      <description>Create the &lt;code&gt;alarm&lt;/code&gt; component and refactor the code to use it. (Guided)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  1.2</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-1-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-1-2/</guid>
+      <description>Create a &lt;code&gt;cloud_manager&lt;/code&gt; component and refactor the code to use it.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  1.3</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-1-3/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-1-3/</guid>
+      <description>Support multiple configurations via sdkconfigs (Guided)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  2.1</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-2-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-2-1/</guid>
+      <description>Event loop: Manage temperature and alarm sensor via events (guided)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  2.2</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-2-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-2-2/</guid>
+      <description>Event loop: add an external GPIO event</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  3.1</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-3-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-3-1/</guid>
+      <description>Reduce binary size by working on configuration.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  3.2</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-3-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-3-2/</guid>
+      <description>Explore core dump &amp;ndash; guided</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  3.3</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-3-3/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-3-3/</guid>
+      <description>Explore core dump - DIY</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  4.1</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-4-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-4-1/</guid>
+      <description>Change partition table to Factory app, two ota definitions (guided)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  4.2</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-4-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-4-2/</guid>
+      <description>Create a custom partition table</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Assign.  4.3</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/assignment-4-3/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/assignment-4-3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Lecture 1</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/lecture-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/lecture-1/</guid>
+      <description>In this lecture, we explore the ESP-IDF build system, built on CMake and Ninja. We focus on modular components, the Component Manager, and Board Support Packages (BSPs) for hardware abstraction. We also cover how to create custom components and manage configurations using sdkconfig files and build profiles, enabling flexible and reproducible builds.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Lecture 2</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/lecture-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/lecture-2/</guid>
+      <description>In this article, we explore the event loop—a core component of Espressif&amp;rsquo;s ESP-IDF framework that facilitates efficient, decoupled, and asynchronous event handling in embedded applications. We examine its functionality, highlight its benefits, explain how it is used by default within ESP-IDF, and provide practical code examples to demonstrate common usage patterns.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Lecture 3</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/lecture-3/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/lecture-3/</guid>
+      <description>In this article, we cover size analysis and core dumps. You’ll learn what they do, why they matter, and how to use them to build more efficient and reliable applications.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Adv. - Lecture 4</title>
+      <link>http://localhost:1313/workshops/esp-idf-advanced/lecture-4/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-advanced/lecture-4/</guid>
+      <description>In this article, we explore the advanced features required for security: OTA update, flash encryption, and secure bootloader</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 1.1</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-1-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-1-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 1.2</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-1-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-1-2/</guid>
+      <description>Create a new project from example &lt;code&gt;blink&lt;/code&gt; and change the output GPIO pin via &lt;code&gt;menuconfig&lt;/code&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 2.1</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-2-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-2-1/</guid>
+      <description>Start a soft-AP and an HTTP server (guided)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 2.2</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-2-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-2-2/</guid>
+      <description>Add additional routes to the HTTP server to drive the led remotely</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 2.3 (Optional)</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-2-3/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-2-3/</guid>
+      <description>Add a new route to the HTTP server for a programmable blink (Optional)</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 3.1</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-3-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-3-1/</guid>
+      <description>Create a led-toggle component and refactor the hello_led example using the component</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 3.2</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-3-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-3-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Assign. 3.3</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/assignment-3-3/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/assignment-3-3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Lecture 1</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/lecture-1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/lecture-1/</guid>
+      <description>In this lesson, we introduce ESP-IDF, the official Espressif framework for IoT application development, exploring its architecture, main components, and development tools. We also examine the hardware used in the workshop, based on the ESP32-C3 SoC, thus preparing the ground for the first practical exercise.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Lecture 2</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/lecture-2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/lecture-2/</guid>
+      <description>In this lesson, we introduce the layered structure of Internet communication, explaining the ISO/OSI model and the data encapsulation process. We also explore HTTP and MQTT protocols, showing how REST APIs and the JSON format enable communication between IoT devices and applications.</description>
+      
+    </item>
+    
+    <item>
+      <title>ESP-IDF Basics - Lecture 3</title>
+      <link>http://localhost:1313/workshops/esp-idf-basic/lecture-3/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/esp-idf-basic/lecture-3/</guid>
+      <description>In this lecture we&amp;rsquo;ll explore how to include libraries which are part of the ESP-IDF, external libraries and components from the ESP component registry</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+include:
+  - '.gitlab/ci/common.yml'
+  - '.gitlab/ci/check_article_details.yml'
+  - '.gitlab/ci/build_hugo.yml'
+  - '.gitlab/ci/deploy_preview.yml'
+  - '.gitlab/ci/comment_preview.yml'
+  - '.gitlab/ci/sync_github.yml'
+  - '.gitlab/ci/comment_github.yml'
+
+stages:
+  - check_article
+  - build_hugo
+  - deploy_preview
+  - comment_preview
+  - sync_github
+  - comment_github
