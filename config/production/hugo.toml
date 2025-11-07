@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-baseURL = "https://developer.espressif.com/"
+baseURL = "https://fbez.github.io/workshop-esp-idf/"
 title = "Espressif Developer Portal"
 
 buildDrafts = false
