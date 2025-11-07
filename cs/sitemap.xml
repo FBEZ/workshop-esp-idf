@@ -3,143 +3,143 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/workshop-esp-idf/cs/authors/</loc>
+    <loc>https://fbez.github.io/workshop-esp-idf/cs/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/workshop-esp-idf/it/authors/"
+      href="https://fbez.github.io/workshop-esp-idf/it/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshop-esp-idf/authors/"
+      href="https://fbez.github.io/workshop-esp-idf/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/workshop-esp-idf/cs/authors/"
+      href="https://fbez.github.io/workshop-esp-idf/cs/authors/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshop-esp-idf/cs/categories/</loc>
+    <loc>https://fbez.github.io/workshop-esp-idf/cs/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshop-esp-idf/categories/"
+      href="https://fbez.github.io/workshop-esp-idf/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/workshop-esp-idf/it/categories/"
+      href="https://fbez.github.io/workshop-esp-idf/it/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/workshop-esp-idf/cs/categories/"
+      href="https://fbez.github.io/workshop-esp-idf/cs/categories/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshop-esp-idf/cs/</loc>
+    <loc>https://fbez.github.io/workshop-esp-idf/cs/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/workshop-esp-idf/it/"
+      href="https://fbez.github.io/workshop-esp-idf/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshop-esp-idf/"
+      href="https://fbez.github.io/workshop-esp-idf/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/workshop-esp-idf/cs/"
+      href="https://fbez.github.io/workshop-esp-idf/cs/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshop-esp-idf/cs/platforms/</loc>
+    <loc>https://fbez.github.io/workshop-esp-idf/cs/platforms/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshop-esp-idf/platforms/"
+      href="https://fbez.github.io/workshop-esp-idf/platforms/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/workshop-esp-idf/it/platforms/"
+      href="https://fbez.github.io/workshop-esp-idf/it/platforms/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/workshop-esp-idf/cs/platforms/"
+      href="https://fbez.github.io/workshop-esp-idf/cs/platforms/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshop-esp-idf/cs/series/</loc>
+    <loc>https://fbez.github.io/workshop-esp-idf/cs/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshop-esp-idf/series/"
+      href="https://fbez.github.io/workshop-esp-idf/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/workshop-esp-idf/it/series/"
+      href="https://fbez.github.io/workshop-esp-idf/it/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/workshop-esp-idf/cs/series/"
+      href="https://fbez.github.io/workshop-esp-idf/cs/series/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshop-esp-idf/cs/socs/</loc>
+    <loc>https://fbez.github.io/workshop-esp-idf/cs/socs/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshop-esp-idf/socs/"
+      href="https://fbez.github.io/workshop-esp-idf/socs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/workshop-esp-idf/it/socs/"
+      href="https://fbez.github.io/workshop-esp-idf/it/socs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/workshop-esp-idf/cs/socs/"
+      href="https://fbez.github.io/workshop-esp-idf/cs/socs/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/workshop-esp-idf/cs/tags/</loc>
+    <loc>https://fbez.github.io/workshop-esp-idf/cs/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/workshop-esp-idf/tags/"
+      href="https://fbez.github.io/workshop-esp-idf/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/workshop-esp-idf/it/tags/"
+      href="https://fbez.github.io/workshop-esp-idf/it/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="http://localhost:1313/workshop-esp-idf/cs/tags/"
+      href="https://fbez.github.io/workshop-esp-idf/cs/tags/"
     />
   </url>
 </urlset>
