@@ -89,7 +89,7 @@ If any issues arise, there will be a short window during the first exercise to c
   * Compiler/linker concepts
   * Use of define, struct, and typedef
 * [JSON](https://en.wikipedia.org/wiki/JSON) and [YAML](https://en.wikipedia.org/wiki/YAML) data formats
-* HTML and its main tags (<html>, <body>, <h1>, <h2>, <p>)
+* HTML and its main tags (`<html>`, `<body>`, `<h1>`, `<h2>`, `<p>`) 
 * Basic understanding of HTTP request methods (GET, POST) and the concept of URI and *routes*
 
 ## Next Step
