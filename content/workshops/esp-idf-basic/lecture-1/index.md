@@ -58,7 +58,7 @@ Components are packages that include libraries along with additional files for d
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/esp_idf_components.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets/esp_idf_components.webp"
 height=300
 caption="Fig.2 - ESP-IDF Components"
 

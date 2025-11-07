@@ -30,7 +30,7 @@ L’architettura della piattaforma ESP-IDF è principalmente suddivisa in 3 live
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/esp-idf-highlevel.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets/esp-idf-highlevel.webp"
 height=500
 caption="Fig.1 - Panoramica ad alto livello di ESP-IDF"
 
@@ -59,7 +59,7 @@ I componenti sono pacchetti che includono librerie, file per la gestione delle d
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/esp_idf_components.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets/esp_idf_components.webp"
 height=300
 caption="Fig.2 - Componenti ESP-IDF"
 
@@ -119,7 +119,7 @@ Puoi individuare l’ESP32-C3-Mini-1-N4 sulla tua scheda del workshop (vedi Fig.
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/lec_1_module.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets/lec_1_module.webp"
 height=500
 caption="Fig.3 - SoC ESP32-C3, modulo e scheda del workshop"
 
@@ -132,7 +132,7 @@ Il diagramma a blocchi funzionale è mostrato in Fig. 4.
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/esp32-c3-overview.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets/esp32-c3-overview.webp"
 height=500
 caption="Fig.4 - Diagramma a blocchi ESP32-C3"
 
@@ -161,7 +161,7 @@ Puoi trovare la spiegazione dei part number di Espressif nell'articolo [Espressi
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/esp32_c3-_devkit_rust_1_top.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets/esp32_c3-_devkit_rust_1_top.webp"
 height=500
 caption="Fig.5 - Scheda del workshop"
 

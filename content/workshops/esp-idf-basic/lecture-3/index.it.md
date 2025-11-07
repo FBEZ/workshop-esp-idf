@@ -35,7 +35,7 @@ Durante gli esercizi, l’obiettivo sarà controllare il LED e il sensore I2C (S
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/lec_3_led_gpio.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets/lec_3_led_gpio.webp"
 caption="Fig.1 - GPIO collegato al LED"
 
 >}}
@@ -197,7 +197,7 @@ Per vedere come gestire una libreria esterna, utilizzeremo il componente `button
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets//lec_3_registry.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets//lec_3_registry.webp"
 caption="Fig.2 - Componente espressif/button"
 
 >}}

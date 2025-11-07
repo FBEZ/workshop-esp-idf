@@ -203,7 +203,7 @@ Dovresti avere una configurazione simile alla seguente:
 
 {{< figure
 default=true
-src="/workshops/esp-idf-advanced/assets/assignment_4_2_flash_encryption.webp"
+src="/workshop-esp-idf/workshops/esp-idf-advanced/assets/assignment_4_2_flash_encryption.webp"
 height=500
 caption="Opzioni di cifratura della flash"
 >}}

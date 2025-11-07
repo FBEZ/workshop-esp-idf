@@ -8,7 +8,7 @@ summary: "Questa guida presenta i passi preliminari per impostare il setup di la
 
 * Vai su [sito di download di VS Code](code.visualstudio.com/downloads)
 * Scarica ed installa la versione per Linux (`.deb` per Ubuntu)
-![](/workshops/esp-idf-setup/assets/setup//1_ubuntu_vscode_download.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup//1_ubuntu_vscode_download.webp)
 
 {{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
 In questa guida viene usata l'ultima versione LST di Ubuntu, la 24.04. 
@@ -30,7 +30,7 @@ In questa guida viene usata l'ultima versione LST di Ubuntu, la 24.04.
    ```
 * Dovresti ora vedere l'interfaccia di VS Code
 
-![](/workshops/esp-idf-setup/assets/setup//2_vscode_screen.webp)
+![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup//2_vscode_screen.webp)
 
 
 {{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}

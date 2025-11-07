@@ -83,7 +83,7 @@ Durante il processo OTA, il dispositivo Espressif scarica il firmware da una pos
 
 {{< figure
 default=true
-src="/workshops/esp-idf-advanced/assets/lecture_4_ota_diagram.webp"
+src="/workshop-esp-idf/workshops/esp-idf-advanced/assets/lecture_4_ota_diagram.webp"
 width=350
 caption="Fig.1 -- Diagramma base OTA"
 >}}
@@ -106,7 +106,7 @@ Nella maggior parte dei casi, l’applicazione deve interagire solo con l’inte
 
 {{< figure
 default=true
-src="/workshops/esp-idf-advanced/assets/lecture_4_ota.webp"
+src="/workshop-esp-idf/workshops/esp-idf-advanced/assets/lecture_4_ota.webp"
 height=500
 caption="Fig.2 -- Componenti chiave OTA (diagramma semplificato)"
 >}}

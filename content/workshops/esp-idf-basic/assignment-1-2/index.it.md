@@ -30,7 +30,7 @@ Nell’esempio `blink`, è necessario specificare il GPIO a cui è collegato il 
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/esp32_c3-_devkit_rust_1_top.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets/esp32_c3-_devkit_rust_1_top.webp"
 height=500
 caption="Fig.1 - Vista superiore della scheda"
 

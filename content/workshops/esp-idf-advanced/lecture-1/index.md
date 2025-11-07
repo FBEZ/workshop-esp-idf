@@ -42,7 +42,7 @@ A typical component includes:
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/esp_idf_components.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets/esp_idf_components.webp"
 height=200 
 caption="Fig.1 - Component structure"
 >}}

@@ -8,7 +8,7 @@ summary: "This guide outlines the preliminary steps to set up your work environm
 
 * Go to the [VS Code download site](code.visualstudio.com/downloads)
 * Download and install the Windows version
-  ![](/workshops/esp-idf-setup/assets/setup//1_windows_vscode_download.webp)
+  ![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup//1_windows_vscode_download.webp)
 
 {{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
 This guide uses Windows 11.
@@ -29,9 +29,9 @@ Since it’s often useful to open the editor directly from a folder, we’ll fol
 * Right-click inside the folder in File Explorer
 * From the menu, select `Show more options`
 * Click on `Open with Code`
-  ![](/workshops/esp-idf-setup/assets/setup//1_5_windows_open_with_code.webp)
+  ![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup//1_5_windows_open_with_code.webp)
 * You should now see the VS Code interface
-  ![](/workshops/esp-idf-setup/assets/setup//2_vscode_screen.webp)
+  ![](/workshop-esp-idf/workshops/esp-idf-setup/assets/setup//2_vscode_screen.webp)
 
 {{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}
 VS Code may ask whether you trust the author of the folder. This is important when using `git` repositories, but for now it doesn’t matter. Click “Yes.”

@@ -11,9 +11,9 @@ cascade:
 Benvenuto sulla pagina dei workshop ESP-IDF di [Espressif Systems](https://espressif.com/). 
 
 ## Workshop disponibili
-{{< article link="/it/workshops/esp-idf-setup/" >}}
-{{< article link="/it/workshops/esp-idf-basic/" >}}
-{{< article link="/it/workshops/esp-idf-advanced/" >}}
+{{< article link="/it/workshop-esp-idf/workshops/esp-idf-setup/" >}}
+{{< article link="/it/workshop-esp-idf/workshops/esp-idf-basic/" >}}
+{{< article link="/it/workshop-esp-idf/workshops/esp-idf-advanced/" >}}
 
 <br>
 

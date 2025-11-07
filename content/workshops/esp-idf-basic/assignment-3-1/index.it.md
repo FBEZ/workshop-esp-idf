@@ -24,7 +24,7 @@ Il primo compito è creare un componente `led-toggle`.
 
 {{< figure
 default=true
-src="/workshops/esp-idf-basic/assets/ass3_1_new_component.webp"
+src="/workshop-esp-idf/workshops/esp-idf-basic/assets/ass3_1_new_component.webp"
 caption="Fig.1 - Creare un nuovo componente"
 
 >}}
