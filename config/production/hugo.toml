@@ -3,6 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 baseURL = "https://fbez.github.io/workshop-esp-idf/"
+relativeURLs = true
+canonifyURLs = true
 title = "Espressif Developer Portal"
 
 buildDrafts = false
