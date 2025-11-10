@@ -9,7 +9,7 @@ summary: "Explore core dump -- guided"
 
 ## Core dump
 
-For this assignment, you need to get the [assignment_3_2_base](https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code/tree/main/assignment_3_2_base) project.
+For this assignment, you need to get the [assignment_3_2_base](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/assignment_3_2_base) project.
 
 ## Assignment steps
 

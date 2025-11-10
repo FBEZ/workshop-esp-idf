@@ -27,7 +27,7 @@ Per controllare la tabella delle partizioni attualmente caricata sul modulo è n
 * Leggi la flash con `esptool.py`:
 
   ```bash
-  esptool.py -p <YOUR-PORT> read_flash 0x8000 0x1000 /workshop/esp-idf-advanced/assets/partition_table.bin
+  esptool.py -p <YOUR-PORT> read_flash 0x8000 0x1000 https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/partition_table.bin
   ```
 
 {{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}
@@ -41,7 +41,7 @@ Con questo comando viene creato un file `partition_table.bin`.
 * Nel terminale, usa il comando `gen_esp32part.py`.
 
   ```bash
-  python $IDF_PATH/components/partition_table/gen_esp32part.py /workshop/esp-idf-advanced/assets/partition_table.bin
+  python $IDF_PATH/components/partition_table/gen_esp32part.py https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/partition_table.bin
   ```
 
 Otterrai questo output:
@@ -73,8 +73,8 @@ Dato che ora stiamo usando due OTA, la configurazione flash di default di 2MB no
 
 Ripetiamo gli stessi passaggi di prima:
 
-* `esptool.py -p <YOUR-PORT> read_flash 0x8000 0x1000 /workshop/esp-idf-advanced/assets/partition_table.bin`
-* `python $IDF_PATH/components/partition_table/gen_esp32part.py /workshop/esp-idf-advanced/assets/partition_table.bin`
+* `esptool.py -p <YOUR-PORT> read_flash 0x8000 0x1000 https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/partition_table.bin`
+* `python $IDF_PATH/components/partition_table/gen_esp32part.py https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/partition_table.bin`
 
 * Ottenendo così 
     ```bash

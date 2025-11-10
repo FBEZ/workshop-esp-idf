@@ -264,7 +264,7 @@ void app_main(void)
 
 </details>
 
-Puoi trovare l’intero progetto della soluzione nella cartella [assignment_2_1](/workshop/esp-idf-advanced/assets) del repository GitHub.
+Puoi trovare l’intero progetto della soluzione nella cartella [assignment_2_1](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced) del repository GitHub.
 
 ## Conclusione
 

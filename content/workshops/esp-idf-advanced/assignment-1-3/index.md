@@ -141,7 +141,7 @@ CONFIG_LOG_DEFAULT_LEVEL_INFO=y
 </details>
 
 
-You can find the whole solution project in the [assignment_1_3](https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code/tree/main/assignment_1_3)  folder in the GitHub repo.
+You can find the whole solution project in the [assignment_1_3](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/assignment_1_3)  folder in the GitHub repo.
 
 > Next step: [Lecture 2](../lecture-2/)
 

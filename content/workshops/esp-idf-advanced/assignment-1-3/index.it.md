@@ -143,7 +143,7 @@ CONFIG_LOG_DEFAULT_LEVEL_INFO=y
 
 </details>
 
-Puoi trovare l’intero progetto di soluzione nella cartella [assignment_1_3](https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code/tree/main/assignment_1_3) del repository GitHub.
+Puoi trovare l’intero progetto di soluzione nella cartella [assignment_1_3](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/assignment_1_3) del repository GitHub.
 
 > Passo successivo: [Lezione 2](../lecture-2/)
 

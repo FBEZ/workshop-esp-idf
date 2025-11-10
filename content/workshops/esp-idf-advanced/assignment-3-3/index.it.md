@@ -15,8 +15,8 @@ Crea il file del core dump come hai fatto nel precedente esercizio.
 
 * Aspetta che si verifichi il crash
 * Ferma il monitor (`CTRL + ]`)
-* Esegui `idf.py coredump-info > /workshop/esp-idf-advanced/assets/coredump.txt`
-* Apri il file `/workshop/esp-idf-advanced/assets/coredump.txt`
+* Esegui `idf.py coredump-info > https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/coredump.txt`
+* Apri il file `https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/coredump.txt`
 
 <details>
 <summary>Espandi il secondo core dump</summary>

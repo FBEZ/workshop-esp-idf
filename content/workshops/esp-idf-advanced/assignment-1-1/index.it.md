@@ -11,7 +11,7 @@ summary: "Crea il componente `alarm` e rifattorizza il codice per utilizzarlo. (
 
 ## Obiettivi dell'esercitazione
 
-1. Scaricare il codice [`assignment_1_1_base`](https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code/tree/main/assignment_1_1_base)
+1. Scaricare il codice [`assignment_1_1_base`](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/assignment_1_1_base)
 2. Compilare ed eseguire l’esempio (per verificare che tutto funzioni)
 3. Creare un componente `alarm`
 4. Aggiungere la configurazione del componente
@@ -21,12 +21,12 @@ summary: "Crea il componente `alarm` e rifattorizza il codice per utilizzarlo. (
 Per scaricare il codice ci sono due strade. 
 
 1. Scarica lo zip dalla repo:
-   * Vai alla [repository su github](https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code)
+   * Vai alla [repository su github](https://github.com/espressif/developer-portal-codebase)
    * Clicca il tasto verde "Code"
    * Nel menù a tendina che si pare, clicca su `Download ZIP`
 2. Clona la repo con `git`<br>
    ```console
-   git clone https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code
+   git clone https://github.com/espressif/developer-portal-codebase
    ```
 
 
@@ -341,7 +341,7 @@ void alarm_delete(alarm_t *alarm)
 
 </details>
 
-Puoi trovare l’intero progetto di soluzione nella cartella [assignment_1_1](https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code/tree/main/assignment_1_1) della repository GitHub.
+Puoi trovare l’intero progetto di soluzione nella cartella [assignment_1_1](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/assignment_1_1) della repository GitHub.
 
 > Passaggio successivo: [Esercizio 1.2](../assignment-1-2/)
 

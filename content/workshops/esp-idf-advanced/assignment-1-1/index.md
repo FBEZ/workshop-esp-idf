@@ -22,14 +22,14 @@ There are two ways to download the code:
 
 1. **Download the ZIP file from the repository:**
 
-   * Go to the [GitHub repository](https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code)
+   * Go to the [GitHub repository](https://github.com/espressif/developer-portal-codebase)
    * Click the green **“Code”** button
    * In the dropdown menu that appears, click **“Download ZIP”**
 
 2. **Clone the repository using `git`:**
 
    ```console
-   git clone https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code
+   git clone https://github.com/espressif/developer-portal-codebase
    ```
 
 ## Run the example 
@@ -331,7 +331,7 @@ __`Kconfig`__
 ```
 </details>
 
-You can find the whole solution project on the [assignment_1_1](https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code/tree/main/assignment_1_1) folder on the github repo.
+You can find the whole solution project on the [assignment_1_1](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/assignment_1_1) folder on the github repo.
 
 > Next step: [Assignment 1.2](../assignment-1-2/)
 

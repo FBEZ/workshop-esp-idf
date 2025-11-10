@@ -85,7 +85,7 @@ If you encounter any issues, there will still be a short time during the first e
 
 ## Next Step
 
-The first lesson is based on the code in [`assignment_1_1_base`](https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code/tree/main/assignment_1_1_base).
+The first lesson is based on the code in [`assignment_1_1_base`](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/assignment_1_1_base).
 
 If you are unable to complete an exercise during the session, you can continue by downloading the appropriate solution according to the following structure:
 

@@ -248,7 +248,7 @@ endmenu
 
 </details>
 
-Puoi trovare l’intero progetto soluzione nella cartella [assignment_1_2](/workshop/esp-idf-advanced/assets) della repository GitHub.
+Puoi trovare l’intero progetto soluzione nella cartella [assignment_1_2](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced) della repository GitHub.
 
 > Prossimo passo: [Esercizio 1.3](../assignment-1-3/)
 

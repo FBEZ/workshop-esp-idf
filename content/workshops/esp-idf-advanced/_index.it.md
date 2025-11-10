@@ -98,7 +98,7 @@ In caso di problemi, sarà comunque previsto un breve momento durante il primo e
 
 ## Prossimo passo
 
-La prima lezione si basa sul codice in [`assignment_1_1_base`](https://github.com/FBEZ-docs-and-templates/devrel-advanced-workshop-code/tree/main/assignment_1_1_base). 
+La prima lezione si basa sul codice in [`assignment_1_1_base`](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/assignment_1_1_base). 
 
 Se durante le esercitazioni non riuscirai a completare un esercizio, potrai comunque continuare scaricando la soluzione appropriata secondo lo schema seguente:
 
