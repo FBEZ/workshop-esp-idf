@@ -49,7 +49,7 @@ Delle cartelle nella repo, `assigment_1_1_base` e `assignment_3_2_base` contengo
   * `> ESP-IDF: Build, Flash, and Start a Monitor on Your Device`<br>
     *(Oppure clicca sull’icona della fiamma (🔥) nella barra inferiore)*
 
-Ora dovresti vedere l’esempio in esecuzione, connesso alla tua rete WiFi e al server `mqtt://test.mosquitto.org`.
+Ora dovresti vedere l’esempio in esecuzione, connesso alla tua rete WiFi e al server `mqtt://test.mosquitto.org`. Puoi verificare la connessione controllando gli output sul terminale. 
 
 <details>
 <summary>Mostra output del terminale</summary>
