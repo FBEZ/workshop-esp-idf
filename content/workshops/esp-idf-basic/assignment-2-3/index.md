@@ -23,10 +23,11 @@ If you connect your computer to the module’s access point, you can instead use
 <details>
 <summary>Python script for POST request</summary>
 
-* First install requests:
+<!-- * First install requests:
     ```console
     pip install requests
-    ```
+    ``` -->
+* Open an ESP-IDF Terminal `ESP-IDF: Open ESP-IDF Terminal`
 * Then create the following script
 
 ```python

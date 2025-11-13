@@ -206,8 +206,12 @@ Per utilizzarla, è necessario includerla e configurare il server.
    ```c
    #include "esp_http_server.h"
    ```
+2. Per poter usare la libreria dei log (`ESP_LOGI`), definiamo la stringa TAG:
+   ```c
+   static const char* TAG = "main";
+   ```
 <!-- 
-2. Aggiungi `esp_http_server` alla lista `PRIV_REQUIRES` nel tuo `CMakeLists.txt`, in modo che il sistema di build includa i componenti necessari.
+1. Aggiungi `esp_http_server` alla lista `PRIV_REQUIRES` nel tuo `CMakeLists.txt`, in modo che il sistema di build includa i componenti necessari.
 
 ```cmake
 idf_component_register(SRCS "blink_example_main.c"

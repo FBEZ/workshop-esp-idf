@@ -200,6 +200,10 @@ To use `esp_http_server` in your project, you’ll need to ensure that CMake rec
    ```c
    #include "esp_http_server.h"
    ```
+2. To use the logging library (`ESP_LOGI`), we define a string named TAG:
+   ```c
+    static const char* TAG = "main";
+   ``` 
 <!-- 2. Add `esp_http_server` to your `CMakeLists.txt` under the `PRIV_REQUIRES` list. This tells the build system to include the necessary components.
 
 Your `CMakeLists.txt` should look like this:
