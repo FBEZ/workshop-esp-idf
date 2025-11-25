@@ -278,4 +278,4 @@ Now that we have a high-level overview of both hardware and firmware, we're read
 ### Next Step
 > Next Assignment &rarr; __[assignment 1.1](../assignment-1-1)__
 
-> Or [go back to navigation menu](../#workshop)
+> Or [go back to navigation menu](../#agenda)

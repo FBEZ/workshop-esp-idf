@@ -29,28 +29,28 @@ The workshop is divided into three parts, each lasting about one hour.
 * **Part 1**: Welcome and introduction
 
   * [Lesson 1](lecture-1/) – Introduction to ESP-IDF and the ESP-IDF extension for VS Code
-  * [Exercise 1.1](assignment-1-1/) – Verify your ESP-IDF and VS Code installation by compiling and flashing the *hello_world* example. Modify the example’s output text.
-  * [Exercise 1.2](assignment-1-2/) – Create a new project starting from the *blink* example.
+  * [Assignment 1.1](assignment-1-1/) – Verify your ESP-IDF and VS Code installation by compiling and flashing the *hello_world* example. Modify the example’s output text.
+  * [Assignment 1.2](assignment-1-2/) – Create a new project starting from the *blink* example.
 
 * **Part 2**: HTTP Connectivity
 
   * [Lesson 2](lecture-2/) – Connectivity: HTTP protocol, HTML, and REST APIs
-  * [Exercise 2.1](assignment-2-1/) – Create an HTTP server that handles the GET request `/index.html/` and returns `<h1>Hello LED Control</h1>`.
-  * [Exercise 2.2](assignment-2-2/) – Add the following routes to the HTTP server:
+  * [Assignment 2.1](assignment-2-1/) – Create an HTTP server that handles the GET request `/index.html/` and returns `<h1>Hello LED Control</h1>`.
+  * [Assignment 2.2](assignment-2-2/) – Add the following routes to the HTTP server:
 
     * GET /led/on → turns on the LED and returns the JSON `{"led": "on"}`
     * GET /led/off → turns off the LED and returns the JSON `{"led": "off"}`
     * POST /led/blink → accepts a JSON `{ "times": int, "interval_ms": int }` and makes the LED blink the specified number of times at the given interval.
-  * [Exercise 2.3](assignment-2-3/) – *(Optional)* Add the following route:
+  * [Assignment 2.3](assignment-2-3/) – *(Optional)* Add the following route:
 
     * POST /led/flash → accepts the JSON `{"periods": [int], "duty_cycles": [int]}` and, for each element, calculates on/off durations to drive the LED accordingly.
 
 * **Part 3**: Peripherals and Integration
 
   * [Lesson 3](lecture-3/) – GPIO, I2C, and the component registry.
-  * [Exercise 3.1](assignment-3-1/) – Create a new component to control the LED.
-  * [Exercise 3.2](assignment-3-2/) – Add a component to read the onboard environmental sensor.
-  * [Exercise 3.3](assignment-3-3/) – *(Optional)* Add the route:
+  * [Assignment 3.1](assignment-3-1/) – Create a new component to control the LED.
+  * [Assignment 3.2](assignment-3-2/) – Add a component to read the onboard environmental sensor.
+  * [Assignment 3.3](assignment-3-3/) – *(Optional)* Add the route:
 
     * GET /environment/ → returns the sensor reading. Choose the most appropriate JSON format to represent the data.
 

@@ -237,4 +237,4 @@ Now you have all the technical background to start the assignments.
 
 > Next assignment &rarr; __[Assignment 2.1](../assignment-2-1/)__
 
-> Or [go back to navigation menu](../#workshop)
+> Or [go back to navigation menu](../#agenda)

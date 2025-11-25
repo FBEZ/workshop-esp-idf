@@ -15,7 +15,7 @@ In this assignment you will:
 2. Change the displayed string. 
 
 {{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
-In this workshop, we'll be using VSCode extension. If you didn't install it yet, please follow [these instructions](https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/).
+In this workshop, we'll be using VS Code extension. If you didn't install it yet, please follow [these instructions](https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/).
 {{< /alert >}}
 
 ## Step 1: Create and test a project from an example
@@ -26,20 +26,20 @@ In this section, we will:
 2. Build the project
 3. Flash and monitor
 
-Please note that most commands in VSCode are executed through the __Command Palette__, which you can open by pressing `Ctrl`+`Shift`+`P` (or `Cmd`+`Shift`+`P`)
+Please note that most commands in VS Code are executed through the __command palette__, which you can open by pressing `Ctrl`+`Shift`+`P` (or `Cmd`+`Shift`+`P`)
 
 {{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
-  In this guide, commands to enter in the __Command Palette__ are marked with the __symbol `>`__. Usually it is sufficient to type a few character of the command, then a dropdown menu will help you find the right one.
+  In this guide, commands to enter in the __command palette__ are marked with the __symbol `>`__. Usually it is sufficient to type a few character of the command, then a dropdown menu will help you find the right one.
 {{< /alert >}}
 
 
 ### Create a new project from an example
 
-1. Open VSCode
+1. Open VS Code
 2. `> ESP-IDF: Show Example Project`
 3. (If asked) Choose the ESP-IDF version
 4. Click on `get_started` &rarr; `hello_world`
-5. Click on the button `Select Location for Creating `hello_world` Example` in the new tab.
+5. Click on the button `Select Location for Creating hello_world Example` in the new tab.
 
 <!-- ![Create new project tab](../assets/ass1_1_new_project.webp) -->
 {{< figure
@@ -137,4 +137,4 @@ You can now create a new project and flash it on the board. In the next assignme
 ### Next step
 > Next assignment &rarr; [Assignment 1.2](../assignment-1-2/)
 
-> Or [go back to navigation menu](../#workshop)
+> Or [go back to navigation menu](../#agenda)

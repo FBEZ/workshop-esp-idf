@@ -46,61 +46,117 @@ Il progetto conterrà ora la cartella `components` e tutti i file necessari:
 
 ### Creare la funzione toggle
 
-* Aggiungi l'interfaccia pubblica del tuo componente all’interno di `led_toggle.h`:
-
-    ```c
-    #include "driver/gpio.h"
-
-    typedef struct {
-        int gpio_nr;
-        bool status;
-    }led_gpio_t;
-
-    esp_err_t led_config(led_gpio_t * led_gpio);
-    esp_err_t led_drive(led_gpio_t * led_gpio, bool level);
-    esp_err_t led_toggle(led_gpio_t * led_gpio);
-    ```
+Aggiungi l'interfaccia pubblica ed il codice nel componente a seconda della tipologia di led che hai sulla scheda. 
 
 {{< alert icon="lightbulb" iconColor="#179299"  cardColor="#9cccce">}}
-`esp_err` è un enum (quindi un int) usato per restituire codici di errore. Puoi controllarne i valori [nella documentazione](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/error-codes.html).
-Questo enum viene utilizzato anche con il logging e macro come `ESP_ERR_CHECK`, che troverai in quasi tutti gli esempi ESP-IDF.
+`esp_err` è una enum (quindi un intero) utilizzata per restituire codici di errore. Puoi verificarne i valori [nella documentazione](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/error-codes.html).
+Questa enum è usata anche con il logging e con macro come `ESP_ERR_CHECK`, che troverai in quasi tutti gli esempi dell’ESP-IDF.
 {{< /alert >}}
 
-* Aggiungi la direttiva REQUIRES al `CMakeList.txt` del componente `led_toggle`
-   ```console
-   idf_component_register(SRCS "led_toggle.c"
-                    REQUIRES esp_driver_gpio
-                    INCLUDE_DIRS "include")
-   ```
 
-* In `led_toggle.c`, implementa la logica del modulo:
+#### LED GPIO Version
 
-    ```c
-    #include <stdio.h>
-    #include "led_toggle.h"
-    #include "esp_err.h"
+_`led_toggle.h`_
+```c
+#include "driver/gpio.h"
 
-    esp_err_t led_config(led_gpio_t * led_gpio){
+typedef struct {
+    int gpio_nr;
+    bool status;
+}led_gpio_t;
 
-        gpio_config_t io_conf = {};
-        io_conf.intr_type = GPIO_INTR_DISABLE;
-        io_conf.mode = GPIO_MODE_OUTPUT;
-        io_conf.pin_bit_mask =  (1ULL<<led_gpio->gpio_nr);
-        io_conf.pull_down_en = 0;
-        io_conf.pull_up_en = 0;
-        return gpio_config(&io_conf);
-    }
+esp_err_t led_config(led_gpio_t * led_gpio);
+esp_err_t led_drive(led_gpio_t * led_gpio);
+esp_err_t led_toggle(led_gpio_t * led_gpio);
+```
 
-    esp_err_t led_drive(led_gpio_t * led_gpio,bool level){
-        led_gpio->status = level;
-        return gpio_set_level(led_gpio->gpio_nr, level); // accende il LED
-    }
+_`led_toggle.c`_
 
-    esp_err_t led_toggle(led_gpio_t * led_gpio){
-        //TBD
-        return 0;
-    }
-    ```
+```c
+esp_err_t led_config(led_gpio_t * led_gpio){
+
+    gpio_config_t io_conf = {};
+    io_conf.intr_type = GPIO_INTR_DISABLE;
+    io_conf.mode = GPIO_MODE_OUTPUT;
+    io_conf.pin_bit_mask =  (1ULL<<led_gpio->gpio_nr);
+    io_conf.pull_down_en = 0;
+    io_conf.pull_up_en = 0;
+    return gpio_config(&io_conf);
+}
+
+esp_err_t led_drive(led_gpio_t * led_gpio){
+    return gpio_set_level(led_gpio->gpio_nr, led_gpio->status); // turns led on
+}
+
+esp_err_t led_toggle(led_gpio_t * led_gpio){
+    //TBD
+    return 0;
+}
+```
+
+#### LED RGB Version
+
+
+_`led_toggle.h`_
+
+```c
+#include "led_strip.h"
+
+typedef struct {
+    int gpio_nr;
+    bool status;
+    led_strip_handle_t led_strip;
+}led_handle_t;
+
+esp_err_t led_config(led_handle_t * leg_rgb);
+esp_err_t led_drive(led_handle_t * leg_rgb, bool level);
+esp_err_t led_toggle(led_handle_t * leg_rgb);
+```
+
+_`led_toggle.c`_
+
+```c
+#include <stdio.h>
+#include "led_toggle.h"
+#include "esp_err.h"
+
+esp_err_t led_config(led_handle_t * led_handle)
+{
+
+    led_strip_config_t strip_config = {
+        .strip_gpio_num = led_handle->gpio_nr,
+        .max_leds = 1, // at least one LED on board
+    };
+
+    led_strip_rmt_config_t rmt_config = {
+        .resolution_hz = 10 * 1000 * 1000, // 10MHz
+        .flags.with_dma = false,
+    };
+    esp_err_t ret = led_strip_new_rmt_device(&strip_config, &rmt_config, &led_handle->led_strip);
+    led_strip_clear(led_handle->led_strip); 
+    return ret;
+}
+
+esp_err_t led_drive(led_handle_t * led_handle, bool level){
+    if(level){
+        esp_err_t ret = led_strip_set_pixel(led_handle->led_strip, 0, 16, 16, 16);
+        led_strip_refresh(led_handle->led_strip);
+        led_handle->status = true;
+        return ret;
+    }else{
+        led_handle->status= false;
+        return led_strip_clear(led_handle->led_strip);
+    }  
+}
+
+
+esp_err_t led_toggle(led_handle_t * led_handle){
+    //TBD
+    return 0;
+}
+```
+
+### Testa il component
 
 
 * Ora nel `app_main` includi l'header appropriato
@@ -140,7 +196,6 @@ Nel prossimo esercizio affronterai un tipico problema di sviluppo e utilizzerai 
 #define OUTPUT_LED GPIO_NUM_7
 
 static const char* TAG = "main";
-
 
 
 led_gpio_t my_led = {

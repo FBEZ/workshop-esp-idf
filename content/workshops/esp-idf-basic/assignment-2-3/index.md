@@ -27,8 +27,7 @@ If you connect your computer to the module’s access point, you can instead use
     ```console
     pip install requests
     ``` -->
-* Open an ESP-IDF Terminal `ESP-IDF: Open ESP-IDF Terminal`
-* Then create the following script
+* Create the following script `post_test.py`
 
 ```python
 #!/usr/bin/env python3
@@ -72,6 +71,9 @@ if __name__ == "__main__":
     send_led_flash(payload)
 
 ```
+* Open an ESP-IDF Terminal `ESP-IDF: Open ESP-IDF Terminal`
+* Run the script `python post_test.py`
+
 </details>
 
 ## Solution outline
@@ -100,4 +102,4 @@ If you managed to reach this point, it means you have good understanding of a ba
 ### Next step
 > Next lecture &rarr; [Lecture 3](../lecture-3/)
 
-> Or [go back to navigation menu](../#workshop)
+> Or [go back to navigation menu](../#agenda)

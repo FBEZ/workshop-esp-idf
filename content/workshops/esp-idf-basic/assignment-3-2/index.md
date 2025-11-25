@@ -6,23 +6,31 @@ series_order: 10
 showAuthor: false
 ---
 
-In this assignment, you will read the humidity and temperature values from the on-board sensor.
+In this assignment, you will read the temperature values from the on-board sensor OR the on-chip sensor depending on your board. 
 
-For this assignment, you have to
+
+__On board sensor__
+
 1. Find the part number of the sensor on your board
 2. Find the code for driving the sensor
-3. Read temperature and humidity from the sensor and output it on the serial port with `printf`.
+3. Read temperature from the sensor and output it on the serial port with `printf`.
 
 {{< alert icon="lightbulb" iconColor="#179299"  cardColor="#9cccce">}}
 It is not asked to develop the driver, focus on the fastest way to solve the problem and what the previous lecture was about.
 {{< /alert >}}
 
+__On chip sensor__
+
+1. Find the sensor api reference page
+2. Find how to include, initialize and configure the sensor
+3. Read temperature from the sensor and output it on the serial port with `printf`.
+
 ### Hint
 
 <details>  
-<summary>Show hint</summary>  
+<summary>Show hint on board sensor</summary>  
 
-* The address can be found on the [EVK GitHub page](https://github.com/esp-rs/esp-rust-board).
+* The sensor I2C address can be found on the [EVK GitHub page](https://github.com/esp-rs/esp-rust-board).
 * To install a dependency, open an ESP-IDF terminal:<br>
 
   ```console
@@ -37,7 +45,12 @@ It is not asked to develop the driver, focus on the fastest way to solve the pro
 
 </details>
 
+<details>  
+<summary>Show hint on chip sensor</summary>  
 
+* The information can be found on the [Programming guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/peripherals/temp_sensor.html#api-reference)
+
+</details>
 
 ## Conclusion
 
@@ -47,4 +60,4 @@ Now that you can read the on board sensor, you're ready to move to the last assi
 
 > Next assignment &rarr; [Assignment 3.3](../assignment-3-3/)
 
-> Or [go back to navigation menu](../#workshop)
+> Or [go back to navigation menu](../#agenda)

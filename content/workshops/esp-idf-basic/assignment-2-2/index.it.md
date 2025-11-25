@@ -15,7 +15,9 @@ Il secondo esercizio consiste nell’aggiungere le seguenti route al server HTTP
 
 ## Traccia della soluzione
 
-Per controllare il led, puoi usare il codice dell'esercizio 1.2, riportato qui per convenienza. 
+Per controllare il led, puoi usare il codice dell'[esempio blink](https://github.com/espressif/esp-idf/blob/master/examples/get-started/blink/main/blink_example_main.c) , riportato qui per convenienza. 
+
+### Schede con LED GPIO
 
 * Includi l'header opportuno:
 
@@ -44,6 +46,60 @@ Per controllare il led, puoi usare il codice dell'esercizio 1.2, riportato qui p
         gpio_set_level(OUTPUT_LED, level);
     }
     ```
+
+### Schede con LED RGB
+
+* Aggiungi il componente `led_strip` creando il file `idf_component.yml` all'interno della cartella `main`
+
+  ```bash
+  dependencies:
+       espressif/led_strip: "^3.0.0"
+  ```
+* Includi la libreria
+
+  ```c
+   #include "led_strip.h"
+  ```
+* Specifica il pin da usare (controlla la tua scheda!)
+
+  ```c
+   #define BLINK_GPIO 8
+  ```
+* Crea la funzione di configurazione del LED (da chiamare da `app_main`)
+
+  ```c
+       static void configure_led(void)
+       {
+           ESP_LOGI(TAG, "Esempio configurato per lampeggiare LED indirizzabile!");
+           /* Inizializzazione della striscia LED con il GPIO e il numero di pixel */
+           led_strip_config_t strip_config = {
+               .strip_gpio_num = BLINK_GPIO,
+               .max_leds = 1, // almeno un LED sulla scheda
+           };
+
+           led_strip_rmt_config_t rmt_config = {
+               .resolution_hz = 10 * 1000 * 1000, // 10MHz
+               .flags.with_dma = false,
+           };
+           ESP_ERROR_CHECK(led_strip_new_rmt_device(&strip_config, &rmt_config, &led_strip));
+           led_strip_clear(led_strip);
+       }
+  ```
+* Accendi e spegni il LED con i seguenti comandi
+
+  ```c
+       // LED ON 
+       led_strip_set_pixel(led_strip, 0, 16, 16, 16);
+       led_strip_refresh(led_strip);
+       // LED OFF
+       led_strip_clear(led_strip);
+  ```
+* Esegui una pulizia completa prima di ricompilare
+
+  ```bash
+  ESP-IDF: Full Clean Project
+  ```
+
 
 ## Codice della soluzione
 

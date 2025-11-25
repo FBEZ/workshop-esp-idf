@@ -258,4 +258,4 @@ In this short lecture, we explored two main ways to include external libraries: 
 
 > Next assignment &rarr; [Assignment 3.1](../assignment-3-1/)
 
-> Or [go back to navigation menu](../#workshop)
+> Or [go back to navigation menu](../#agenda)

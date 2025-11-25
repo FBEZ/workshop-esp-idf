@@ -15,7 +15,6 @@ For this assignment, you have to
 ```json
 {
    'temperature': float,
-   'humidity': float
 }
 ```
 
@@ -33,4 +32,4 @@ You have create a basic IoT application, putting together sensor reading and HTT
 
 > Next step &rarr; [Conclusion](../#conclusion)
 
-> Or [go back to navigation menu](../#workshop)
+> Or [go back to navigation menu](../#agenda)

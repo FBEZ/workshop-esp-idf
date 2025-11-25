@@ -21,12 +21,8 @@ Per testare un POST, hai bisogno di un'app che ti permetta di inviare richieste 
 <details>
 <summary>Script python per POST</summary>
 
-* Apri un terminale ESP-IDF in VS Code: `ESP-IDF: Open ESP-IDF Terminal` 
-<!-- * Poi installa `requests`:
-    ```console
-    pip install requests
-    ``` -->
-* Crea lo script seguente per il testing:
+
+* Crea lo script `post_test.py` per il testing:
 
 ```python
 #!/usr/bin/env python3
@@ -70,6 +66,14 @@ if __name__ == "__main__":
     send_led_flash(payload)
 
 ```
+
+* Apri un terminale ESP-IDF in VS Code: `ESP-IDF: Open ESP-IDF Terminal` 
+<!-- * Poi installa `requests`:
+    ```console
+    pip install requests
+    ``` -->
+* Chiama lo script `python post_test.py`
+
 </details>
 
 ## Traccia della soluzione

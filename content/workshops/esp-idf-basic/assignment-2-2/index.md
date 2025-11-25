@@ -7,7 +7,7 @@ showAuthor: false
 summary: "Add additional routes to the HTTP server to drive the led remotely"
 ---
 
-The second assignment is to add the following routes to the HTTP server that we created in the previous assignment:
+The goal of the second assignment is to add the following routes to the HTTP server that we created in the previous assignment:
 
 
 - `GET /led/on` &rarr; turns the LED on and returns JSON {"led": "on"}
@@ -15,9 +15,11 @@ The second assignment is to add the following routes to the HTTP server that we 
 - `POST /led/blink` &rarr; accepts JSON `{ "times": int, "interval_ms": int }` to blink the LED the specified number of times at the given interval, and returns JSON `{"blink": "done"}`
 
 
-## Solution Outline
+## Solution outline
 
-To control the LED, you can use the code from exercise 1.2, included here for convenience.
+To control the LED, you can use the code from the [blink example](https://github.com/espressif/esp-idf/blob/master/examples/get-started/blink/main/blink_example_main.c), included here for convenience.
+
+### Boards with GPIO LED
 
 * Include the GPIO header
 
@@ -41,6 +43,55 @@ To control the LED, you can use the code from exercise 1.2, included here for co
    }
   ```
 
+
+### Boards with RGB LED
+
+* Add the `led_strip` component by creating the file `idf_component.yml` inside the `main` folder
+   ```bash
+   dependencies:
+        espressif/led_strip: "^3.0.0"
+   ```
+* Include the library 
+   ```c
+    #include "led_strip.h"
+   ````
+* Specify the pin to use (check your board!)
+
+  ```c
+   #define BLINK_GPIO 8
+  ```
+* Create the LED configuration function (to be called from `app_main`)
+   ```c
+
+        static void configure_led(void)
+        {
+            ESP_LOGI(TAG, "Example configured to blink addressable LED!");
+            /* LED strip initialization with the GPIO and pixels number*/
+            led_strip_config_t strip_config = {
+                .strip_gpio_num = BLINK_GPIO,
+                .max_leds = 1, // at least one LED on board
+            };
+
+            led_strip_rmt_config_t rmt_config = {
+                .resolution_hz = 10 * 1000 * 1000, // 10MHz
+                .flags.with_dma = false,
+            };
+            ESP_ERROR_CHECK(led_strip_new_rmt_device(&strip_config, &rmt_config, &led_strip));
+            led_strip_clear(led_strip);
+        }
+   ```
+* Turn the led on and off with the following commands
+   ```c
+        // LED ON 
+        led_strip_set_pixel(led_strip, 0, 16, 16, 16);
+        led_strip_refresh(led_strip);
+        // LED OFF
+        led_strip_clear(led_strip);
+   ```
+* Run a full clean before building again
+   ```bash
+   ESP-IDF: Full Clean Project
+   ```
 
 ## Assignment Code
 
@@ -194,6 +245,7 @@ void app_main(void)
 
 ```
 <details>
+
 ### Conclusion
 
 Now we have a clear picture of how to connect REST API requests to physical device control. You will work on a more complex application in the last assignment 3.3.
@@ -208,4 +260,4 @@ Otherwise, you can move to the third lecture.
 
 > Next lecture &rarr; [Lecture 3](../lecture-3/)
 
-> Or [go back to navigation menu](../#workshop)
+> Or [go back to navigation menu](../#agenda)
