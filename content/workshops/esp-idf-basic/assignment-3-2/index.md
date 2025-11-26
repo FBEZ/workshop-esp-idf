@@ -10,6 +10,7 @@ In this assignment, you will read the temperature values from the on-board senso
 
 
 __On board sensor__
+_e.g. Rust board_
 
 1. Find the part number of the sensor on your board
 2. Find the code for driving the sensor
@@ -20,6 +21,7 @@ It is not asked to develop the driver, focus on the fastest way to solve the pro
 {{< /alert >}}
 
 __On chip sensor__
+_e.g. DevkitC_
 
 1. Find the sensor api reference page
 2. Find how to include, initialize and configure the sensor
@@ -49,6 +51,25 @@ __On chip sensor__
 <summary>Show hint on chip sensor</summary>  
 
 * The information can be found on the [Programming guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/peripherals/temp_sensor.html#api-reference)
+* Configure the sensor
+
+  ```c
+      temperature_sensor_config_t temp_sensor = {
+          .range_min = -10, // Minimum measurable temperature
+          .range_max = 80,  // Maximum measurable temperature
+          .clk_src = TEMPERATURE_SENSOR_CLK_SRC_DEFAULT
+      };
+  ````
+* Install and enable it
+  ```c
+    // Install temperature sensor driver
+    temperature_sensor_install(&temp_sensor, &temp_handle);
+    temperature_sensor_enable(temp_handle);
+  ```
+* Read the temperature
+  ```c
+    temperature_sensor_get_celsius(temp_handle, &tsens_out)
+  ```
 
 </details>
 
