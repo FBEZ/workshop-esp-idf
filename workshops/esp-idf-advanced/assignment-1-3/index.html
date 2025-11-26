@@ -118,7 +118,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "428"
+    "wordCount": "441"
   }]
   </script>
 
@@ -892,7 +892,7 @@
       <ul>
         <li><a href="#create-production-version-guided">Create production version (guided)</a>
           <ul>
-            <li><a href="#changing-the-configuration-in-menuconfig">Changing the configuration in menuconfig</a></li>
+            <li><a href="#changing-the-configuration-in-menuconfig">Changing the configuration in <code>menuconfig</code></a></li>
             <li><a href="#create-sdkconfigprod-file">Create <code>sdkconfig.prod</code> file</a></li>
             <li><a href="#build-and-flash">Build and flash</a></li>
           </ul>
@@ -920,7 +920,7 @@
       <ul>
         <li><a href="#create-production-version-guided">Create production version (guided)</a>
           <ul>
-            <li><a href="#changing-the-configuration-in-menuconfig">Changing the configuration in menuconfig</a></li>
+            <li><a href="#changing-the-configuration-in-menuconfig">Changing the configuration in <code>menuconfig</code></a></li>
             <li><a href="#create-sdkconfigprod-file">Create <code>sdkconfig.prod</code> file</a></li>
             <li><a href="#build-and-flash">Build and flash</a></li>
           </ul>
@@ -1035,9 +1035,9 @@ The only difference between the two is the logging: Debug will display all logs,
 </h2>
 <p>We will:</p>
 <ol>
-<li>Create the production sdkconfig version (guided)</li>
+<li>Create the production <code>sdkconfig</code> version (guided)</li>
 <li>Create a profile file (guided)</li>
-<li>Create the debug sdkconfig version</li>
+<li>Create the debug <code>sdkconfig</code> version</li>
 </ol>
 
 <h3 class="relative group">Create production version (guided) 
@@ -1052,7 +1052,7 @@ The only difference between the two is the logging: Debug will display all logs,
 </h3>
 <p>To create the debug configuration, we first need to find the log configuration.</p>
 
-<h4 class="relative group">Changing the configuration in menuconfig 
+<h4 class="relative group">Changing the configuration in <code>menuconfig</code> 
     <div id="changing-the-configuration-in-menuconfig" class="anchor"></div>
     
     <span
@@ -1107,9 +1107,15 @@ The only difference between the two is the logging: Debug will display all logs,
     </span>        
     
 </h4>
-<p>To build the project use</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">idf.py -B build-production -DSDKCONFIG<span class="o">=</span>build-production/sdkconfig -DSDKCONFIG_DEFAULTS<span class="o">=</span><span class="s2">&#34;sdkconfig.defaults;sdkconfig.prod&#34;</span> build
-</span></span></code></pre></div><p>It will create a <code>build-production</code> folder for this version.</p>
+<p>To build the project,</p>
+<ul>
+<li>Open the ESP-IDF terminal: <code>&gt; ESP-IDF: Open ESP-IDF Terminal</code></li>
+<li>Run the following command<br>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">idf.py -B build-production -DSDKCONFIG<span class="o">=</span>build-production/sdkconfig 
+</span></span><span class="line"><span class="cl">-DSDKCONFIG_DEFAULTS<span class="o">=</span><span class="s2">&#34;sdkconfig.defaults;sdkconfig.prod&#34;</span> build
+</span></span></code></pre></div></li>
+</ul>
+<p>It will create a <code>build-production</code> folder for this version.</p>
 <p>To flash the project, you just need to specify the build folder, which already contains all the required information</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">idf.py -B build-debug -p &lt;YOUR_PORT&gt; flash monitor
 </span></span></code></pre></div>
@@ -1126,7 +1132,7 @@ The only difference between the two is the logging: Debug will display all logs,
 <p>To simplify the process we will create a <em>profile</em> file.</p>
 <ul>
 <li>Create a <code>profile</code> folder</li>
-<li>Create a <code>prod</code> file inside the folder</li>
+<li>Create a <code>prod</code> file inside the <code>profile</code> folder</li>
 <li>Add the CLI parameters<br>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">-B build-production -DSDKCONFIG<span class="o">=</span>build-production/sdkconfig -DSDKCONFIG_DEFAULTS<span class="o">=</span><span class="s2">&#34;sdkconfig.defaults;sdkconfig.prod&#34;</span>
 </span></span></code></pre></div></li>

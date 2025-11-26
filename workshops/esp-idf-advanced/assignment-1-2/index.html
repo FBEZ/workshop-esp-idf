@@ -118,7 +118,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "644"
+    "wordCount": "645"
   }]
   </script>
 
@@ -1052,7 +1052,7 @@
 </ul>
 </li>
 </ol>
-
+<p>
   
   
   
@@ -1088,8 +1088,7 @@
     >In <code>cloud_manager.h</code> you need to import just <code>esp_err.h</code></span>
 </div>
 
-<ol>
-<li>Fill <code>cloud_manager.c</code><br>
+2. Fill <code>cloud_manager.c</code><br></p>
 <ul>
 <li>Implement <code>cloud_manager_t</code> as: <br>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-c" data-lang="c"><span class="line"><span class="cl">  <span class="k">struct</span> <span class="kt">cloud_manager_t</span> <span class="p">{</span>
@@ -1100,7 +1099,7 @@
 <li>In <code>cloud_manager_create</code> just return the initialized object.</li>
 <li>In <code>cloud_manager_connect</code> initialize everything. You can use the function <code>example_connect</code>.</li>
 </ul>
-</li>
+<ol start="3">
 <li>Add the following to the <code>cloud_manager</code> component <code>CMakeList.txt</code><br>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"> PRIV_REQUIRES mqtt nvs_flash esp_netif protocol_examples_common
 </span></span></code></pre></div></li>

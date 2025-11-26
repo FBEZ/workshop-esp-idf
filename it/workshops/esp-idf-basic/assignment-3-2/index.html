@@ -118,7 +118,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "163"
+    "wordCount": "225"
   }]
   </script>
 
@@ -788,7 +788,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2025-11-12T00:00:00&#43;00:00">12 novembre 2025</time><span class="px-2 text-primary-500">&middot;</span><span title="Tempo di lettura">1 minuto</span><span class="px-2 text-primary-500">&middot;</span>
+  <time datetime="2025-11-12T00:00:00&#43;00:00">12 novembre 2025</time><span class="px-2 text-primary-500">&middot;</span><span title="Tempo di lettura">2 minuti</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/workshop-esp-idf/js/zen-mode.min.2a0a1375509c03daf41c53a9831aa2d560895b7a2528c3eb3b56e7b11a135c7529e49727162a053b6193be8340270a8342f42c69f3d7e262ae54bc248eaac8f5.js" integrity="sha512-KgoTdVCcA9r0HFOpgxqi1WCJW3olKMPrO1bnsRoTXHUp5JcnFioFO2GTvoNAJwqDQvQsafPX4mKuVLwkjqrI9Q=="></script>
@@ -978,13 +978,14 @@
         
 
         <div class="article-content max-w-prose mb-20">
-          <p>In questo esercizio leggerai i valori di umidità e temperatura dal sensore presente sulla scheda.</p>
+          <p>In questo esercizio leggerai i valori di temperatura dal sensore presente sulla scheda.</p>
 <p>Puoi creare un nuovo progetto a partire dall&rsquo;esempio <code>hello_world</code> o continuare sul codice dell&rsquo;esercizio precedente.</p>
-<p>Per questo esercizio, dovrai:</p>
+<p>A seconda della scheda che stai usando, segui una delle due tracce sotto.</p>
+<p><strong>Scheda con sensore a bordo</strong></p>
 <ol>
-<li>Individuare il part number del sensore sulla tua scheda</li>
-<li>Trovare il codice del driver per pilotare il sensore</li>
-<li>Leggere temperatura e umidità dal sensore e stamparle sulla porta seriale usando <code>printf</code>.</li>
+<li>Individua il part number del sensore sulla tua scheda</li>
+<li>Trova il codice del driver per pilotare il sensore</li>
+<li>Leggi temperatura (e umidità se disponibile) dal sensore e stamparle sulla porta seriale usando <code>printf</code>.</li>
 </ol>
 
   
@@ -1022,6 +1023,12 @@
     >Non è richiesto sviluppare il driver: concentrati sul modo più rapido per risolvere il problema e su quanto trattato nella lezione precedente.</span>
 </div>
 
+<p><strong>Scheda senza sensore a bordo</strong></p>
+<ol>
+<li>Trova la pagina di documentazione del sensore interno del chip</li>
+<li>Includi e configura il sensore interno.</li>
+<li>Leggi la temperatura interna del chip e stampa sulla porta seriale usando <code>printf</code>.</li>
+</ol>
 
 <h3 class="relative group">Suggerimento 
     <div id="suggerimento" class="anchor"></div>
@@ -1034,7 +1041,7 @@
     
 </h3>
 <details>
-<summary>Mostra suggerimento</summary>
+<summary>Mostra suggerimento sensore su scheda</summary>
 <ul>
 <li>L&rsquo;indirizzo è sulla pagina <a href="https://github.com/esp-rs/esp-rust-board" target="_blank">Github del EVK</a></li>
 <li>Per installare una dipendenza, apri un terminale ESP-IDF:<br>
@@ -1044,6 +1051,12 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-console" data-lang="console"><span class="line"><span class="cl"><span class="go">idf.py add-dependency &#34;nome_della_repo_nel_registry&#34;
 </span></span></span></code></pre></div></li>
 <li>Ricordati di modificare le impostazioni nel <code>menuconfig</code></li>
+</ul>
+</details>
+<details>  
+<summary>Mostra suggerimento sensore interno</summary>  
+<ul>
+<li>Le informazioni necessarie sono sulla <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/peripherals/temp_sensor.html#api-reference" target="_blank">Programming guide</a></li>
 </ul>
 </details>
 

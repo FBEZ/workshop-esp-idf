@@ -1067,7 +1067,7 @@
   <span
     
       class="dark:text-neutral-300"
-    >Among the folders in the repository, <code>assignment_1_1_base</code> and <code>assignment_3_2_base</code> contain the starter code for exercises 1.1 and 3.2, respectively. All other folders contain the solutions for the exercises.</span>
+    >Among the folders in the repository, <code>assignment_1_1_base</code> and <code>assignment_3_2_base</code> contain the starter code for assignments 1.1 and 3.2, respectively. All other folders contain the solutions for the exercises.</span>
 </div>
 </li>
 <li>Set the target: <code>&gt; ESP-IDF: Set Espressif Device Target</code></li>
@@ -1274,11 +1274,11 @@ A new <code>components/alarm</code> folder is crated.</p>
   <span
     
       class="dark:text-neutral-300"
-    >You didn&rsquo;t need to add <code>REQUIRES esp_timer</code> in the main component, because it automatically requires all other components in the build</span>
+    >You didn&rsquo;t need to add <code>REQUIRES esp_timer</code> in the main component, because it automatically &ldquo;REQUIRES&rdquo; all other components in the build</span>
 </div>
 
 <ol start="4">
-<li>Remove &ldquo;alarm.c&rdquo; from th <code>main/CMakeLists.txt</code><br>
+<li>Remove &ldquo;alarm.c&rdquo; from the <code>main/CMakeLists.txt</code><br>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-console" data-lang="console"><span class="line"><span class="cl"><span class="go">idf_component_register(SRCS &#34;app_main.c&#34;
 </span></span></span><span class="line"><span class="cl"><span class="go">                 INCLUDE_DIRS &#34;.&#34;)
 </span></span></span></code></pre></div></li>
