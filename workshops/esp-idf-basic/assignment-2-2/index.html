@@ -118,7 +118,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "673"
+    "wordCount": "1041"
   }]
   </script>
 
@@ -788,7 +788,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2025-08-05T00:00:00&#43;00:00">5 August 2025</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">4 mins</span><span class="px-2 text-primary-500">&middot;</span>
+  <time datetime="2025-08-05T00:00:00&#43;00:00">5 August 2025</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/workshop-esp-idf/js/zen-mode.min.2a0a1375509c03daf41c53a9831aa2d560895b7a2528c3eb3b56e7b11a135c7529e49727162a053b6193be8340270a8342f42c69f3d7e262ae54bc248eaac8f5.js" integrity="sha512-KgoTdVCcA9r0HFOpgxqi1WCJW3olKMPrO1bnsRoTXHUp5JcnFioFO2GTvoNAJwqDQvQsafPX4mKuVLwkjqrI9Q=="></script>
@@ -889,8 +889,8 @@
   <ul>
     <li><a href="#solution-outline">Solution outline</a>
       <ul>
-        <li><a href="#boards-with-gpio-led">Boards with GPIO LED</a></li>
-        <li><a href="#boards-with-rgb-led">Boards with RGB LED</a></li>
+        <li><a href="#boards-with-gpio-led-eg-rust-board">Boards with GPIO LED (.e.g RUST Board)</a></li>
+        <li><a href="#boards-with-rgb-led-eg-devkitc-board">Boards with RGB LED (e.g. DevkitC board)</a></li>
       </ul>
     </li>
     <li><a href="#assignment-code">Assignment Code</a>
@@ -914,8 +914,8 @@
   <ul>
     <li><a href="#solution-outline">Solution outline</a>
       <ul>
-        <li><a href="#boards-with-gpio-led">Boards with GPIO LED</a></li>
-        <li><a href="#boards-with-rgb-led">Boards with RGB LED</a></li>
+        <li><a href="#boards-with-gpio-led-eg-rust-board">Boards with GPIO LED (.e.g RUST Board)</a></li>
+        <li><a href="#boards-with-rgb-led-eg-devkitc-board">Boards with RGB LED (e.g. DevkitC board)</a></li>
       </ul>
     </li>
     <li><a href="#assignment-code">Assignment Code</a>
@@ -999,15 +999,15 @@
     </span>        
     
 </h2>
-<p>To control the LED, you can use the code from the <a href="https://github.com/espressif/esp-idf/blob/master/examples/get-started/blink/main/blink_example_main.c" target="_blank">blink example</a>, included here for convenience.</p>
+<p>To control the LED, you can use the code from the <a href="https://github.com/espressif/esp-idf/blob/master/examples/get-started/blink/main/blink_example_main.c" target="_blank">blink example</a>. Here the relevant snippets are displayed just for your convenience.</p>
 
-<h3 class="relative group">Boards with GPIO LED 
-    <div id="boards-with-gpio-led" class="anchor"></div>
+<h3 class="relative group">Boards with GPIO LED (.e.g RUST Board) 
+    <div id="boards-with-gpio-led-eg-rust-board" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#boards-with-gpio-led" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#boards-with-gpio-led-eg-rust-board" aria-label="Anchor">#</a>
     </span>        
     
 </h3>
@@ -1032,13 +1032,13 @@
 </span></span></code></pre></div></li>
 </ul>
 
-<h3 class="relative group">Boards with RGB LED 
-    <div id="boards-with-rgb-led" class="anchor"></div>
+<h3 class="relative group">Boards with RGB LED (e.g. DevkitC board) 
+    <div id="boards-with-rgb-led-eg-devkitc-board" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#boards-with-rgb-led" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#boards-with-rgb-led-eg-devkitc-board" aria-label="Anchor">#</a>
     </span>        
     
 </h3>
@@ -1101,7 +1101,7 @@
     
 </h2>
 <details>
-<summary>Show assignment code</summary>
+<summary>Show assignment code (GPIO LED)</summary>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-c" data-lang="c"><span class="line"><span class="cl"><span class="cp">#include</span> <span class="cpf">&lt;stdio.h&gt;</span><span class="cp">
 </span></span></span><span class="line"><span class="cl"><span class="cp">#define ESP_WIFI_SSID &#34;TEST_WORKSHOP&#34;
 </span></span></span><span class="line"><span class="cl"><span class="cp">#define ESP_WIFI_PASS &#34;test_esp&#34;
@@ -1245,7 +1245,171 @@
 </span></span><span class="line"><span class="cl">    <span class="nf">httpd_register_uri_handler</span><span class="p">(</span><span class="n">server</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">led_on_uri</span><span class="p">);</span>
 </span></span><span class="line"><span class="cl">    <span class="nf">httpd_register_uri_handler</span><span class="p">(</span><span class="n">server</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">led_off_uri</span><span class="p">);</span>
 </span></span><span class="line"><span class="cl"><span class="p">}</span>
-</span></span></code></pre></div><details>
+</span></span></code></pre></div></details>
+<details>
+<summary>Show assignment code (RGB LED)</summary>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-c" data-lang="c"><span class="line"><span class="cl"><span class="cp">#include</span> <span class="cpf">&lt;stdio.h&gt;</span><span class="cp">
+</span></span></span><span class="line"><span class="cl"><span class="cp">#define ESP_WIFI_SSID &#34;TEST_WORKSHOP&#34;
+</span></span></span><span class="line"><span class="cl"><span class="cp">#define ESP_WIFI_PASS &#34;test_esp&#34;
+</span></span></span><span class="line"><span class="cl"><span class="cp">#define ESP_WIFI_CHANNEL 1
+</span></span></span><span class="line"><span class="cl"><span class="cp">#define MAX_STA_CONN 2
+</span></span></span><span class="line"><span class="cl"><span class="cp">#include</span> <span class="cpf">&#34;esp_wifi.h&#34;</span><span class="cp">
+</span></span></span><span class="line"><span class="cl"><span class="cp">#include</span> <span class="cpf">&#34;string.h&#34;</span><span class="cp">
+</span></span></span><span class="line"><span class="cl"><span class="cp">#include</span> <span class="cpf">&#34;esp_log.h&#34;</span><span class="cp">
+</span></span></span><span class="line"><span class="cl"><span class="cp">#include</span> <span class="cpf">&#34;esp_http_server.h&#34;</span><span class="cp">
+</span></span></span><span class="line"><span class="cl"><span class="cp">#include</span> <span class="cpf">&#34;led_strip.h&#34;</span><span class="cp">
+</span></span></span><span class="line"><span class="cl"><span class="cp"></span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="cp">#define BLINK_GPIO 8 
+</span></span></span><span class="line"><span class="cl"><span class="cp"></span><span class="k">static</span> <span class="k">const</span> <span class="kt">char</span><span class="o">*</span> <span class="n">TAG</span> <span class="o">=</span> <span class="s">&#34;main&#34;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">static</span> <span class="kt">led_strip_handle_t</span> <span class="n">led_strip</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">static</span> <span class="kt">void</span> <span class="nf">configure_led</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="cm">/* LED strip initialization with the GPIO and pixels number*/</span>
+</span></span><span class="line"><span class="cl">    <span class="kt">led_strip_config_t</span> <span class="n">strip_config</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="p">.</span><span class="n">strip_gpio_num</span> <span class="o">=</span> <span class="n">BLINK_GPIO</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="p">.</span><span class="n">max_leds</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="c1">// at least one LED on board
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="p">};</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="kt">led_strip_rmt_config_t</span> <span class="n">rmt_config</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="p">.</span><span class="n">resolution_hz</span> <span class="o">=</span> <span class="mi">10</span> <span class="o">*</span> <span class="mi">1000</span> <span class="o">*</span> <span class="mi">1000</span><span class="p">,</span> <span class="c1">// 10MHz
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="p">.</span><span class="n">flags</span><span class="p">.</span><span class="n">with_dma</span> <span class="o">=</span> <span class="nb">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">};</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">ESP_ERROR_CHECK</span><span class="p">(</span><span class="nf">led_strip_new_rmt_device</span><span class="p">(</span><span class="o">&amp;</span><span class="n">strip_config</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">rmt_config</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">led_strip</span><span class="p">));</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">led_strip_clear</span><span class="p">(</span><span class="n">led_strip</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kt">void</span> <span class="nf">drive_led</span><span class="p">(</span><span class="kt">bool</span> <span class="n">level</span><span class="p">){</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span><span class="p">(</span><span class="n">level</span><span class="p">){</span>
+</span></span><span class="line"><span class="cl">         <span class="nf">led_strip_set_pixel</span><span class="p">(</span><span class="n">led_strip</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">16</span><span class="p">,</span> <span class="mi">16</span><span class="p">,</span> <span class="mi">16</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">     <span class="nf">led_strip_refresh</span><span class="p">(</span><span class="n">led_strip</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="p">}</span><span class="k">else</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">led_strip_clear</span><span class="p">(</span><span class="n">led_strip</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">static</span> <span class="kt">esp_err_t</span> <span class="nf">hello_get_handler</span><span class="p">(</span><span class="kt">httpd_req_t</span> <span class="o">*</span><span class="n">req</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">const</span> <span class="kt">char</span><span class="o">*</span> <span class="n">resp_str</span> <span class="o">=</span> <span class="s">&#34;&lt;h1&gt;Hello World&lt;/h1&gt;&#34;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">httpd_resp_send</span><span class="p">(</span><span class="n">req</span><span class="p">,</span> <span class="n">resp_str</span><span class="p">,</span> <span class="n">HTTPD_RESP_USE_STRLEN</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">ESP_OK</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">static</span> <span class="kt">esp_err_t</span> <span class="nf">led_on_handler</span><span class="p">(</span><span class="kt">httpd_req_t</span> <span class="o">*</span><span class="n">req</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">drive_led</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="k">const</span> <span class="kt">char</span><span class="o">*</span> <span class="n">resp_str</span> <span class="o">=</span> <span class="s">&#34;{</span><span class="se">\&#34;</span><span class="s">led</span><span class="se">\&#34;</span><span class="s">: </span><span class="se">\&#34;</span><span class="s">on</span><span class="se">\&#34;</span><span class="s">}&#34;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">httpd_resp_set_type</span><span class="p">(</span><span class="n">req</span><span class="p">,</span> <span class="s">&#34;application/json&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">httpd_resp_send</span><span class="p">(</span><span class="n">req</span><span class="p">,</span> <span class="n">resp_str</span><span class="p">,</span> <span class="n">HTTPD_RESP_USE_STRLEN</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">ESP_OK</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">static</span> <span class="kt">esp_err_t</span> <span class="nf">led_off_handler</span><span class="p">(</span><span class="kt">httpd_req_t</span> <span class="o">*</span><span class="n">req</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">drive_led</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="k">const</span> <span class="kt">char</span><span class="o">*</span> <span class="n">resp_str</span> <span class="o">=</span> <span class="s">&#34;{</span><span class="se">\&#34;</span><span class="s">led</span><span class="se">\&#34;</span><span class="s">: </span><span class="se">\&#34;</span><span class="s">off</span><span class="se">\&#34;</span><span class="s">}&#34;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">httpd_resp_set_type</span><span class="p">(</span><span class="n">req</span><span class="p">,</span> <span class="s">&#34;application/json&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">httpd_resp_send</span><span class="p">(</span><span class="n">req</span><span class="p">,</span> <span class="n">resp_str</span><span class="p">,</span> <span class="n">HTTPD_RESP_USE_STRLEN</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">ESP_OK</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">static</span> <span class="k">const</span> <span class="kt">httpd_uri_t</span> <span class="n">hello_world_uri</span><span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">uri</span>       <span class="o">=</span> <span class="s">&#34;/&#34;</span><span class="p">,</span>               
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">method</span>    <span class="o">=</span> <span class="n">HTTP_GET</span><span class="p">,</span>          
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">handler</span>   <span class="o">=</span> <span class="n">hello_get_handler</span><span class="p">,</span> 
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">user_ctx</span>  <span class="o">=</span> <span class="nb">NULL</span>               
+</span></span><span class="line"><span class="cl"><span class="p">};</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">static</span> <span class="k">const</span> <span class="kt">httpd_uri_t</span> <span class="n">led_on_uri</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">uri</span>       <span class="o">=</span> <span class="s">&#34;/led/on&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">method</span>    <span class="o">=</span> <span class="n">HTTP_GET</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">handler</span>   <span class="o">=</span> <span class="n">led_on_handler</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">user_ctx</span>  <span class="o">=</span> <span class="nb">NULL</span>
+</span></span><span class="line"><span class="cl"><span class="p">};</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">static</span> <span class="k">const</span> <span class="kt">httpd_uri_t</span> <span class="n">led_off_uri</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">uri</span>       <span class="o">=</span> <span class="s">&#34;/led/off&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">method</span>    <span class="o">=</span> <span class="n">HTTP_GET</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">handler</span>   <span class="o">=</span> <span class="n">led_off_handler</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="n">user_ctx</span>  <span class="o">=</span> <span class="nb">NULL</span>
+</span></span><span class="line"><span class="cl"><span class="p">};</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">static</span> <span class="kt">void</span> <span class="nf">wifi_event_handler</span><span class="p">(</span><span class="kt">void</span><span class="o">*</span> <span class="n">arg</span><span class="p">,</span> <span class="kt">esp_event_base_t</span> <span class="n">event_base</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                                  <span class="kt">int32_t</span> <span class="n">event_id</span><span class="p">,</span> <span class="kt">void</span><span class="o">*</span> <span class="n">event_data</span><span class="p">){</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">printf</span><span class="p">(</span><span class="s">&#34;Event n°: %ld!</span><span class="se">\n</span><span class="s">&#34;</span><span class="p">,</span> <span class="n">event_id</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kt">void</span> <span class="nf">wifi_init_softap</span><span class="p">(){</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">esp_netif_init</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">esp_event_loop_create_default</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">esp_netif_create_default_wifi_ap</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="kt">wifi_init_config_t</span> <span class="n">cfg</span> <span class="o">=</span> <span class="nf">WIFI_INIT_CONFIG_DEFAULT</span><span class="p">();</span> <span class="c1">// sempre iniziare da qui
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl">    <span class="nf">esp_wifi_init</span><span class="p">(</span><span class="o">&amp;</span><span class="n">cfg</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nf">esp_event_handler_instance_register</span><span class="p">(</span><span class="n">WIFI_EVENT</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                                        <span class="n">ESP_EVENT_ANY_ID</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                                        <span class="o">&amp;</span><span class="n">wifi_event_handler</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                                        <span class="nb">NULL</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                                        <span class="nb">NULL</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="kt">wifi_config_t</span> <span class="n">wifi_config</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="p">.</span><span class="n">ap</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="p">.</span><span class="n">ssid</span> <span class="o">=</span> <span class="n">ESP_WIFI_SSID</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="p">.</span><span class="n">ssid_len</span> <span class="o">=</span> <span class="nf">strlen</span><span class="p">(</span><span class="n">ESP_WIFI_SSID</span><span class="p">),</span>
+</span></span><span class="line"><span class="cl">            <span class="p">.</span><span class="n">channel</span> <span class="o">=</span> <span class="n">ESP_WIFI_CHANNEL</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="p">.</span><span class="n">password</span> <span class="o">=</span> <span class="n">ESP_WIFI_PASS</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="p">.</span><span class="n">max_connection</span> <span class="o">=</span> <span class="n">MAX_STA_CONN</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="p">.</span><span class="n">authmode</span> <span class="o">=</span> <span class="n">WIFI_AUTH_WPA2_PSK</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="p">.</span><span class="n">pmf_cfg</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">                <span class="p">.</span><span class="n">required</span> <span class="o">=</span> <span class="nb">true</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="p">},</span>
+</span></span><span class="line"><span class="cl">        <span class="p">},</span>
+</span></span><span class="line"><span class="cl">    <span class="p">};</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nf">esp_wifi_set_mode</span><span class="p">(</span><span class="n">WIFI_MODE_AP</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">esp_wifi_set_config</span><span class="p">(</span><span class="n">WIFI_IF_AP</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">wifi_config</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">esp_wifi_start</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nf">ESP_LOGI</span><span class="p">(</span><span class="n">TAG</span><span class="p">,</span> <span class="s">&#34;wifi_init_softap completed. SSID:%s password:%s channel:%d&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">             <span class="n">ESP_WIFI_SSID</span><span class="p">,</span> <span class="n">ESP_WIFI_PASS</span><span class="p">,</span> <span class="n">ESP_WIFI_CHANNEL</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kt">httpd_handle_t</span> <span class="nf">start_webserver</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="kt">httpd_handle_t</span> <span class="n">server</span> <span class="o">=</span> <span class="nb">NULL</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="kt">httpd_config_t</span> <span class="n">config</span> <span class="o">=</span> <span class="nf">HTTPD_DEFAULT_CONFIG</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="p">(</span><span class="nf">httpd_start</span><span class="p">(</span><span class="o">&amp;</span><span class="n">server</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">config</span><span class="p">)</span> <span class="o">==</span> <span class="n">ESP_OK</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">ESP_LOGI</span><span class="p">(</span><span class="n">TAG</span><span class="p">,</span> <span class="s">&#34;Server started successfully&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="k">return</span> <span class="n">server</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nf">ESP_LOGE</span><span class="p">(</span><span class="n">TAG</span><span class="p">,</span> <span class="s">&#34;Impossible to start the server&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="nb">NULL</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kt">void</span> <span class="nf">app_main</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">configure_led</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">wifi_init_softap</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="kt">httpd_handle_t</span> <span class="n">server</span> <span class="o">=</span> <span class="nf">start_webserver</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">httpd_register_uri_handler</span><span class="p">(</span><span class="n">server</span><span class="p">,</span><span class="o">&amp;</span><span class="n">hello_world_uri</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">httpd_register_uri_handler</span><span class="p">(</span><span class="n">server</span><span class="p">,</span><span class="o">&amp;</span><span class="n">hello_world_uri</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">httpd_register_uri_handler</span><span class="p">(</span><span class="n">server</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">led_on_uri</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">httpd_register_uri_handler</span><span class="p">(</span><span class="n">server</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">led_off_uri</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div></details>
 
 <h3 class="relative group">Conclusion 
     <div id="conclusion" class="anchor"></div>

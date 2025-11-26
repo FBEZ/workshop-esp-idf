@@ -118,7 +118,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "210"
+    "wordCount": "257"
   }]
   </script>
 
@@ -788,7 +788,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2025-08-05T00:00:00&#43;00:00">5 August 2025</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span><span class="px-2 text-primary-500">&middot;</span>
+  <time datetime="2025-08-05T00:00:00&#43;00:00">5 August 2025</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/workshop-esp-idf/js/zen-mode.min.2a0a1375509c03daf41c53a9831aa2d560895b7a2528c3eb3b56e7b11a135c7529e49727162a053b6193be8340270a8342f42c69f3d7e262ae54bc248eaac8f5.js" integrity="sha512-KgoTdVCcA9r0HFOpgxqi1WCJW3olKMPrO1bnsRoTXHUp5JcnFioFO2GTvoNAJwqDQvQsafPX4mKuVLwkjqrI9Q=="></script>
@@ -975,7 +975,8 @@
 
         <div class="article-content max-w-prose mb-20">
           <p>In this assignment, you will read the temperature values from the on-board sensor OR the on-chip sensor depending on your board.</p>
-<p><strong>On board sensor</strong></p>
+<p><strong>On board sensor</strong>
+<em>e.g. Rust board</em></p>
 <ol>
 <li>Find the part number of the sensor on your board</li>
 <li>Find the code for driving the sensor</li>
@@ -1017,7 +1018,8 @@
     >It is not asked to develop the driver, focus on the fastest way to solve the problem and what the previous lecture was about.</span>
 </div>
 
-<p><strong>On chip sensor</strong></p>
+<p><strong>On chip sensor</strong>
+<em>e.g. DevkitC</em></p>
 <ol>
 <li>Find the sensor api reference page</li>
 <li>Find how to include, initialize and configure the sensor</li>
@@ -1056,7 +1058,27 @@
 <details>  
 <summary>Show hint on chip sensor</summary>  
 <ul>
-<li>The information can be found on the <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/peripherals/temp_sensor.html#api-reference" target="_blank">Programming guide</a></li>
+<li>
+<p>The information can be found on the <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/peripherals/temp_sensor.html#api-reference" target="_blank">Programming guide</a></p>
+</li>
+<li>
+<p>Configure the sensor</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-c" data-lang="c"><span class="line"><span class="cl">    <span class="kt">temperature_sensor_config_t</span> <span class="n">temp_sensor</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="p">.</span><span class="n">range_min</span> <span class="o">=</span> <span class="o">-</span><span class="mi">10</span><span class="p">,</span> <span class="c1">// Minimum measurable temperature
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="p">.</span><span class="n">range_max</span> <span class="o">=</span> <span class="mi">80</span><span class="p">,</span>  <span class="c1">// Maximum measurable temperature
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="p">.</span><span class="n">clk_src</span> <span class="o">=</span> <span class="n">TEMPERATURE_SENSOR_CLK_SRC_DEFAULT</span>
+</span></span><span class="line"><span class="cl">    <span class="p">};</span>
+</span></span></code></pre></div></li>
+<li>
+<p>Install and enable it</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-c" data-lang="c"><span class="line"><span class="cl">  <span class="c1">// Install temperature sensor driver
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="nf">temperature_sensor_install</span><span class="p">(</span><span class="o">&amp;</span><span class="n">temp_sensor</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">temp_handle</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="nf">temperature_sensor_enable</span><span class="p">(</span><span class="n">temp_handle</span><span class="p">);</span>
+</span></span></code></pre></div></li>
+<li>
+<p>Read the temperature</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-c" data-lang="c"><span class="line"><span class="cl">  <span class="nf">temperature_sensor_get_celsius</span><span class="p">(</span><span class="n">temp_handle</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">tsens_out</span><span class="p">)</span>
+</span></span></code></pre></div></li>
 </ul>
 </details>
 
