@@ -39,7 +39,7 @@ Create a `cloud_manager` component with
 {{< alert icon="lightbulb" iconColor="#179299"  cardColor="#9cccce">}}
 In `cloud_manager.h` you need to import just `esp_err.h`
 {{< /alert >}}
-1. Fill `cloud_manager.c`<br>
+2. Fill `cloud_manager.c`<br>
    * Implement `cloud_manager_t` as: <br>
       ```c
         struct cloud_manager_t {
@@ -49,11 +49,11 @@ In `cloud_manager.h` you need to import just `esp_err.h`
       ```
    * In `cloud_manager_create` just return the initialized object.
    * In `cloud_manager_connect` initialize everything. You can use the function `example_connect`.
-2. Add the following to the `cloud_manager` component `CMakeList.txt`<br>
+3. Add the following to the `cloud_manager` component `CMakeList.txt`<br>
    ```bash
     PRIV_REQUIRES mqtt nvs_flash esp_netif protocol_examples_common
    ```
-3. In `app_main.c`<br>
+4. In `app_main.c`<br>
     * Initialize and connect to the `cloud_manager`
         ```c
         cloud_manager_t *cloud = cloud_manager_create();

@@ -41,15 +41,15 @@ The final project folder tree is
 
 We will:
 
-1. Create the production sdkconfig version (guided)
+1. Create the production `sdkconfig` version (guided)
 2. Create a profile file (guided)
-3. Create the debug sdkconfig version
+3. Create the debug `sdkconfig` version
 
 ### Create production version (guided)
 
 To create the debug configuration, we first need to find the log configuration.
 
-#### Changing the configuration in menuconfig
+#### Changing the configuration in `menuconfig`
 
 * `ESP-IDF: SDK Configuration Editor (menuconfig)`<br>
    * Search for `log`
@@ -74,11 +74,14 @@ CONFIG_BOOTLOADER_LOG_LEVEL_NONE=y
 
 #### Build and flash
 
-To build the project use
+To build the project,
 
-```bash
-idf.py -B build-production -DSDKCONFIG=build-production/sdkconfig -DSDKCONFIG_DEFAULTS="sdkconfig.defaults;sdkconfig.prod" build
-```
+* Open the ESP-IDF terminal: `> ESP-IDF: Open ESP-IDF Terminal`
+* Run the following command<br>
+   ```bash
+   idf.py -B build-production -DSDKCONFIG=build-production/sdkconfig 
+   -DSDKCONFIG_DEFAULTS="sdkconfig.defaults;sdkconfig.prod" build
+     ```
 
 It will create a `build-production` folder for this version.
 
@@ -93,7 +96,7 @@ idf.py -B build-debug -p <YOUR_PORT> flash monitor
 To simplify the process we will create a _profile_ file.
 
 * Create a `profile` folder
-* Create a `prod` file inside the folder
+* Create a `prod` file inside the `profile` folder
 * Add the CLI parameters<br>
    ```bash
    -B build-production -DSDKCONFIG=build-production/sdkconfig -DSDKCONFIG_DEFAULTS="sdkconfig.defaults;sdkconfig.prod"

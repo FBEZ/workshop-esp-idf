@@ -7,9 +7,9 @@ showAuthor: false
 summary: "Explore core dump -- guided"
 ---
 
-## Core dump
-
+{{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}
 For this assignment, you need to get the [assignment_3_2_base](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/assignment_3_2_base) project.
+{{< /alert >}}
 
 ## Assignment steps
 

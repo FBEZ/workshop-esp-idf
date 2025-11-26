@@ -38,7 +38,7 @@ To test that everything it's working, first you need to run the example.
 
 * Open the folder `assignment_1_1_base` with VSCode<br>
 {{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}
-Among the folders in the repository, `assignment_1_1_base` and `assignment_3_2_base` contain the starter code for exercises 1.1 and 3.2, respectively. All other folders contain the solutions for the exercises.
+Among the folders in the repository, `assignment_1_1_base` and `assignment_3_2_base` contain the starter code for assignments 1.1 and 3.2, respectively. All other folders contain the solutions for the exercises.
 {{< /alert >}}
 * Set the target: `> ESP-IDF: Set Espressif Device Target`
 * Select the port: `> ESP-IDF: Select Port to Use (COM, tty, usbserial)`
@@ -200,10 +200,10 @@ To create the alarm component, you need to
 
 
 {{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}
-You didn't need to add `REQUIRES esp_timer` in the main component, because it automatically requires all other components in the build 
+You didn't need to add `REQUIRES esp_timer` in the main component, because it automatically "REQUIRES" all other components in the build 
 {{< /alert >}}
 
-4. Remove "alarm.c" from th `main/CMakeLists.txt`<br>
+4. Remove "alarm.c" from the `main/CMakeLists.txt`<br>
    ```console
    idf_component_register(SRCS "app_main.c"
                     INCLUDE_DIRS ".")

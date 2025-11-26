@@ -7,9 +7,9 @@ showAuthor: false
 summary: "Analizzare il core dump (guidato)"
 ---
 
-## Core dump
-
+{{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}
 Per questo esercizio, devi partire dal progetto [assignment_3_2_base](https://github.com/espressif/developer-portal-codebase/tree/main/content/workshops/esp-idf-advanced/assignment_3_2_base).
+{{< /alert >}}
 
 ## Obiettivi dell'esercizio
 

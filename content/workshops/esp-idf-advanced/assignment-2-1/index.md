@@ -51,7 +51,7 @@ In the previous assignment code, we were already indirectly using this event loo
     } alarm_event_id_t;
     ```
 
-#### Create handler funcions
+#### Create handler functions
 
 We create the two event handler functions which do the actual job of posting the data on the MQTT channel.
 

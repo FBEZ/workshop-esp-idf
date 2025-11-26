@@ -24,29 +24,29 @@ The workshop is divided into four parts.
 * Part 1: **Components**
 
   * [Lesson 1](lecture-1/) – What a component is, how to create one, and how to support multiple hardware versions through BSPs and multiple configurations
-  * [Exercise 1.1](assignment-1-1/) – Refactor the code by creating the `alarm` component
-  * [Exercise 1.2](assignment-1-2/) – Refactor the code by creating the `cloud_manager` component
-  * [Exercise 1.3](assignment-1-3/) – Manage multiple configurations using `sdkconfig`
+  * [Assignment 1.1](assignment-1-1/) – Refactor the code by creating the `alarm` component
+  * [Assignment 1.2](assignment-1-2/) – Refactor the code by creating the `cloud_manager` component
+  * [Assignment 1.3](assignment-1-3/) – Manage multiple configurations using `sdkconfig`
 
 * Part 2: **Event Loop**
 
   * [Lesson 2](lecture-2/) – Basic information about event loops in ESP-IDF, using timer events, and separating responsibilities
-  * [Exercise 2.1](assignment-2-1/) – Refactor the code to use the event loop
-  * [Exercise 2.2](assignment-2-2/) – Add a GPIO event to the event loop
+  * [Assignment 2.1](assignment-2-1/) – Refactor the code to use the event loop
+  * [Assignment 2.2](assignment-2-2/) – Add a GPIO event to the event loop
 
 * Part 3: **Performance and Crash Analysis**
 
   * [Lesson 3](lecture-3/) – Size analysis and using core dumps for debugging
-  * [Exercise 3.1](assignment-3-1/) – Analyze the application size and suggest optimizations
-  * [Exercise 3.2](assignment-3-2/) – Analyze a crash using core dumps (guided)
-  * [Exercise 3.3](assignment-3-3/) – Analyze a crash using core dumps (optional)
+  * [Assignment 3.1](assignment-3-1/) – Analyze the application size and suggest optimizations
+  * [Assignment 3.2](assignment-3-2/) – Analyze a crash using core dumps (guided)
+  * [Assignment 3.3](assignment-3-3/) – Analyze a crash using core dumps (optional)
 
 * Part 4: **OTA and Security Features**
 
   * [Lesson 4](lecture-4/) – Fundamentals of OTA, partition table configuration, secure bootloader, and flash encryption
-  * [Exercise 4.1](assignment-4-1/) – Modify the partition table to support OTA
-  * [Exercise 4.2](assignment-4-2/) – Use a custom partition table
-  * [Exercise 4.3](assignment-4-3/) – Enable flash encryption
+  * [Assignment 4.1](assignment-4-1/) – Modify the partition table to support OTA
+  * [Assignment 4.2](assignment-4-2/) – Use a custom partition table
+  * [Assignment 4.3](assignment-4-3/) – Enable flash encryption
 
 ## Prerequisites
 
