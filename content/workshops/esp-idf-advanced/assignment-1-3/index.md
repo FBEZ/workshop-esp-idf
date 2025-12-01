@@ -137,7 +137,7 @@ CONFIG_LOG_DEFAULT_LEVEL_NONE=y
 CONFIG_BOOTLOADER_LOG_LEVEL_NONE=y
 ```
 
-__`skdconfig.prod`__
+__`skdconfig.debug`__
 ```bash
 CONFIG_LOG_DEFAULT_LEVEL_INFO=y
 ```
