@@ -14,6 +14,11 @@ Nel seguito useremo l'IDE open source [VS Code](https://code.visualstudio.com/) 
 
 Se non hai a disposizione una EVK Espressif, puoi comunque testare tutti i passi riportati in questa guida tranne l'ultimo. 
 
+{{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
+Il framework ESP-IDF può richiedere parecchie risorse. È consigliato utilizzare una macchina con processore Intel Core i7 (o equivalente) ed almeno 16GB di RAM. 
+{{< /alert >}}
+
+
 Per l'ultimo step, è necessario invece un EVK basato su un qualunque SoC Espressif. Durante il workshop verrà consegnata una scheda basata su `ESP32-C3`, la [`ESP32-C3-DevKit-RUST-1`](https://github.com/esp-rs/esp-rust-board?tab=readme-ov-file#rust-esp-board). 
 
 {{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}

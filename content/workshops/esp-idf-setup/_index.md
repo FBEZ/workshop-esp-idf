@@ -12,6 +12,10 @@ We’ll use the open-source IDE [VS Code](https://code.visualstudio.com/) and th
 
 If you don’t have an Espressif EVK available, you can still complete all the steps in this guide except the last one.
 
+{{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
+The ESP-IDF framework can be demanding on system resources. The minimum recommended specifications are an Intel Core i7 (or equivalent) processor and 16 GB of RAM.
+{{< /alert >}}
+
 For the final step, you’ll need an EVK based on any Espressif SoC. During the workshop, you’ll receive a board based on the `ESP32-C3`, the [`ESP32-C3-DevKit-RUST-1`](https://github.com/esp-rs/esp-rust-board?tab=readme-ov-file#rust-esp-board).
 
 {{< alert icon="circle-info" cardColor="#b3e0f2" iconColor="#04a5e5">}}
@@ -206,8 +210,6 @@ If your operating system doesn’t automatically detect the connected board, ref
 {{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
 On Windows, it may be necessary to install the drivers for the USB-UART Bridge (CP2101N). You can download the driver [here](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads). After downloading, unzip the file and follow the installation steps using the [Device Manager procedure](https://woshub.com/manually-install-driver-windows/).
 {{< /alert >}}
-
-
 
 ### Flash the Module and Start the Monitor
 
