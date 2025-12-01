@@ -188,6 +188,11 @@ Se il sistema operativo non rileva automaticamente la scheda connessa alla porta
 {{< /alert >}}
 
 
+{{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
+Su Windows potrebbe essere necessario installare i driver per il USB-UART Bridge (CP2101N). È possibile scaricare il driver [qui](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads). Dopo il download, decomprimere il file e seguire la procedura di installazione tramite il [Gestore dispositivi](https://woshub.com/manually-install-driver-windows/).
+{{< /alert >}}
+
+
 
 ### Programmare il modulo e far partire un monitor
 

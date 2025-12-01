@@ -203,6 +203,12 @@ If your operating system doesn’t automatically detect the connected board, ref
   {{< /alert >}}
 
 
+{{< alert iconColor="#df8e1d" cardColor="#edcea3">}}
+On Windows, it may be necessary to install the drivers for the USB-UART Bridge (CP2101N). You can download the driver [here](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads). After downloading, unzip the file and follow the installation steps using the [Device Manager procedure](https://woshub.com/manually-install-driver-windows/).
+{{< /alert >}}
+
+
+
 ### Flash the Module and Start the Monitor
 
 * Open the command palette and type:
